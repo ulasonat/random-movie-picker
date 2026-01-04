@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Random Movie Generator (Local)</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="backdrop" aria-hidden="true"></div>
+    <header class="hero">
+      <div class="eyebrow">Random Movie Generator</div>
+      <h1>Your private picks, stored only in this browser.</h1>
+      <p class="lead">
+        Cleaned and parsed from the original list, with unique picks saved only
+        on this device.
+      </p>
+      <div class="stats">
+        <div class="stat">
+          <span class="stat-label">Total movies</span>
+          <span class="stat-value" id="total-count">--</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Remaining</span>
+          <span class="stat-value" id="remaining-count">--</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel primary">
+        <div class="panel-head">
+          <div>
+            <h2>Now playing</h2>
+            <p class="panel-sub">
+              Each click picks a new movie that will not repeat until you clear
+              your local history.
+            </p>
+          </div>
+          <div class="actions">
+            <button class="btn primary" data-action="generate">Generate</button>
+            <button class="btn ghost" data-action="clear">Clear history</button>
+          </div>
+        </div>
+
+        <div class="movie-card" id="current-card">
+          <div class="movie-label">Most recent selection</div>
+          <h3 class="movie-title" id="movie-title">No movie selected yet</h3>
+          <div class="movie-sub" id="movie-sub">
+            Click Generate to pick a movie.
+          </div>
+          <div class="pill-row" id="movie-pills"></div>
+        </div>
+        <div class="status" id="status"></div>
+      </section>
+
+      <aside class="panel secondary">
+        <div class="panel-head">
+          <div>
+            <h2>History</h2>
+            <p class="panel-sub" id="history-count">0 selected</p>
+          </div>
+        </div>
+        <ul class="history" id="history-list"></ul>
+        <div class="empty-state" id="history-empty">
+          No movies selected yet.
+        </div>
+      </aside>
+    </main>
+
+    <script src="movies.js" defer></script>
+    <script src="local_app.js" defer></script>
+  </body>
+</html>

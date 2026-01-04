@@ -5,27 +5,34 @@ Supabase, and prevents repeats globally until you clear the history.
 
 ## Run
 
-Option 1 (recommended):
+Option 1 (local-only, recommended):
 
 ```
 make run
 ```
 
-Option 2 (manual):
+Option 2 (manual, local-only):
 
 ```
 python3 scripts/build_data.py
-open index.html
+open local.html
 ```
 
-You can also double click `index.html` after running the build step.
-If the browser blocks Supabase requests from `file://`, run a local server:
+You can also double click `local.html` after running the build step.
+If the browser blocks Supabase requests from `file://` (global UI), run a local server:
 
 ```
 python3 -m http.server 8000
 ```
 
 Then open `http://localhost:8000`.
+
+## Local vs Global
+
+- Local-only UI: `local.html` + `local_app.js` (your personal picks only).
+- Global/shared UI: `index.html` + `app.js` (all visitors share the same picks).
+
+Use `make run` for local-only, or `make run-global` to open the shared UI.
 
 ## Data
 
