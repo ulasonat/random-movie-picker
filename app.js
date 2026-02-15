@@ -4,11 +4,14 @@
 
   const SUPABASE_URL = "https://chusgjeewoyufqrdieuk.supabase.co";
   const SUPABASE_ANON_KEY = "sb_publishable_2J_q1q51tb_MW8_xGwcRtg_ejTPofx5";
+  const STORAGE_KEY = "random-movie-generator:local:v1";
 
   const supabaseClient =
     window.supabase && typeof window.supabase.createClient === "function"
       ? window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY)
       : null;
+
+  let useLocal = !supabaseClient;
 
   const elements = {
     totalCount: document.getElementById("total-count"),
@@ -33,6 +36,34 @@
   };
 
   let selectedIds = new Set();
+
+  /* ── localStorage helpers ── */
+
+  const loadLocal = () => {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return [];
+    try {
+      const parsed = JSON.parse(raw);
+      return Array.isArray(parsed.history) ? parsed.history : [];
+    } catch (_) {
+      return [];
+    }
+  };
+
+  const saveLocal = () => {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify({ history: state.history }));
+  };
+
+  const switchToLocal = () => {
+    useLocal = true;
+    const ids = loadLocal();
+    applyHistory(ids);
+    state.syncing = false;
+    state.lastError = null;
+    updateUI();
+  };
+
+  /* ── shared helpers ── */
 
   const createPill = (label, tone) => {
     const pill = document.createElement("span");
@@ -90,16 +121,17 @@
     selectedIds = new Set(cleaned);
   };
 
+  /* ── rendering ── */
+
   const updateCounts = () => {
     const total = movies.length;
     const remaining = total - selectedIds.size;
     elements.totalCount.textContent = total.toLocaleString();
     elements.remainingCount.textContent = remaining.toLocaleString();
     elements.historyCount.textContent = `${state.history.length} selected`;
-    elements.generateButton.disabled =
-      !supabaseClient || state.syncing || remaining === 0;
+    elements.generateButton.disabled = state.syncing || remaining === 0;
     elements.clearButton.disabled =
-      !supabaseClient || state.syncing || state.history.length === 0;
+      state.syncing || state.history.length === 0;
     return remaining;
   };
 
@@ -107,11 +139,6 @@
     if (!movies.length) {
       elements.status.textContent =
         "Movie data is missing. Run scripts/build_data.py.";
-      return;
-    }
-    if (!supabaseClient) {
-      elements.status.textContent =
-        "Supabase client not available. Check the script include.";
       return;
     }
     if (state.lastError) {
@@ -124,15 +151,15 @@
     }
     if (remaining === 0) {
       elements.status.textContent =
-        "All movies have been selected globally. Clear history to start over.";
+        "All movies have been selected. Clear history to start over.";
       return;
     }
     if (selectedIds.size === 0) {
       elements.status.textContent =
-        "No shared picks yet. Click Generate to pick the first movie.";
+        "Click Generate to pick a random movie from the list.";
       return;
     }
-    elements.status.textContent = `${remaining} movies left globally.`;
+    elements.status.textContent = `${remaining} movies left to pick.`;
   };
 
   const renderCurrent = (movie, isFresh) => {
@@ -224,6 +251,8 @@
     renderStatus(remaining);
   };
 
+  /* ── Supabase operations ── */
+
   const fetchHistory = async () => {
     const { data, error } = await supabaseClient
       .from("picks")
@@ -237,7 +266,7 @@
   };
 
   const syncHistory = async ({ silent = false } = {}) => {
-    if (!supabaseClient || state.syncing) {
+    if (useLocal || !supabaseClient || state.syncing) {
       return false;
     }
     state.syncing = true;
@@ -248,6 +277,10 @@
 
     const result = await fetchHistory();
     if (!result.ok) {
+      if (/failed to fetch/i.test(result.error?.message || "")) {
+        switchToLocal();
+        return false;
+      }
       if (!silent) {
         state.lastError = formatSupabaseError(result.error);
       }
@@ -262,7 +295,22 @@
     return true;
   };
 
-  const pickRandomMovie = async () => {
+  /* ── pick / clear (works in both modes) ── */
+
+  const pickRandomMovieLocal = () => {
+    const available = movies.filter((movie) => !selectedIds.has(movie.id));
+    if (!available.length) {
+      return;
+    }
+    const choice = available[secureRandomIndex(available.length)];
+    state.history.unshift(choice.id);
+    selectedIds.add(choice.id);
+    state.lastPickedId = choice.id;
+    saveLocal();
+    updateUI();
+  };
+
+  const pickRandomMovieSupabase = async () => {
     if (state.syncing || !supabaseClient) {
       return;
     }
@@ -272,6 +320,10 @@
 
     const latest = await fetchHistory();
     if (!latest.ok) {
+      if (/failed to fetch/i.test(latest.error?.message || "")) {
+        switchToLocal();
+        return;
+      }
       state.lastError = formatSupabaseError(latest.error);
       state.syncing = false;
       updateUI();
@@ -321,7 +373,31 @@
     updateUI();
   };
 
-  const clearHistory = async () => {
+  const pickRandomMovie = () => {
+    if (useLocal) {
+      pickRandomMovieLocal();
+    } else {
+      pickRandomMovieSupabase();
+    }
+  };
+
+  const clearHistoryLocal = () => {
+    if (!state.history.length) {
+      return;
+    }
+    const confirmed = window.confirm(
+      "Clear saved picks and allow all movies to be selected again?"
+    );
+    if (!confirmed) {
+      return;
+    }
+    state.history = [];
+    selectedIds = new Set();
+    saveLocal();
+    updateUI();
+  };
+
+  const clearHistorySupabase = async () => {
     if (state.syncing || !supabaseClient || !state.history.length) {
       return;
     }
@@ -356,28 +432,36 @@
     updateUI();
   };
 
+  const clearHistory = () => {
+    if (useLocal) {
+      clearHistoryLocal();
+    } else {
+      clearHistorySupabase();
+    }
+  };
+
   const startAutoRefresh = () => {
     window.setInterval(() => {
-      if (!state.syncing) {
+      if (!useLocal && !state.syncing) {
         syncHistory({ silent: true });
       }
     }, 20000);
   };
 
+  /* ── init ── */
+
   if (!movies.length) {
     state.lastError = "Movie data not found. Run scripts/build_data.py.";
-  } else if (!supabaseClient) {
-    state.lastError =
-      "Supabase client not available. Check the script include.";
   }
 
   elements.generateButton.addEventListener("click", pickRandomMovie);
   elements.clearButton.addEventListener("click", clearHistory);
 
-  updateUI();
-
-  if (supabaseClient) {
-    syncHistory();
-    startAutoRefresh();
+  if (useLocal) {
+    applyHistory(loadLocal());
+    updateUI();
+  } else {
+    updateUI();
+    syncHistory().then(() => startAutoRefresh());
   }
 })();
