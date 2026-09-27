@@ -1,0 +1,461 @@
+# Exclusion review — 26 September 2026
+
+Reviewed the original 2,655-title source. The active pool is now 2,206 films; 449 films are excluded. This pass adds 235 exclusions and recategorizes 69 already-excluded children’s films.
+
+These are editorial decisions using your narrow criteria, not blanket genre-tag filtering. The original source synopsis and any additional references are recorded in `exclusion_review.json`. Every source movie keeps its original ID. You can restore individual titles from the Excluded page.
+
+## Horror — 201 titles
+
+Exclude horror-led films, including supernatural, psychological, creature, slasher and body horror. Keep films whose primary experience is action, science fiction, crime investigation, drama or broad comedy even if they contain horror elements.
+
+- **1408 (2007)** — A haunted-room horror film; terror is the core premise.
+- **28 Days Later (2002)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **28 Weeks Later (2007)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **28 Years Later (2025)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **28 Years Later: The Bone Temple (2026)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **30 Days of Night (2007)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **A Nightmare on Elm Street (1984)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **A Nightmare on Elm Street 3: Dream Warriors (1987)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **A Quiet Place (2018)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **A Quiet Place Part II (2020)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Abigail (2024)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Alien (1979)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Alien: Romulus (2024)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **An American Werewolf in London (1981)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Angel Heart (1987)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Annabelle: Creation (2017)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Annihilation (2018)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Antichrist (2009)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Arachnophobia (1990)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Bad Taste (1987)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Barbarian (2022)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Better Watch Out (2016)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Bird Box (2018)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Black Christmas (1974)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Bone Tomahawk (2015)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Braindead (1992)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Bride of Frankenstein (1935)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Bring Her Back (2025)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Candyman (1992)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Carrie (1976)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Child's Play (1988)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Christine (1983)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Cloverfield (2008)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Companion (2025)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Creepshow (1982)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Crimson Peak (2015)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Cube (1997)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Dawn of the Dead (1978)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Dawn of the Dead (2004)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Day of the Dead (1985)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Dead Ringers (1988)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Death Proof (2007)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Doctor Sleep (2019)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Dog Soldiers (2002)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Don't Breathe (2016)** — Sustained home-invasion terror is the central experience.
+- **Don't Look Now (1973)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Dracula (1931)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Dracula (1992)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Drag Me to Hell (2009)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Eden Lake (2008)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Eraserhead (1977)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Event Horizon (1997)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Evil Dead (2013)** — Demonic-possession horror is the central experience.
+- **Evil Dead II (1987)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Evil Dead Rise (2023)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **eXistenZ (1999)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Fear Street: Part Three - 1666 (2021)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Fear Street: Part Two - 1978 (2021)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Final Destination (2000)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Final Destination: Bloodlines (2025)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Flatliners (1990)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Frailty (2001)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Frankenstein (1931)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Frankenstein (2025)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Freaks (1932)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Fresh (2022)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Fright Night (1985)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **From Dusk Till Dawn (1996)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Funny Games (2007)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Gerald's Game (2017)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Get Out (2017)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Ginger Snaps (2000)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Green Room (2015)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Grindhouse (2007)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Halloween (2018)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Halloween (1978)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Halloween II (1981)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Happy Death Day (2017)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Hellraiser (1987)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Hereditary (2018)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Heretic (2024)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Host (2020)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Hush (2016)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **In the Mouth of Madness (1994)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Insidious (2010)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Insidious: Chapter 2 (2013)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Invasion of the Body Snatchers (1956)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Invasion of the Body Snatchers (1978)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **It (2017)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **It Follows (2014)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **It: Chapter Two (2019)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Jacob's Ladder (1990)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Jaws (1975)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Joy Ride (2001)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Last Night in Soho (2021)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Late Night with the Devil (2023)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Let Me In (2010)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Life (2017)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Longlegs (2024)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Mandy (2018)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Midsommar (2019)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Misery (1990)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Mother! (2017)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Night of the Living Dead (1968)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Nope (2022)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Nosferatu (2024)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Oculus (2013)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Oddity (2024)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Orphan (2009)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Overlord (2018)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Pandorum (2009)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Pearl (2022)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Pet Sematary (1989)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Pitch Black (2000)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Planet Terror (2007)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Poltergeist (1982)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Possession (1981)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Possessor (2020)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Prince of Darkness (1987)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Prometheus (2012)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Psycho (1960)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Re-Animator (1985)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Ready or Not (2019)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Repulsion (1965)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Resident Evil (2002)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Rosemary's Baby (1968)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Saint Maud (2019)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Saw (2004)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Saw II (2005)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Saw X (2023)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Scanners (1981)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Scream (1996)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Silent Hill (2006)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Sinister (2012)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Sinners (2025)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Sleepy Hollow (1999)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Slither (2006)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Smile (2022)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Smile 2 (2024)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Speak No Evil (2022)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Speak No Evil (2024)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Split (2016)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Stir of Echoes (1999)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Suspiria (2018)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Talk to Me (2022)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Autopsy of Jane Doe (2016)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Awakening (2011)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Babadook (2014)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Birds (1963)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Black Phone (2021)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Blair Witch Project (1999)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Cabin in the Woods (2011)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Conjuring (2013)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Conjuring 2 (2016)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Craft (1996)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Crazies (2010)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Descent (2005)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Devil's Rejects (2005)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Endless (2017)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Evil Dead (1981)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Exorcism of Emily Rose (2005)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Exorcist (1973)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Faculty (1998)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Final Girls (2015)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The First Omen (2024)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Fly (1986)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Fog (1980)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Girl with All the Gifts (2016)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Hitcher (1986)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The House That Jack Built (2018)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Invisible Man (2020)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Invitation (2015)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Killing of a Sacred Deer (2017)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Last House on the Left (2009)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Lighthouse (2019)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Lost Boys (1987)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Menu (2022)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Mist (2007)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Omen (1976)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Others (2001)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Return of the Living Dead (1985)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Ring (2002)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Shining (1980)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Sixth Sense (1999)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Skeleton Key (2005)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Substance (2024)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Texas Chain Saw Massacre (1974)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Thing (1982)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Wicker Man (1973)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **The Witch (2015)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Together (2025)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Totally Killer (2023)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Triangle (2009)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Trick 'r Treat (2007)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Us (2019)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Videodrome (1983)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **Weapons (2025)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **What Ever Happened to Baby Jane? (1962)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **What Lies Beneath (2000)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **X (2022)** — Horror is a central genre and viewing experience, not an incidental scary element.
+- **You're Next (2011)** — Horror is a central genre and viewing experience, not an incidental scary element.
+
+## Abuse / victimization — 19 titles
+
+Exclude films focused on abuse, exploitation, systemic abuse accountability or survivor recovery. Keep broader war/history, crime, revenge, coming-of-age and ambition stories unless abuse is the central subject.
+
+- **Bombshell (2019)** — Workplace sexual harassment and women challenging it are the main subject.
+- **Casualties of War (1989)** — The story centers on a particular sexual-assault war crime and accountability, rather than combat.
+- **Detroit (2017)** — The story centers on an incident of police brutality and its victims.
+- **Dolores Claiborne (1995)** — Abuse, exploitation, or its impact on survivors is the central subject.
+- **Doubt (2008)** — Abuse, exploitation, or its impact on survivors is the central subject.
+- **Lolita (1997)** — The central relationship is the sexual exploitation of a minor.
+- **Lolita (1962)** — The central relationship is the sexual exploitation of a minor.
+- **Martha Marcy May Marlene (2011)** — Abuse, exploitation, or its impact on survivors is the central subject.
+- **Mysterious Skin (2004)** — Abuse, exploitation, or its impact on survivors is the central subject.
+- **Precious (2009)** — Abuse, exploitation, or its impact on survivors is the central subject.
+- **Promising Young Woman (2020)** — Abuse, exploitation, or its impact on survivors is the central subject.
+- **Room (2015)** — Abuse, exploitation, or its impact on survivors is the central subject.
+- **Short Term 12 (2013)** — Abuse, exploitation, or its impact on survivors is the central subject.
+- **Sound of Freedom (2023)** — Abuse, exploitation, or its impact on survivors is the central subject.
+- **Spotlight (2015)** — The investigation centers specifically on systemic child sexual abuse and its cover-up.
+- **The Color Purple (1985)** — Abuse, exploitation, or its impact on survivors is the central subject.
+- **The Last Duel (2021)** — Sexual assault and the treatment of the woman reporting it are the central dispute.
+- **This Boy's Life (1993)** — An abusive stepfather relationship is the central subject.
+- **Women Talking (2022)** — Abuse, exploitation, or its impact on survivors is the central subject.
+
+## Children / family — 84 titles
+
+Exclude films primarily pitched at young children, using Cars and Finding Nemo as explicit anchors. Keep broad adult/family adventures. Existing unrelated animation exclusions remain unchanged.
+
+- **A Goofy Movie (1995)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Alice in Wonderland (1951)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **All Dogs Go to Heaven (1989)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **An American Tail (1986)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Annie (1982)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Arthur Christmas (2011)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Balto (1995)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Bambi (1942)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Bolt (2008)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Brother Bear (2003)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Cars (2006)** — Young-child-oriented animation; explicitly named by you as an example.
+- **Cars 3 (2017)** — Children’s animation in the Cars franchise.
+- **Cinderella (1950)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **DC League of Super-Pets (2022)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Despicable Me (2010)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Despicable Me 2 (2013)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Dumbo (1941)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Ferdinand (2017)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Finding Dory (2016)** — Children’s animation in the Finding Nemo franchise.
+- **Finding Nemo (2003)** — Young-child-oriented animation; explicitly named by you as an example.
+- **Flight of the Navigator (1986)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Frozen (2013)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Frozen II (2019)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Home (2015)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Homeward Bound: The Incredible Journey (1993)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Horton Hears a Who! (2008)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Hotel Transylvania (2012)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Hotel Transylvania 2 (2015)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Ice Age (2002)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Ice Age: Continental Drift (2012)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Ice Age: Dawn of the Dinosaurs (2009)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Ice Age: The Meltdown (2006)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Lady and the Tramp (1955)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Lilo & Stitch (2025)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Lilo & Stitch (2002)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Madagascar (2005)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Madagascar 3: Europe's Most Wanted (2012)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Madagascar: Escape 2 Africa (2008)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Matilda (1996)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Meet the Robinsons (2007)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Minions: The Rise of Gru (2022)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Mr. Peabody & Sherman (2014)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Nanny McPhee (2005)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Oliver & Company (1988)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **One Hundred and One Dalmatians (1961)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Over the Hedge (2006)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Penguins of Madagascar (2014)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Pete's Dragon (2016)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Peter Pan (2003)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Peter Pan (1953)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Peter Rabbit (2018)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Pinocchio (1940)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Rio (2011)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Sing (2016)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Sing 2 (2021)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Sleeping Beauty (1959)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Snow White and the Seven Dwarfs (1937)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Sonic the Hedgehog (2020)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Sonic the Hedgehog 2 (2022)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Sonic the Hedgehog 3 (2024)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Storks (2016)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **Teenage Mutant Ninja Turtles (1990)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Aristocats (1970)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Christmas Chronicles (2018)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Croods (2013)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Croods: A New Age (2020)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Fox and the Hound (1981)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Good Dinosaur (2015)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Great Mouse Detective (1986)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Jungle Book (1967)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Land Before Time (1988)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Little Mermaid (2023)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Little Mermaid (1989)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Mighty Ducks (1992)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Peanuts Movie (2015)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Polar Express (2004)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Princess and the Frog (2009)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Rescuers (1977)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Rescuers Down Under (1990)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Secret Life of Pets (2016)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Spiderwick Chronicles (2008)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The SpongeBob SquarePants Movie (2004)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Super Mario Bros. Movie (2023)** — Primarily aimed at children: a child-centered story or children’s franchise.
+- **The Sword in the Stone (1963)** — Primarily aimed at children: a child-centered story or children’s franchise.
+
+## Borderline titles deliberately kept
+
+The historical/persecution boundary was left conservative: broader historical and war dramas remain eligible. Abuse-focused case studies can still be excluded even when historically set.
+
+- **10 Cloverfield Lane (2016)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **12 Years a Slave (2013)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **A Haunting in Venice (2023)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **A Time to Kill (1996)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Addams Family Values (1993)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Aliens (1986)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **American Psycho (2000)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Army of Darkness (1992)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Babe (1995)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Beasts of No Nation (2015)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Beau Is Afraid (2023)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Beetlejuice (1988)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Beetlejuice Beetlejuice (2024)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Black Snake Moan (2006)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Black Swan (2010)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Blade (1998)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Blade II (2002)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Bugonia (2025)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Charlie and the Chocolate Factory (2005)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Chitty Chitty Bang Bang (1968)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Constantine (2005)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Cruella (2021)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **E.T. the Extra-Terrestrial (1982)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Ghostbusters (1984)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Ghostbusters (2016)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Ghostbusters II (1989)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Ghostbusters: Afterlife (2021)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Gremlins (1984)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Gremlins 2: The New Batch (1990)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Harry Potter and the Chamber of Secrets (2002)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Harry Potter and the Deathly Hallows: Part 1 (2010)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Harry Potter and the Deathly Hallows: Part 2 (2011)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Harry Potter and the Goblet of Fire (2005)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Harry Potter and the Half-Blood Prince (2009)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Harry Potter and the Order of the Phoenix (2007)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Harry Potter and the Prisoner of Azkaban (2004)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Harry Potter and the Sorcerer's Stone (2001)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Home Alone (1990)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Home Alone 2: Lost in New York (1992)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Hook (1991)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Hotel Rwanda (2004)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Hugo (2011)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **I Am Legend (2007)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **I See You (2019)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **I'm Thinking of Ending Things (2020)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Instant Family (2018)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Interview with the Vampire (1994)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **It's What's Inside (2024)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Jumanji (1995)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Jumanji: The Next Level (2019)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Jumanji: Welcome to the Jungle (2017)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Little Shop of Horrors (1986)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Mary Poppins (1964)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Mary Poppins Returns (2018)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Mystic River (2003)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Notes on a Scandal (2006)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Only Lovers Left Alive (2013)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Paddington (2014)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Paddington 2 (2017)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Philomena (2013)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Predator (1987)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Prey (2022)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Run (2020)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Schindler's List (1993)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Secret Window (2004)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Send Help (2026)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Seven (1995)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Shaun of the Dead (2004)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Shutter Island (2010)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Sleepers (1996)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Summer of 84 (2018)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Sweeney Todd: The Demon Barber of Fleet Street (2007)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **The Addams Family (1991)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **The Boy in the Striped Pajamas (2008)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **The Chronicles of Narnia: Prince Caspian (2008)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **The Dead Zone (1983)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **The Devil's Advocate (1997)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **The Frighteners (1996)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **The Goonies (1985)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **The Gorge (2025)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **The Housemaid (2025)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **The Long Walk (2025)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **The Mauritanian (2021)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **The Mummy (1999)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **The Ninth Gate (1999)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **The Odd Life of Timothy Green (2012)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **The Parent Trap (1998)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **The Perks of Being a Wallflower (2012)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **The Pianist (2002)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **The Princess Bride (1987)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **The Report (2019)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **The Sandlot (1993)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **The Santa Clause (1994)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **The Shawshank Redemption (1994)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **The Silence of the Lambs (1991)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **The Terminator (1984)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **The World's End (2013)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Thirteen (2003)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **This Is the End (2013)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Three Billboards Outside Ebbing, Missouri (2017)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **To Kill a Mockingbird (1962)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Tremors (1990)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Tucker and Dale vs Evil (2010)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Unbroken (2014)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Underworld (2003)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Underworld: Evolution (2006)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Underworld: Rise of the Lycans (2009)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Warm Bodies (2013)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **We Need to Talk About Kevin (2011)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **What We Do in the Shadows (2014)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Where the Wild Things Are (2009)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Whiplash (2014)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Willy Wonka & the Chocolate Factory (1971)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **Wind River (2017)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Woman of the Hour (2023)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Wonka (2023)** — Broad adult/family appeal; not treated as primarily young-child entertainment.
+- **World War Z (2013)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **You Were Never Really Here (2017)** — Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization.
+- **Young Frankenstein (1974)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Zodiac (2007)** — Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion.
+- **Zombieland (2009)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+- **Zombieland: Double Tap (2019)** — Comedy, parody, or adventure leads; not excluded just for monsters or horror references.
+
+## Source spot-checks
+
+- [1408](https://en.wikipedia.org/wiki/1408_(film))
+- [Hereditary — A24](https://a24films.com/films/hereditary)
+- [The Killing of a Sacred Deer — A24](https://a24films.com/films/killing-of-a-sacred-deer)
+- [Room — A24](https://a24films.com/films/room)
+- [Cars — Disney](https://movies.disney.com/cars)
+- [Finding Nemo — Disney](https://movies.disney.com/finding-nemo)

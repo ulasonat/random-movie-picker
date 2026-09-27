@@ -1,0 +1,2207 @@
+id	title	year	runtime	certificate	metascore	imdb_rating	votes
+1	Kill the Messenger	2014	1h 52m	R		6.9	50K
+3	The Odd Life of Timothy Green	2012	1h 45m	PG		6.6	50K
+4	The Verdict	1982	2h 9m	R		7.7	50K
+5	Deconstructing Harry	1997	1h 36m	R		7.3	50K
+8	It's a Mad Mad Mad Mad World	1963	3h 30m	Approved		7.5	51K
+9	One Fine Day	1996	1h 48m	PG		6.5	51K
+10	The Company Men	2010	1h 44m	R		6.7	51K
+11	Miracle on 34th Street	1994	1h 54m	PG		6.7	51K
+12	A Hard Day's Night	1964	1h 27m	G		7.5	51K
+13	Saved!	2004	1h 32m	PG-13		6.7	51K
+14	It's What's Inside	2024	1h 43m	R		6.6	51K
+16	But I'm a Cheerleader	1999	1h 25m	R		6.9	51K
+17	Waitress	2007	1h 48m	PG-13		7.0	51K
+18	Clash of the Titans	1981	1h 58m	PG		6.9	51K
+19	Glory Road	2006	1h 58m	PG		7.2	51K
+20	Palmer	2021	1h 50m	R		7.3	51K
+21	Tolkien	2019	1h 52m	PG-13		6.8	51K
+22	Of Mice and Men	1992	1h 55m	PG-13		7.4	51K
+23	Swimming Pool	2003	1h 42m			6.7	51K
+25	Summer of 84	2018	1h 45m	Not Rated		6.7	51K
+26	Secrets & Lies	1996	2h 16m	R		8.0	51K
+27	The Lost Bus	2025	2h 10m	R		6.8	51K
+28	Starred Up	2013	1h 46m	Not Rated		7.3	51K
+29	Sleeping with Other People	2015	1h 41m	R		6.5	51K
+30	Far from Heaven	2002	1h 47m	PG-13		7.3	52K
+31	Ingrid Goes West	2017	1h 38m	R		6.6	52K
+33	East of Eden	1955	1h 58m	PG		7.8	52K
+35	The Boy Who Harnessed the Wind	2019	1h 53m	TV-PG		7.6	52K
+36	Withnail and I	1987	1h 47m	R		7.5	52K
+37	Fiddler on the Roof	1971	3h 1m	G		8.0	52K
+38	The Beaver	2011	1h 31m	PG-13		6.6	52K
+39	Heartbreak Ridge	1986	2h 10m	R		6.8	52K
+40	Dog	2022	1h 41m	PG-13		6.5	52K
+41	20th Century Women	2016	1h 59m	R		7.3	52K
+42	A Room with a View	1986	1h 57m	Not Rated		7.2	52K
+43	Nothing to Lose	1997	1h 38m	R		6.7	52K
+44	Sudden Impact	1983	1h 57m	R		6.6	52K
+45	Bad Lieutenant	1992	1h 36m	NC-17		7.0	52K
+46	11:14	2003	1h 26m	R		7.1	52K
+47	The Towering Inferno	1974	2h 45m	PG		7.0	52K
+48	Presumed Innocent	1990	2h 7m	R		6.9	53K
+49	Kinsey	2004	1h 58m	R		7.0	53K
+50	The Runaways	2010	1h 46m	R		6.5	53K
+51	The Old Man & the Gun	2018	1h 33m	PG-13		6.7	53K
+52	Last Night	2010	1h 33m	R		6.5	53K
+54	Guess Who's Coming to Dinner	1967	1h 48m	Approved		7.8	53K
+55	Hector and the Search for Happiness	2014	1h 54m	R		6.9	53K
+56	The Day of the Jackal	1973	2h 23m	PG		7.8	53K
+57	Think Like a Man	2012	2h 2m	PG-13		6.5	53K
+58	Rabbit Hole	2010	1h 31m	PG-13		6.9	53K
+59	American Animals	2018	1h 56m	R		7.0	53K
+60	Fair Game	2010	1h 48m	PG-13		6.8	53K
+61	Sleuth	1972	2h 18m	PG		7.9	53K
+62	Time Lapse	2014	1h 44m	Not Rated		6.5	53K
+64	The Enforcer	1976	1h 36m	R		6.7	53K
+66	Happiest Season	2020	1h 42m	PG-13		6.6	53K
+67	Frenzy	1972	1h 56m	R		7.4	53K
+68	Rachel Getting Married	2008	1h 53m	R		6.7	53K
+69	Varsity Blues	1999	1h 46m	R		6.6	53K
+72	Joe	2013	1h 57m	R		6.8	53K
+73	Imperium	2016	1h 49m	R		6.5	54K
+75	Better Off Dead	1985	1h 37m	PG		7.1	54K
+76	The Poseidon Adventure	1972	1h 57m	PG		7.1	54K
+77	Stronger	2017	1h 59m	R		6.9	54K
+78	The River Wild	1994	1h 51m	PG-13		6.5	54K
+79	Adventures in Babysitting	1987	1h 42m	PG-13		6.9	54K
+80	Operation Finale	2018	2h 2m	PG-13		6.6	54K
+81	The East	2013	1h 56m	PG-13		6.8	54K
+82	The Brothers Bloom	2008	1h 54m	PG-13		6.7	54K
+83	Pawn Sacrifice	2014	1h 55m	PG-13		7.0	54K
+84	Eternity	2025	1h 54m	PG-13		6.9	54K
+85	Silverado	1985	2h 13m	PG-13		7.2	54K
+86	Bubba Ho-Tep	2002	1h 32m	R		6.9	54K
+87	From Here to Eternity	1953	1h 58m	Approved		7.6	54K
+88	The Italian Job	1969	1h 39m	G		7.2	54K
+90	The Good Liar	2019	1h 49m	R		6.7	54K
+91	Black Dynamite	2009	1h 24m	R		7.4	54K
+92	Caddo Lake	2024	1h 43m	PG-13		6.8	54K
+93	Kill the Irishman	2011	1h 46m	R		7.0	55K
+95	American Splendor	2003	1h 41m	R		7.4	55K
+96	He Got Game	1998	2h 16m	R		6.9	55K
+97	Enemy Mine	1985	1h 48m	PG-13		6.9	55K
+98	The Professor and the Madman	2019	2h 4m	Not Rated		7.2	55K
+99	Chitty Chitty Bang Bang	1968	2h 24m	G		7.0	55K
+100	The Hand That Rocks the Cradle	1992	1h 50m	R		6.7	55K
+101	Pain Hustlers	2023	2h 3m	R		6.6	55K
+102	True Grit	1969	2h 8m	G		7.4	55K
+104	If Beale Street Could Talk	2018	1h 59m	R		7.1	55K
+105	Ladyhawke	1985	2h 1m	PG-13		6.9	55K
+106	No Way Out	1987	1h 54m	R		7.1	55K
+108	Don Juan DeMarco	1994	1h 37m	PG-13		6.7	55K
+109	The Roses	2025	1h 45m	R		6.6	55K
+110	Cassandra's Dream	2007	1h 48m	PG-13		6.6	55K
+113	The Man Who Would Be King	1975	2h 9m	PG		7.7	55K
+114	Much Ado About Nothing	1993	1h 51m	PG-13		7.3	56K
+116	The Rules of Attraction	2002	1h 50m	R		6.6	56K
+117	Soul Surfer	2011	1h 52m	PG		7.0	56K
+118	Hesher	2010	1h 46m	R		6.9	56K
+119	In the Heights	2021	2h 23m	PG-13		7.2	56K
+120	Laura	1944	1h 28m	Approved		7.9	56K
+121	Boiling Point	2021	1h 32m	R		7.5	56K
+122	Tristan + Isolde	2006	2h 5m	PG-13		6.8	56K
+124	Dressed to Kill	1980	1h 44m	R		7.0	56K
+125	Win Win	2011	1h 46m	R		7.1	56K
+126	Labor Day	2013	1h 51m	PG-13		6.9	56K
+127	Spellbound	1945	1h 51m	Approved		7.5	56K
+129	The Way Back	2020	1h 48m	R		6.7	57K
+130	Transsiberian	2008	1h 51m	R		6.6	57K
+131	French Kiss	1995	1h 51m	PG-13		6.6	57K
+132	The Report	2019	1h 59m	R		7.2	57K
+133	Away We Go	2009	1h 38m	R		7.0	57K
+134	To Catch a Killer	2023	1h 59m	R		6.6	57K
+136	The Meyerowitz Stories	2017	1h 52m	TV-MA		6.9	57K
+137	Veronica Mars	2014	1h 47m	PG-13		6.7	57K
+138	The Soloist	2009	1h 57m	PG-13		6.7	57K
+139	Sophie's Choice	1982	2h 30m	R		7.5	57K
+140	The Last Picture Show	1971	1h 58m	R		8.0	57K
+142	Cat on a Hot Tin Roof	1958	1h 48m	Approved		7.9	57K
+143	Hoosiers	1986	1h 54m	PG		7.4	57K
+144	The Great Outdoors	1988	1h 31m	PG		6.6	57K
+146	Forbidden Planet	1956	1h 38m	G		7.5	57K
+148	Starman	1984	1h 55m	PG		7.0	57K
+149	Eddington	2025	2h 28m	R		6.6	57K
+150	Can't Hardly Wait	1998	1h 40m	PG-13		6.5	57K
+151	Paper Moon	1973	1h 42m	PG		8.1	57K
+152	Reality Bites	1994	1h 39m	PG-13		6.6	57K
+154	Grumpy Old Men	1993	1h 43m	PG-13		7.0	57K
+155	Mudbound	2017	2h 14m	R		7.4	57K
+156	Far from the Madding Crowd	2015	1h 59m	PG-13		7.1	57K
+157	THX 1138	1971	1h 26m	GP		6.6	57K
+158	Da 5 Bloods	2020	2h 34m	R		6.5	57K
+159	U Turn	1997	2h 5m	R		6.7	57K
+160	The Natural	1984	2h 18m	PG		7.4	57K
+162	Marnie	1964	2h 10m	PG		7.1	58K
+163	Bottoms	2023	1h 31m	R		6.7	58K
+164	Arbitrage	2012	1h 47m	R		6.6	58K
+165	The Adventures of Robin Hood	1938	1h 42m	PG		7.9	58K
+166	The Guernsey Literary and Potato Peel Pie Society	2018	2h 4m	TV-14		7.3	58K
+167	The Proposition	2005	1h 44m	R		7.3	58K
+168	Bad Words	2013	1h 29m	R		6.7	58K
+169	Rent	2005	2h 15m	PG-13		6.8	58K
+170	Casanova	2005	1h 52m	R		6.5	58K
+171	White Christmas	1954	2h	Approved		7.6	58K
+172	Land of Bad	2024	1h 53m	R		6.6	58K
+173	Kelly's Heroes	1970	2h 24m	GP		7.6	58K
+174	Fly Me to the Moon	2024	2h 12m	PG-13		6.6	58K
+175	Judy	2019	1h 58m	PG-13		6.8	58K
+176	The Eyes of Tammy Faye	2021	2h 6m	PG-13		6.6	59K
+177	Down by Law	1986	1h 47m	R		7.6	59K
+178	My Blueberry Nights	2007	1h 35m	PG-13		6.6	59K
+179	Can You Ever Forgive Me?	2018	1h 46m	R		7.1	59K
+181	Stagecoach	1939	1h 36m	Approved		7.8	59K
+182	Parenthood	1989	2h 4m	PG-13		7.1	59K
+186	The Wind That Shakes the Barley	2006	2h 7m	Not Rated		7.5	59K
+189	Shine	1996	1h 45m	PG-13		7.6	59K
+190	To Die For	1995	1h 46m	R		6.8	59K
+191	History of the World: Part I	1981	1h 32m	R		6.8	59K
+192	Whiskey Tango Foxtrot	2016	1h 52m	R		6.6	59K
+193	Anthropoid	2016	2h	R		7.2	59K
+194	The Purple Rose of Cairo	1985	1h 22m	PG		7.6	59K
+195	Quills	2000	2h 4m	R		7.2	59K
+196	To the Bone	2017	1h 47m	TV-MA		6.7	59K
+197	The Witches	1990	1h 31m	PG		6.8	59K
+198	Wyatt Earp	1994	3h 11m	PG-13		6.7	59K
+199	Man Up	2015	1h 28m	R		6.8	59K
+200	Spirited	2022	2h 7m	PG-13		6.6	59K
+201	The Guns of Navarone	1961	2h 38m	Not Rated		7.5	60K
+203	Colonia	2015	1h 50m	R		7.0	60K
+205	Wristcutters: A Love Story	2006	1h 28m	R		7.2	60K
+206	Rendition	2007	2h 2m	R		6.8	60K
+207	The Adventures of Baron Munchausen	1988	2h 6m	PG		7.1	60K
+208	The First Wives Club	1996	1h 43m	PG		6.5	60K
+209	Boiler Room	2000	2h	R		7.0	60K
+210	Pieces of a Woman	2020	2h 6m	R		7.0	60K
+211	Great Expectations	1998	1h 51m	R		6.8	60K
+212	Dave	1993	1h 50m	PG-13		6.9	60K
+213	Under the Silver Lake	2018	2h 19m	R		6.5	60K
+214	The Dirt	2019	1h 47m	TV-MA		7.0	60K
+215	Official Secrets	2019	1h 52m	R		7.3	61K
+216	Hard Eight	1996	1h 41m	R		7.1	61K
+217	The Majestic	2001	2h 32m	PG		6.9	61K
+218	Naked Lunch	1991	1h 55m	R		6.9	61K
+219	Assault on Precinct 13	1976	1h 31m	R		7.3	61K
+220	Lords of Dogtown	2005	1h 47m	PG-13		7.1	61K
+221	Traitor	2008	1h 54m	PG-13		6.9	61K
+222	Life	1999	1h 48m	R		6.8	61K
+223	Harvey	1950	1h 44m	Approved		7.9	61K
+224	Hillbilly Elegy	2020	1h 56m	R		6.7	61K
+225	Miracle on 34th Street	1947	1h 36m	Approved		7.9	61K
+226	2010: The Year We Make Contact	1984	1h 56m	PG		6.7	61K
+227	Wicker Park	2004	1h 54m	PG-13		6.9	61K
+228	Ladder 49	2004	1h 55m	PG-13		6.5	61K
+230	Dangerous Minds	1995	1h 39m	R		6.5	61K
+233	Fletch	1985	1h 38m	PG		6.9	61K
+234	The Lady Vanishes	1938	1h 36m	Approved		7.7	61K
+235	Everything Is Illuminated	2005	1h 46m	PG-13		7.4	61K
+236	Stalag 17	1953	2h	Approved		7.9	61K
+238	The Pink Panther	1963	1h 55m	Approved		7.0	62K
+239	Frantic	1988	2h	R		6.8	62K
+240	The Order	2024	1h 56m	R		6.8	62K
+241	Macbeth	2015	1h 53m	R		6.6	62K
+243	Ordinary People	1980	2h 4m	R		7.7	62K
+244	Odd Thomas	2013	1h 37m	PG-13		6.8	62K
+245	Dragged Across Concrete	2018	2h 39m	R		6.9	62K
+247	Togo	2019	1h 53m	PG		7.9	62K
+248	The Lookout	2007	1h 39m	R		6.9	62K
+249	Revenge of the Nerds	1984	1h 30m	R		6.6	62K
+250	The Legend of Bagger Vance	2000	2h 6m	PG-13		6.7	62K
+251	Florence Foster Jenkins	2016	1h 51m	PG-13		6.8	62K
+252	The Art of Getting By	2011	1h 23m	PG-13		6.5	62K
+253	Smokey and the Bandit	1977	1h 36m	PG		7.0	62K
+254	Kalifornia	1993	1h 57m	R		6.7	62K
+255	Last Tango in Paris	1972	2h 9m	NC-17		6.8	62K
+257	Dumb Money	2023	1h 45m	R		6.8	63K
+258	The Longest Day	1962	2h 59m	G		7.7	63K
+259	The War of the Roses	1989	1h 56m	R		6.9	63K
+261	The Gods Must Be Crazy	1980	1h 49m	PG		7.3	63K
+262	Dead Man's Shoes	2004	1h 30m	Not Rated		7.5	63K
+263	The Light Between Oceans	2016	2h 13m	PG-13		7.2	63K
+264	Fanboys	2009	1h 30m	PG-13		6.5	63K
+265	Crimes and Misdemeanors	1989	1h 44m	PG-13		7.8	63K
+266	Arctic	2018	1h 38m	PG-13		6.8	63K
+267	Animal Kingdom	2010	1h 53m	R		7.2	63K
+269	The Crying Game	1992	1h 52m	R		7.2	63K
+270	See No Evil, Hear No Evil	1989	1h 43m	R		6.8	63K
+272	I'm Not There	2007	2h 15m	R		6.8	63K
+273	Courage Under Fire	1996	1h 56m	R		6.6	63K
+274	Battle of the Sexes	2017	2h 1m	PG-13		6.7	64K
+275	The Killing Fields	1984	2h 21m	R		7.8	64K
+276	Pee-wee's Big Adventure	1985	1h 31m	PG		7.1	64K
+278	The Ice Storm	1997	1h 52m	R		7.3	64K
+279	Wet Hot American Summer	2001	1h 37m	R		6.5	64K
+280	Love Lies Bleeding	2024	1h 44m	R		6.6	64K
+281	Wicked: For Good	2025	2h 17m	PG		6.6	64K
+282	The World's Fastest Indian	2005	2h 7m	PG-13		7.8	64K
+283	Stillwater	2021	2h 19m	R		6.6	64K
+284	Breach	2007	1h 50m	PG-13		7.0	64K
+285	Bull Durham	1988	1h 48m	R		7.0	64K
+286	The Call of the Wild	2020	1h 40m	PG		6.7	64K
+289	Everybody Wants Some!!	2016	1h 57m	R		6.9	64K
+290	In the Loop	2009	1h 46m	Not Rated		7.4	64K
+292	Sex, Lies, and Videotape	1989	1h 40m	R		7.2	64K
+294	Black Rain	1989	2h 5m	R		6.6	64K
+295	Peaky Blinders: The Immortal Man	2026	1h 52m	R		6.6	64K
+296	Miracle	2004	2h 15m	PG		7.5	65K
+298	Like Crazy	2011	1h 26m	PG-13		6.6	65K
+300	Stonehearst Asylum	2014	1h 52m	PG-13		6.8	65K
+302	'71	2014	1h 39m	R		7.2	65K
+303	The Producers	1967	1h 28m	PG		7.5	65K
+305	Absolute Power	1997	2h 1m	R		6.7	65K
+306	Mousehunt	1997	1h 38m	PG		6.5	65K
+308	Under the Tuscan Sun	2003	1h 53m	PG-13		6.8	65K
+310	Executive Decision	1996	2h 13m	R		6.5	65K
+311	The American President	1995	1h 54m	PG-13		6.9	65K
+312	Benny & Joon	1993	1h 38m	PG		7.1	65K
+313	Duck Soup	1933	1h 9m	Approved		7.7	65K
+314	The Devil's Double	2011	1h 49m	R		7.0	65K
+315	Logan's Run	1976	1h 59m	PG		6.8	65K
+316	Chaplin	1992	2h 23m	PG-13		7.5	65K
+317	Pride and Glory	2008	2h 10m	R		6.6	66K
+318	The Rocketeer	1991	1h 48m	PG		6.6	66K
+319	Adrift	2018	1h 36m	PG-13		6.6	66K
+320	Woman in Gold	2015	1h 49m	PG-13		7.3	66K
+321	The 39 Steps	1935	1h 26m	Approved		7.6	66K
+322	Motherless Brooklyn	2019	2h 24m	R		6.8	66K
+323	The Brave One	2007	2h 2m	R		6.7	66K
+324	Flash Gordon	1980	1h 51m	PG		6.5	66K
+325	Tully	2018	1h 35m	R		6.9	66K
+326	The Great Debaters	2007	2h 6m	PG-13		7.5	66K
+327	Always Be My Maybe	2019	1h 41m	PG-13		6.7	66K
+328	Thirteen Days	2000	2h 25m	PG-13		7.3	67K
+330	The Man Who Knew Infinity	2015	1h 48m	PG-13		7.2	67K
+331	The Life of Chuck	2024	1h 51m	R		7.3	67K
+332	Bound	1996	1h 49m	R		7.3	67K
+334	Secondhand Lions	2003	1h 49m	PG		7.5	67K
+335	Perfect Sense	2011	1h 32m	R		7.0	67K
+336	Emily the Criminal	2022	1h 37m	R		6.7	67K
+337	Westworld	1973	1h 28m	PG		6.9	67K
+338	Bernie	2011	1h 44m	PG-13		6.8	67K
+339	Robot & Frank	2012	1h 29m	PG-13		7.0	67K
+340	The Phoenician Scheme	2025	1h 41m	PG-13		6.6	67K
+341	An Officer and a Gentleman	1982	2h 4m	R		7.1	67K
+342	First Reformed	2017	1h 53m	R		7.1	67K
+343	Everybody's Fine	2009	1h 39m	PG-13		7.1	67K
+345	A Bridge Too Far	1977	2h 55m	PG		7.4	67K
+347	Buffalo '66	1998	1h 50m	R		7.4	67K
+348	I Don't Feel at Home in This World Anymore	2017	1h 33m	TV-MA		6.9	68K
+349	I Heart Huckabees	2004	1h 47m	R		6.5	68K
+350	City Slickers	1991	1h 53m	PG-13		6.8	68K
+351	Send Help	2026	1h 53m	R		6.9	68K
+352	In Her Shoes	2005	2h 10m	PG-13		6.5	68K
+353	Where Eagles Dare	1968	2h 38m	M		7.6	68K
+354	Working Girl	1988	1h 53m	R		6.8	68K
+355	Don't Be a Menace to South Central While Drinking Your Juice in the Hood	1996	1h 29m	R		6.6	68K
+356	We Are Marshall	2006	2h 11m	PG		7.1	68K
+357	Calvary	2014	1h 42m	R		7.4	68K
+358	His Girl Friday	1940	1h 32m	Approved		7.8	68K
+359	Appaloosa	2008	1h 55m	R		6.7	68K
+361	The Last Temptation of Christ	1988	2h 44m	R		7.5	68K
+363	Sneakers	1992	2h 6m	PG-13		7.1	68K
+364	Dolemite Is My Name	2019	1h 58m	R		7.2	68K
+365	Free State of Jones	2016	2h 19m	R		6.9	68K
+366	Becoming Jane	2007	2h	PG		7.0	68K
+367	Straw Dogs	1971	1h 53m	R		7.4	68K
+368	Charlie Bartlett	2007	1h 37m	R		6.9	68K
+369	The Sisterhood of the Traveling Pants	2005	1h 59m	PG		6.5	68K
+370	I, Daniel Blake	2016	1h 40m	R		7.8	68K
+371	Fish Tank	2009	2h 3m	Not Rated		7.3	68K
+373	The Jerk	1979	1h 34m	R		7.1	68K
+374	Strange Darling	2023	1h 37m	R		7.0	68K
+375	Goal! The Dream Begins	2005	1h 58m	PG		6.7	69K
+377	Cry-Baby	1990	1h 25m	PG-13		6.5	69K
+378	Alive	1993	2h 8m	R		7.1	69K
+379	Days of Heaven	1978	1h 34m	PG		7.7	69K
+380	Steel Magnolias	1989	1h 57m	PG		7.3	69K
+381	Before We Go	2014	1h 35m	PG-13		6.8	69K
+382	Brooklyn's Finest	2009	2h 12m	R		6.7	69K
+383	Black Snake Moan	2006	1h 56m	R		6.9	69K
+384	Inland Empire	2006	3h	R		6.8	69K
+386	Salmon Fishing in the Yemen	2011	1h 47m	PG-13		6.8	69K
+387	Wonder Boys	2000	1h 47m	R		7.2	69K
+388	Little Women	1994	1h 55m	PG		7.3	69K
+389	The Right Stuff	1983	3h 13m	PG		7.8	69K
+390	BASEketball	1998	1h 43m	R		6.5	69K
+391	The Young Victoria	2009	1h 45m	PG		7.2	69K
+392	BlackBerry	2023	2h	R		7.3	69K
+393	Penelope	2006	1h 44m	PG		6.7	69K
+394	Mowgli: Legend of the Jungle	2018	1h 44m	PG-13		6.5	69K
+395	Breakdown	1997	1h 33m	R		7.0	69K
+396	Maestro	2023	2h 9m	R		6.5	69K
+399	Kiss of the Dragon	2001	1h 38m	R		6.6	70K
+400	Innerspace	1987	2h	PG		6.8	70K
+401	The Informant!	2009	1h 48m	R		6.5	70K
+402	The Upside	2017	2h 6m	PG-13		7.1	70K
+403	Roofman	2025	2h 6m	R		6.9	70K
+404	Menace II Society	1993	1h 37m	R		7.5	70K
+405	Three Days of the Condor	1975	1h 57m	R		7.4	70K
+406	Enough Said	2013	1h 33m	PG-13		7.0	70K
+407	Leave No Trace	2018	1h 49m	PG		7.1	70K
+408	Empire Records	1995	1h 30m	PG-13		6.7	70K
+409	Mr. Holmes	2015	1h 44m	PG		6.8	70K
+410	Terms of Endearment	1983	2h 12m	PG		7.4	70K
+411	Bringing Up Baby	1938	1h 42m	Approved		7.8	70K
+412	Jungle	2017	1h 55m	R		6.7	70K
+413	The Ghost and the Darkness	1996	1h 50m	R		6.8	70K
+414	Short Circuit	1986	1h 38m	PG		6.6	70K
+415	Irrational Man	2015	1h 35m	R		6.6	70K
+416	Pale Rider	1985	1h 55m	R		7.3	71K
+417	Friday Night Lights	2004	1h 58m	PG-13		7.2	71K
+418	The Dressmaker	2015	1h 59m	R		7.0	71K
+419	Shallow Grave	1994	1h 29m	R		7.2	71K
+420	Harsh Times	2005	1h 56m	R		6.8	71K
+421	The Mission	1986	2h 5m	PG		7.4	71K
+422	Coffee and Cigarettes	2003	1h 35m	R		7.0	71K
+423	Chariots of Fire	1981	2h 5m	PG		7.1	71K
+424	A River Runs Through It	1992	2h 3m	PG		7.2	71K
+427	Half Baked	1998	1h 22m	R		6.6	71K
+428	Heavenly Creatures	1994	1h 39m	R		7.2	71K
+429	Night on Earth	1991	2h 9m	R		7.7	71K
+431	Purple Hearts	2022	2h 2m	TV-14		6.7	71K
+432	Downton Abbey	2019	2h 2m	PG		7.4	71K
+433	Machine Gun Preacher	2011	2h 9m	R		6.7	71K
+434	Run Fatboy Run	2007	1h 40m	PG-13		6.5	71K
+435	Out of Time	2003	1h 45m	PG-13		6.5	71K
+437	Emma.	2020	2h 4m	PG		6.7	71K
+438	Missing	2023	1h 51m	PG-13		7.1	71K
+439	Control	2007	2h 2m	R		7.6	72K
+440	Magnum Force	1973	2h 4m	R		7.2	72K
+441	We Live in Time	2024	1h 48m	R		7.0	72K
+442	Eight Below	2006	2h	PG		7.3	72K
+443	Alpha	2018	1h 36m	PG-13		6.6	72K
+445	The Mauritanian	2021	2h 9m	R		7.5	72K
+447	All Quiet on the Western Front	1930	2h 32m	Approved		8.1	72K
+448	The Player	1992	2h 4m	R		7.5	72K
+449	Trouble with the Curve	2012	1h 51m	PG-13		6.8	72K
+450	K-19: The Widowmaker	2002	2h 18m	PG-13		6.7	72K
+452	Three Thousand Years of Longing	2022	1h 48m	R		6.7	72K
+453	Whip It	2009	1h 51m	PG-13		6.9	72K
+454	Blow-Up	1966	1h 51m	Not Rated		7.4	72K
+455	Far and Away	1992	2h 20m	PG-13		6.6	73K
+456	The Apprentice	2024	2h 2m	R		7.1	73K
+457	May December	2023	1h 57m	R		6.7	73K
+458	High Plains Drifter	1973	1h 45m	R		7.4	73K
+459	Draft Day	2014	1h 50m	PG-13		6.8	73K
+460	Excalibur	1981	2h 20m	PG		7.3	73K
+461	Cocoon	1985	1h 57m	PG-13		6.7	73K
+462	Bones and All	2022	2h 11m	R		6.8	73K
+463	Rio Bravo	1959	2h 21m	Approved		7.9	73K
+464	A Lot Like Love	2005	1h 47m	PG-13		6.6	73K
+465	The Legend of 1900	1998	2h 49m	R		8.0	73K
+466	Magic in the Moonlight	2014	1h 37m	PG-13		6.5	74K
+467	See How They Run	2022	1h 38m	PG-13		6.5	74K
+469	Young Guns	1988	1h 47m	R		6.8	74K
+470	The Debt	2010	1h 53m	R		6.8	74K
+471	Time Bandits	1981	1h 50m	PG		6.9	74K
+472	Popstar: Never Stop Never Stopping	2016	1h 27m	R		6.7	74K
+473	Gold	2016	2h	R		6.7	74K
+474	Woman of the Hour	2023	1h 35m	R		6.6	74K
+476	Bandits	2001	2h 3m	PG-13		6.5	74K
+477	The Replacements	2000	1h 58m	PG-13		6.6	74K
+478	Rudy	1993	1h 54m	PG		7.5	74K
+479	God Bless America	2011	1h 45m	R		7.1	74K
+480	Murder on the Orient Express	1974	2h 8m	PG		7.2	74K
+481	The Finest Hours	2016	1h 57m	PG-13		6.7	75K
+482	The Age of Innocence	1993	2h 19m	PG		7.2	75K
+484	Soylent Green	1973	1h 37m	PG		7.0	75K
+485	Set It Up	2018	1h 45m	TV-14		6.5	75K
+486	Shadow of a Doubt	1943	1h 48m	PG		7.8	75K
+487	Best in Show	2000	1h 30m	PG-13		7.5	75K
+488	The Sisters Brothers	2018	2h 2m	R		6.9	75K
+489	Marathon Man	1976	2h 5m	R		7.4	75K
+491	The First Time	2012	1h 35m	PG-13		6.8	76K
+492	Blow Out	1981	1h 48m	R		7.4	76K
+493	Sliding Doors	1998	1h 39m	PG-13		6.7	76K
+494	Sabrina	1954	1h 53m	Approved		7.6	76K
+495	Sexy Beast	2000	1h 29m	R		7.3	76K
+496	I See You	2019	1h 38m	R		6.8	76K
+497	Peppermint	2018	1h 41m	R		6.5	76K
+498	House of Sand and Fog	2003	2h 6m	R		7.5	76K
+500	Breaking the Waves	1996	2h 33m	R		7.8	76K
+501	The Man Who Knew Too Much	1956	2h	PG		7.4	76K
+502	Sunshine Cleaning	2008	1h 31m	R		6.8	76K
+503	Agora	2009	2h 7m	R		7.1	76K
+504	Overboard	1987	1h 52m	PG		6.9	76K
+505	Hunger	2008	1h 36m	Not Rated		7.5	76K
+508	The Bikeriders	2023	1h 56m	R		6.6	77K
+510	Blindness	2008	2h 1m	R		6.5	77K
+511	The Pledge	2001	2h 4m	R		6.7	77K
+512	Blast from the Past	1999	1h 52m	PG-13		6.7	77K
+513	The Best Years of Our Lives	1946	2h 50m	Approved		8.1	77K
+514	In the Valley of Elah	2007	2h 1m	R		7.1	77K
+515	Ma Rainey's Black Bottom	2020	1h 34m	R		6.9	77K
+516	The Harder They Fall	2021	2h 19m	R		6.6	77K
+517	Anatomy of a Murder	1959	2h 41m	Approved		8.0	78K
+518	Quiz Show	1994	2h 13m	PG-13		7.5	78K
+519	Bowfinger	1999	1h 37m	PG-13		6.5	78K
+520	Death Sentence	2007	1h 45m	R		6.7	78K
+521	Changing Lanes	2002	1h 38m	R		6.5	78K
+523	Elizabeth: The Golden Age	2007	1h 54m	PG-13		6.8	78K
+524	That Thing You Do!	1996	1h 48m	PG		7.0	78K
+525	Caught Stealing	2025	1h 47m	R		6.8	78K
+526	Beau Is Afraid	2023	2h 59m	R		6.6	78K
+528	The Philadelphia Story	1940	1h 52m	Approved		7.8	78K
+531	Arsenic and Old Lace	1944	1h 58m	Approved		7.9	79K
+532	Moonstruck	1987	1h 42m	PG		7.2	79K
+534	Thirteen Lives	2022	2h 27m	PG-13		7.8	79K
+535	What About Bob?	1991	1h 39m	PG		7.0	79K
+536	Derailed	2005	1h 48m	R		6.6	79K
+537	Whatever Works	2009	1h 33m	PG-13		7.1	79K
+538	Invincible	2006	1h 45m	PG		7.0	79K
+542	The Station Agent	2003	1h 29m	R		7.6	80K
+543	Happiness	1998	2h 14m	NC-17		7.7	80K
+544	Go	1999	1h 42m	R		7.2	80K
+545	Dangerous Liaisons	1988	1h 59m	R		7.5	80K
+547	Seabiscuit	2003	2h 20m	PG-13		7.3	80K
+548	Stepmom	1998	2h 5m	PG-13		6.8	80K
+549	Disconnect	2012	1h 55m	R		7.5	80K
+550	Hunter Killer	2018	2h 1m	R		6.6	81K
+552	21 Bridges	2019	1h 39m	R		6.7	81K
+553	A Perfect Getaway	2009	1h 38m	R		6.5	81K
+554	Dreamgirls	2006	2h 10m	PG-13		6.6	81K
+555	The Water Diviner	2014	1h 51m	R		7.0	81K
+556	The Best of Me	2014	1h 58m	PG-13		6.7	81K
+557	The Gift	2000	1h 51m	R		6.7	81K
+558	Bringing Out the Dead	1999	2h 1m	R		6.8	81K
+560	Hannah and Her Sisters	1986	1h 47m	PG-13		7.8	81K
+561	Walk Hard: The Dewey Cox Story	2007	1h 36m	R		6.9	81K
+562	Ghost Town	2008	1h 42m	PG-13		6.7	81K
+563	The Courier	2020	1h 52m	PG-13		7.2	82K
+564	A Most Violent Year	2014	2h 5m	R		6.9	82K
+565	The Lost Daughter	2021	2h 1m	R		6.7	82K
+568	Bullitt	1968	1h 54m	M/PG		7.4	82K
+569	Spencer	2021	1h 57m	R		6.5	82K
+570	The King of Staten Island	2020	2h 16m	R		7.1	82K
+572	The Muppet Christmas Carol	1992	1h 25m	G		7.8	82K
+573	Top Secret!	1984	1h 30m	PG		7.2	82K
+574	Nuremberg	2025	2h 28m	PG-13		7.4	82K
+575	M*A*S*H	1970	1h 56m	R		7.3	83K
+576	The Thirteenth Floor	1999	1h 40m	R		7.0	83K
+577	Gridiron Gang	2006	2h 5m	PG-13		6.9	83K
+578	Being There	1979	2h 10m	PG		7.9	83K
+579	The Woman King	2022	2h 15m	PG-13		6.9	83K
+580	Major League	1989	1h 47m	R		7.2	83K
+581	Brawl in Cell Block 99	2017	2h 12m	Not Rated		7.1	83K
+582	Hitchcock	2012	1h 38m	PG-13		6.8	83K
+583	A Simple Plan	1998	2h 1m	R		7.5	83K
+584	The Iceman	2012	1h 46m	R		6.8	84K
+585	The Dirty Dozen	1967	2h 30m	Approved		7.7	84K
+587	The Witches of Eastwick	1987	1h 58m	R		6.6	84K
+588	Who's Afraid of Virginia Woolf?	1966	2h 11m	Approved		8.0	84K
+589	Badlands	1973	1h 34m	PG		7.7	84K
+590	Open Range	2003	2h 19m	R		7.4	84K
+592	What If	2013	1h 38m	PG-13		6.8	84K
+593	The Ten Commandments	1956	3h 40m	G		7.9	84K
+594	The Dead Zone	1983	1h 43m	R		7.2	84K
+595	Just Mercy	2019	2h 17m	PG-13		7.6	85K
+596	Bad Lieutenant: Port of Call New Orleans	2009	2h 2m	R		6.6	85K
+597	The Words	2012	1h 42m	PG-13		7.0	85K
+598	Frank	2014	1h 35m	R		6.9	85K
+599	The Manchurian Candidate	1962	2h 6m	PG-13		7.9	85K
+600	A Most Wanted Man	2014	2h 2m	R		6.7	85K
+601	Café Society	2016	1h 36m	PG-13		6.6	85K
+602	The Wedding Ringer	2015	1h 41m	R		6.6	85K
+603	The Infiltrator	2016	2h 7m	R		7.0	85K
+605	The Edge	1997	1h 57m	R		7.0	85K
+607	Strange Days	1995	2h 25m	R		7.2	85K
+609	My Left Foot	1989	1h 43m	R		7.8	85K
+610	Star Trek VI: The Undiscovered Country	1991	1h 50m	PG		7.3	85K
+611	The Client	1994	1h 59m	PG-13		6.7	85K
+612	Copycat	1995	2h 3m	R		6.6	85K
+613	The Thursday Murder Club	2025	1h 58m	PG-13		6.5	85K
+614	Girl with a Pearl Earring	2003	1h 40m	PG-13		6.9	86K
+615	Entourage	2015	1h 44m	R		6.5	86K
+616	Stripes	1981	1h 46m	R		6.8	86K
+617	Dirty Rotten Scoundrels	1988	1h 50m	PG		7.4	86K
+618	The Weather Man	2005	1h 42m	R		6.5	86K
+619	Harold and Maude	1971	1h 31m	PG		7.8	86K
+620	Ever After: A Cinderella Story	1998	2h 1m	PG-13		7.1	86K
+621	The Outfit	2022	1h 45m	R		7.2	86K
+622	A Dog's Purpose	2017	1h 40m	PG		7.3	86K
+623	Blue Ruin	2013	1h 30m	R		7.1	86K
+624	A Ghost Story	2017	1h 32m	R		6.8	86K
+625	To Catch a Thief	1955	1h 46m	PG		7.4	87K
+626	The Outlaw Josey Wales	1976	2h 15m	PG		7.8	87K
+627	Midnight Special	2016	1h 52m	PG-13		6.6	87K
+628	The Fundamentals of Caring	2016	1h 37m	TV-MA		7.3	87K
+629	Eighth Grade	2018	1h 33m	R		7.3	87K
+630	Beasts of the Southern Wild	2012	1h 33m	PG-13		7.2	87K
+631	Jackie	2016	1h 40m	R		6.6	87K
+632	Doctor Zhivago	1965	3h 17m	Approved		7.9	87K
+633	Super	2010	1h 36m	R		6.7	87K
+634	Awake	2007	1h 24m	R		6.5	87K
+635	Novocaine	2025	1h 50m	R		6.5	87K
+636	Morning Glory	2010	1h 47m	PG-13		6.5	87K
+637	The Kings of Summer	2013	1h 35m	R		7.1	87K
+638	Trumbo	2015	2h 4m	R		7.4	88K
+639	Amistad	1997	2h 35m	R		7.3	88K
+640	All Is Lost	2013	1h 46m	PG-13		6.9	88K
+641	Mid90s	2018	1h 25m	R		7.4	88K
+643	Felon	2008	1h 44m	R		7.4	88K
+644	Killer Joe	2011	1h 42m	NC-17		6.7	88K
+645	1984	1984	1h 53m	R		7.0	88K
+647	Outlaw King	2018	2h 1m	R		6.9	88K
+648	Youth	2015	2h 4m	R		7.3	88K
+649	Bottle Rocket	1996	1h 31m	R		6.9	88K
+650	The Man Who Shot Liberty Valance	1962	2h 3m	Approved		8.1	88K
+651	Miss Sloane	2016	2h 12m	R		7.5	89K
+652	Hidalgo	2004	2h 16m	PG-13		6.7	89K
+653	The African Queen	1951	1h 45m	PG		7.7	89K
+655	Phenomenon	1996	2h 3m	PG		6.5	89K
+656	Notes on a Scandal	2006	1h 32m	R		7.4	89K
+657	The Dig	2021	1h 52m	PG-13		7.1	89K
+658	Good Boys	2019	1h 30m	R		6.7	90K
+659	Pink Floyd: The Wall	1982	1h 35m	R		8.0	90K
+660	Boss Level	2020	1h 40m	TV-MA		6.8	90K
+661	The Day the Earth Stood Still	1951	1h 32m	G		7.7	90K
+662	The Hudsucker Proxy	1994	1h 51m	PG		7.2	90K
+664	The Good Nurse	2022	2h 1m	R		6.8	90K
+665	Scoop	2006	1h 36m	PG-13		6.6	91K
+666	Star Trek III: The Search for Spock	1984	1h 45m	PG		6.7	91K
+667	Christopher Robin	2018	1h 44m	PG		7.2	91K
+668	The Rainmaker	1997	2h 15m	PG-13		7.2	91K
+669	The Duchess	2008	1h 50m	PG-13		6.9	91K
+670	The Inbetweeners	2011	1h 37m	R		6.7	91K
+671	Four Lions	2010	1h 37m	R		7.3	91K
+672	In the Heat of the Night	1967	1h 50m	Approved		7.9	91K
+673	Fried Green Tomatoes	1991	2h 10m	PG-13		7.7	91K
+674	The Hustler	1961	2h 14m	Approved		7.9	91K
+675	Space Cowboys	2000	2h 10m	PG-13		6.5	91K
+676	The Last Castle	2001	2h 11m	R		7.0	91K
+677	Star Trek: Generations	1994	1h 58m	PG		6.6	91K
+678	Manhunter	1986	2h	R		7.2	91K
+679	Beasts of No Nation	2015	2h 17m	TV-MA		7.7	91K
+680	The Hundred-Foot Journey	2014	2h 2m	PG		7.3	91K
+682	My Week with Marilyn	2011	1h 39m	R		6.9	91K
+683	Kids	1995	1h 31m	NC-17		7.0	91K
+685	Only the Brave	2017	2h 14m	PG-13		7.6	92K
+686	Fruitvale Station	2013	1h 25m	R		7.5	92K
+687	The 'Burbs	1989	1h 42m	PG		6.8	92K
+688	Dope	2015	1h 43m	R		7.2	92K
+689	U-571	2000	1h 56m	PG-13		6.6	92K
+691	Three Amigos!	1986	1h 44m	PG		6.5	92K
+693	Swingers	1996	1h 36m	R		7.2	92K
+694	Black Bag	2025	1h 33m	R		6.7	92K
+695	The Long Kiss Goodnight	1996	2h 1m	R		6.8	92K
+696	Father of the Bride	1991	1h 45m	PG		6.6	93K
+697	The Remains of the Day	1993	2h 14m	PG		7.8	93K
+698	Out of Africa	1985	2h 41m	PG		7.2	93K
+699	Freedom Writers	2007	2h 3m	PG-13		7.6	93K
+700	48 Hrs.	1982	1h 36m	R		6.9	93K
+701	Grandma's Boy	2006	1h 34m	R		6.9	93K
+702	Stay	2005	1h 39m	R		6.7	93K
+703	Fighting with My Family	2019	1h 48m	PG-13		7.0	93K
+704	Finding Forrester	2000	2h 16m	PG-13		7.3	93K
+705	Charade	1963	1h 53m	Approved		7.8	93K
+706	Wag the Dog	1997	1h 37m	R		7.1	93K
+708	Dream Scenario	2023	1h 42m	R		6.8	93K
+709	A Perfect World	1993	2h 18m	PG-13		7.5	93K
+710	Backdraft	1991	2h 17m	R		6.7	93K
+711	The New World	2005	2h 15m	PG-13		6.7	94K
+713	A Beautiful Day in the Neighborhood	2019	1h 49m	PG		7.2	94K
+715	Sorry to Bother You	2018	1h 52m	R		6.9	94K
+716	Goon	2011	1h 32m	R		6.8	94K
+717	Enter the Void	2009	2h 41m	Not Rated		7.2	94K
+718	The Longest Ride	2015	2h 3m	PG-13		7.0	94K
+719	Midnight Express	1978	2h 1m	R		7.5	94K
+720	Saturday Night Fever	1977	1h 59m	R		6.8	94K
+721	Little Shop of Horrors	1986	1h 34m	PG-13		7.1	94K
+722	Harry Brown	2009	1h 43m	R		7.2	95K
+724	The Squid and the Whale	2005	1h 21m	R		7.3	95K
+725	Cashback	2006	1h 42m	R		7.1	95K
+726	This Is Where I Leave You	2014	1h 43m	R		6.7	95K
+728	The Wild Bunch	1969	2h 15m	R		7.9	95K
+729	Pretty in Pink	1986	1h 37m	PG-13		6.7	95K
+730	Paterson	2016	1h 58m	R		7.3	95K
+731	The Big Sleep	1946	1h 54m	Approved		7.9	95K
+733	Papillon	2017	2h 13m	R		7.2	95K
+734	Stuck in Love.	2012	1h 37m	R		7.2	95K
+735	Confessions of a Dangerous Mind	2002	1h 53m	R		7.0	95K
+736	Half Nelson	2006	1h 46m	R		7.1	96K
+737	King Kong	1933	1h 40m	Approved		7.9	96K
+738	Sex Drive	2008	1h 49m	R		6.5	96K
+739	Eye in the Sky	2015	1h 42m	R		7.3	96K
+740	All the Money in the World	2017	2h 12m	R		6.8	96K
+741	The Amateur	2025	2h 2m	PG-13		6.5	96K
+742	The Bridges of Madison County	1995	2h 15m	PG-13		7.6	96K
+743	We Own the Night	2007	1h 57m	R		6.8	96K
+744	Kingpin	1996	1h 54m	PG-13		6.9	96K
+745	Five Feet Apart	2019	1h 56m	PG-13		7.2	96K
+746	The Fisher King	1991	2h 17m	R		7.5	97K
+747	Star Trek IV: The Voyage Home	1986	1h 59m	PG		7.3	97K
+748	Judgment at Nuremberg	1961	2h 59m	Approved		8.3	97K
+749	Get Shorty	1995	1h 45m	R		6.9	97K
+750	Beginners	2010	1h 45m	R		7.2	97K
+751	Nick and Norah's Infinite Playlist	2008	1h 30m	PG-13		6.6	97K
+753	My Girl	1991	1h 42m	PG		6.9	98K
+754	After Hours	1985	1h 37m	R		7.6	98K
+755	Jane Eyre	2011	2h	PG-13		7.3	98K
+756	Hereafter	2010	2h 9m	PG-13		6.5	98K
+757	A Perfect Murder	1998	1h 47m	R		6.6	98K
+758	Monster's Ball	2001	1h 51m			7.0	98K
+759	Arlington Road	1999	1h 57m	R		7.2	98K
+761	No Escape	2015	1h 43m	R		6.8	98K
+763	A Monster Calls	2016	1h 48m	PG-13		7.4	99K
+764	Sweet November	2001	1h 59m	PG-13		6.7	99K
+765	Going in Style	2017	1h 36m	PG-13		6.6	99K
+766	Hot Rod	2007	1h 28m	PG-13		6.7	99K
+767	Selma	2014	2h 8m	PG-13		7.5	99K
+768	Crazy Heart	2009	1h 52m	R		7.2	99K
+769	Mona Lisa Smile	2003	1h 57m	PG-13		6.6	99K
+770	August: Osage County	2013	2h 1m	R		7.2	99K
+772	Monkey Man	2024	2h 1m	R		6.8	100K
+774	The Painted Veil	2006	2h 5m	PG-13		7.4	100K
+775	Unthinkable	2010	1h 37m	R		7.0	100K
+776	Kiss the Girls	1997	1h 55m	R		6.6	100K
+777	Train Dreams	2025	1h 42m	PG-13		7.5	101K
+778	Jackass Presents: Bad Grandpa	2013	1h 32m	R		6.5	101K
+779	12 Strong	2018	2h 10m	R		6.6	101K
+781	Mary Poppins Returns	2018	2h 10m	PG		6.6	101K
+782	Submarine	2010	1h 37m	R		7.3	101K
+783	The Muppets	2011	1h 43m	PG		7.1	101K
+784	News of the World	2020	1h 58m	PG-13		6.8	101K
+785	The Piano	1993	2h 1m	R		7.5	101K
+786	The Color of Money	1986	1h 59m	R		7.0	101K
+787	The Guard	2011	1h 36m	R		7.3	101K
+788	Frida	2002	2h 3m	R		7.3	101K
+789	Say Anything	1989	1h 40m	PG-13		7.3	102K
+790	Footloose	1984	1h 47m	PG		6.6	102K
+792	Gosford Park	2001	2h 17m	R		7.2	102K
+793	Rebel Ridge	2024	2h 11m	TV-MA		6.8	102K
+794	Fallen	1998	2h 4m	R		7.0	102K
+795	Frances Ha	2012	1h 26m	R		7.4	102K
+796	The Frighteners	1996	1h 50m	R		7.1	102K
+798	Under Siege	1992	1h 43m	R		6.5	102K
+799	Reign Over Me	2007	2h 4m	R		7.4	103K
+800	My Sister's Keeper	2009	1h 49m	PG-13		7.3	103K
+801	Bloodsport	1988	1h 32m	R		6.8	103K
+802	It's Complicated	2009	2h	R		6.6	103K
+803	The Guardian	2006	2h 19m	PG-13		6.9	103K
+804	Rebel Without a Cause	1955	1h 51m	PG-13		7.6	103K
+805	Wolfs	2024	1h 48m	R		6.5	103K
+806	Plane	2023	1h 47m	R		6.5	103K
+807	Edge of Darkness	2010	1h 57m	R		6.6	103K
+808	Nymphomaniac: Vol. II	2013	2h 4m	Not Rated		6.6	103K
+810	The Searchers	1956	1h 59m	Approved		7.8	103K
+811	Midnight Run	1988	2h 6m	R		7.5	104K
+812	The Pelican Brief	1993	2h 21m	PG-13		6.6	104K
+813	Hot Shots! Part Deux	1993	1h 26m	PG-13		6.6	104K
+815	Ghost Dog: The Way of the Samurai	1999	1h 56m	R		7.5	104K
+816	The Best Exotic Marigold Hotel	2011	2h 4m	PG-13		7.2	104K
+818	The International	2009	1h 58m	R		6.5	104K
+819	Hamnet	2025	2h 5m	PG-13		7.8	104K
+820	Elephant	2003	1h 21m	R		7.1	104K
+821	Mank	2020	2h 11m	R		6.8	104K
+822	Another Earth	2011	1h 32m	PG-13		6.9	104K
+823	Pig	2021	1h 32m	R		6.9	104K
+824	Synecdoche, New York	2008	2h 4m	R		7.5	104K
+825	Big Eyes	2014	1h 46m	PG-13		6.9	104K
+826	Tommy Boy	1995	1h 37m	PG-13		7.1	105K
+827	Concussion	2015	2h 3m	PG-13		7.1	105K
+828	White Men Can't Jump	1992	1h 55m	R		6.8	105K
+830	Midway	2019	2h 18m	PG-13		6.7	105K
+831	Grosse Pointe Blank	1997	1h 47m	R		7.3	105K
+832	Sling Blade	1996	2h 15m	R		8.0	105K
+834	Double Jeopardy	1999	1h 45m	R		6.5	105K
+835	Good Night, and Good Luck.	2005	1h 33m	PG		7.4	105K
+836	American Graffiti	1973	1h 50m	PG		7.4	105K
+838	The Killing	1956	1h 24m	Approved		7.9	105K
+839	Weird Science	1985	1h 34m	PG-13		6.6	106K
+840	Out of Sight	1998	2h 3m	R		7.0	106K
+842	The Lost City of Z	2016	2h 21m	PG-13		6.6	106K
+843	The People vs. Larry Flynt	1996	2h 10m	R		7.3	106K
+844	I Am Mother	2019	1h 53m	TV-14		6.7	106K
+845	Last Christmas	2019	1h 43m	PG-13		6.5	106K
+846	Richard Jewell	2019	2h 11m	R		7.5	106K
+847	Tetris	2023	1h 58m	R		7.4	106K
+848	Running Scared	2006	2h 2m	R		7.3	107K
+849	A Good Year	2006	1h 57m	PG-13		6.9	107K
+850	Creed III	2023	1h 56m	PG-13		6.7	107K
+851	The Doors	1991	2h 20m	R		7.2	107K
+853	Hostiles	2017	2h 14m	R		7.2	107K
+854	Philomena	2013	1h 38m	PG-13		7.6	107K
+855	Unfaithful	2002	2h 4m	R		6.7	107K
+856	Eddie the Eagle	2015	1h 46m	PG-13		7.3	107K
+857	The Night of the Hunter	1955	1h 32m	Approved		8.0	107K
+858	Anna	2019	1h 58m	R		6.7	107K
+859	Sing Street	2016	1h 46m	PG-13		7.9	107K
+860	The Hurricane	1999	2h 26m	R		7.6	107K
+861	My Fair Lady	1964	2h 50m	G		7.7	108K
+863	Thirteen	2003	1h 40m	R		6.8	108K
+864	Extremely Loud & Incredibly Close	2011	2h 9m	PG-13		6.9	108K
+865	Self/less	2015	1h 57m	PG-13		6.5	108K
+866	Risky Business	1983	1h 39m	R		6.8	108K
+867	Flipped	2010	1h 30m	PG		7.7	108K
+869	The Grapes of Wrath	1940	2h 9m	Approved		8.1	108K
+870	Dead Man Walking	1995	2h 2m	R		7.5	108K
+871	On Her Majesty's Secret Service	1969	2h 22m	PG		6.7	108K
+872	Hardcore Henry	2015	1h 36m	R		6.7	108K
+873	42	2013	2h 8m	PG-13		7.5	109K
+875	The Straight Story	1999	1h 52m	G		8.0	109K
+876	The Thomas Crown Affair	1999	1h 53m	R		6.9	109K
+877	Dead Man	1995	2h 1m	R		7.5	109K
+878	Widows	2018	2h 9m	R		6.8	109K
+879	Ruby Sparks	2012	1h 44m	R		7.2	109K
+880	Warfare	2025	1h 35m	R		7.1	109K
+881	Collateral Beauty	2016	1h 37m	PG-13		6.8	109K
+882	Eurovision Song Contest: The Story of Fire Saga	2020	2h 3m	PG-13		6.5	109K
+883	The Outsiders	1983	1h 31m	PG		7.0	109K
+884	Tár	2022	2h 38m	R		7.4	109K
+885	Secretary	2002	1h 47m	R		6.9	109K
+887	Reptile	2023	2h 14m	R		6.8	109K
+889	The Cider House Rules	1999	2h 6m	PG-13		7.4	109K
+890	The Long Walk	2025	1h 48m	R		6.7	109K
+891	Holes	2003	1h 57m	PG		7.0	109K
+893	I'm Thinking of Ending Things	2020	2h 14m	R		6.5	110K
+895	Following	1998	1h 9m	R		7.4	110K
+896	Elizabeth	1998	2h 4m	R		7.4	110K
+897	Ali	2001	2h 37m	R		6.7	110K
+899	Broken Flowers	2005	1h 46m	R		7.1	110K
+900	Cellular	2004	1h 34m	PG-13		6.5	110K
+901	The Magnificent Seven	1960	2h 8m	Approved		7.7	110K
+902	Malcolm X	1992	3h 22m	PG-13		7.7	111K
+903	Dan in Real Life	2007	1h 38m	PG-13		6.8	111K
+906	Fatal Attraction	1987	1h 59m	R		6.9	111K
+907	Finch	2021	1h 55m	PG-13		6.9	111K
+908	Never Back Down	2008	1h 53m	PG-13		6.6	111K
+909	Detachment	2011	1h 38m	Not Rated		7.7	111K
+910	Election	1999	1h 43m	R		7.2	111K
+911	Music and Lyrics	2007	1h 44m	PG-13		6.5	111K
+912	Road House	1989	1h 54m	R		6.7	112K
+913	Alpha Dog	2006	2h 2m	R		6.9	112K
+914	October Sky	1999	1h 48m	PG		7.8	112K
+915	Romancing the Stone	1984	1h 46m	PG		6.9	112K
+917	Unleashed	2005	1h 43m	R		7.0	112K
+918	Where the Wild Things Are	2009	1h 41m	PG		6.7	112K
+919	Money Monster	2016	1h 38m	R		6.5	112K
+920	Anna Karenina	2012	2h 9m	R		6.6	112K
+921	Wild at Heart	1990	2h 5m	R		7.2	112K
+922	The Good Shepherd	2006	2h 47m	R		6.7	112K
+924	Extremely Wicked, Shockingly Evil and Vile	2019	1h 50m	R		6.7	112K
+925	Run	2020	1h 30m	PG-13		6.7	112K
+926	Fractured	2019	1h 39m	TV-MA		6.5	112K
+928	Waiting...	2005	1h 34m	R		6.7	113K
+930	Bad Boys: Ride or Die	2024	1h 55m	R		6.5	113K
+931	The Quick and the Dead	1995	1h 48m	R		6.5	113K
+932	Shot Caller	2017	2h 1m	R		7.3	113K
+933	St. Vincent	2014	1h 42m	PG-13		7.2	113K
+934	The Highwaymen	2019	2h 12m	R		6.9	113K
+935	The Forbidden Kingdom	2008	1h 44m	PG-13		6.5	113K
+937	Letters to Juliet	2010	1h 45m	PG		6.5	114K
+938	Paddington 2	2017	1h 43m	PG		7.8	114K
+939	Blood Simple	1984	1h 39m	R		7.5	114K
+940	Witness	1985	1h 52m	R		7.3	114K
+941	Notorious	1946	1h 42m	Approved		7.9	114K
+942	Brick	2005	1h 50m	R		7.1	114K
+943	The Guest	2014	1h 40m	R		6.7	114K
+944	Conspiracy Theory	1997	2h 15m	R		6.7	114K
+948	The Living Daylights	1987	2h 10m	PG		6.7	114K
+949	Patton	1970	2h 52m	PG		7.9	114K
+950	Judas and the Black Messiah	2021	2h 6m	R		7.4	114K
+951	The Sandlot	1993	1h 41m	PG		7.8	114K
+952	August Rush	2007	1h 54m	PG		7.4	115K
+953	The X Files	1998	2h 1m	PG-13		7.0	115K
+954	Touch of Evil	1958	1h 35m	PG-13		7.9	115K
+955	Get the Gringo	2012	1h 36m	R		6.9	115K
+957	Cop Land	1997	1h 45m	R		7.0	115K
+958	Take Shelter	2011	2h	R		7.3	115K
+959	United 93	2006	1h 51m	R		7.6	115K
+961	Only Lovers Left Alive	2013	2h 3m	R		7.2	115K
+962	Attack the Block	2011	1h 28m	R		6.6	115K
+966	Frost/Nixon	2008	2h 2m	R		7.6	116K
+967	Clear and Present Danger	1994	2h 21m	PG-13		6.9	116K
+968	For Your Eyes Only	1981	2h 7m	PG		6.7	116K
+969	Rescue Dawn	2006	2h 5m	PG-13		7.2	116K
+970	High Noon	1952	1h 25m	PG		7.9	116K
+971	Hostage	2005	1h 53m	R		6.5	116K
+972	Leap Year	2010	1h 40m	PG		6.5	116K
+973	Bean	1997	1h 29m	PG-13		6.5	116K
+974	A Complete Unknown	2024	2h 21m	R		7.3	116K
+975	Four Rooms	1995	1h 38m	R		6.7	117K
+977	Belfast	2021	1h 38m	PG-13		7.2	117K
+978	Across the Universe	2007	2h 13m	PG-13		7.3	118K
+980	Sister Act	1992	1h 40m	PG		6.6	118K
+981	Enola Holmes 2	2022	2h 9m	PG-13		6.8	118K
+982	The Iron Claw	2023	2h 12m	R		7.5	118K
+983	Super Troopers	2001	1h 40m	R		7.0	118K
+985	Twin Peaks: Fire Walk with Me	1992	2h 14m	R		7.3	119K
+987	The Warriors	1979	1h 33m	R		7.5	119K
+988	The Peanut Butter Falcon	2019	1h 37m	PG-13		7.6	119K
+989	The Last Emperor	1987	2h 43m	PG-13		7.7	119K
+990	Inherent Vice	2014	2h 28m	R		6.6	119K
+991	Tenacious D in the Pick of Destiny	2006	1h 34m	R		6.8	119K
+992	It Happened One Night	1934	1h 45m	Approved		8.1	120K
+993	The Queen	2006	1h 43m	PG-13		7.3	120K
+994	The Full Monty	1997	1h 31m	R		7.2	120K
+995	Run All Night	2015	1h 54m	R		6.6	120K
+996	A Streetcar Named Desire	1951	2h 2m	Approved		7.9	120K
+998	Sisu	2022	1h 31m	R		6.9	120K
+999	Licence to Kill	1989	2h 13m	PG-13		6.7	120K
+1000	Enter the Dragon	1973	1h 39m	R		7.6	120K
+1001	Mamma Mia! Here We Go Again	2018	1h 54m	PG-13		6.6	120K
+1002	Stoker	2013	1h 39m	R		6.7	120K
+1003	The Man Who Wasn't There	2001	1h 56m	R		7.5	120K
+1004	The Last Boy Scout	1991	1h 45m	R		7.0	120K
+1005	The Boat That Rocked	2009	1h 57m	R		7.3	120K
+1006	U.S. Marshals	1998	2h 11m	PG-13		6.6	120K
+1007	Gremlins 2: The New Batch	1990	1h 46m	PG-13		6.5	120K
+1008	What Dreams May Come	1998	1h 53m	PG-13		7.0	120K
+1009	Octopussy	1983	2h 11m	PG		6.5	121K
+1010	Trance	2013	1h 41m	R		6.9	121K
+1011	Safe Haven	2013	1h 55m	PG-13		6.7	121K
+1014	Dark Waters	2019	2h 6m	PG-13		7.6	121K
+1015	Violent Night	2022	1h 52m	R		6.7	121K
+1016	WarGames	1983	1h 54m	PG		7.1	121K
+1017	Uncle Buck	1989	1h 40m	PG		7.1	121K
+1018	Runaway Jury	2003	2h 7m	PG-13		7.1	121K
+1019	Primer	2004	1h 17m	PG-13		6.7	121K
+1022	The Man with the Golden Gun	1974	2h 5m	PG		6.7	122K
+1023	The Rip	2026	1h 53m	R		6.8	122K
+1025	Little Children	2006	2h 17m	R		7.5	122K
+1026	Patriots Day	2016	2h 13m	R		7.3	122K
+1027	Before the Devil Knows You're Dead	2007	1h 57m	R		7.3	122K
+1028	Tootsie	1982	1h 56m	PG		7.4	122K
+1031	Filth	2013	1h 37m	R		7.0	122K
+1032	Clue	1985	1h 34m	PG		7.3	122K
+1033	Premium Rush	2012	1h 31m	PG-13		6.5	122K
+1034	West Side Story	2021	2h 36m	PG-13		7.1	122K
+1035	The Manchurian Candidate	2004	2h 9m	R		6.6	123K
+1036	Bend It Like Beckham	2002	1h 52m	PG-13		6.7	123K
+1037	In the Line of Fire	1993	2h 8m	R		7.2	123K
+1038	Diamonds Are Forever	1971	2h	PG		6.5	123K
+1039	Seeking a Friend for the End of the World	2012	1h 41m	R		6.7	123K
+1040	Addams Family Values	1993	1h 34m	PG-13		6.9	123K
+1041	Frequency	2000	1h 58m	PG-13		7.4	123K
+1042	Cool Runnings	1993	1h 38m	PG		7.0	123K
+1043	Easy Rider	1969	1h 35m	R		7.2	123K
+1044	Do the Right Thing	1989	2h	R		7.9	124K
+1045	The Butler	2013	2h 12m	PG-13		7.2	124K
+1047	Dancer in the Dark	2000	2h 15m	R		7.9	124K
+1048	Water for Elephants	2011	2h	PG-13		6.9	124K
+1049	Juror #2	2024	1h 54m	PG-13		7.0	124K
+1050	Crocodile Dundee	1986	1h 37m	PG-13		6.7	124K
+1051	Driving Miss Daisy	1989	1h 39m	PG		7.3	124K
+1052	Born on the Fourth of July	1989	2h 25m	R		7.2	124K
+1053	Live and Let Die	1973	2h 1m	PG		6.7	124K
+1054	Superman II	1980	2h 7m	PG		6.8	124K
+1055	The Jacket	2005	1h 43m	R		7.1	125K
+1056	Safe	2012	1h 34m	R		6.5	125K
+1057	Fast Times at Ridgemont High	1982	1h 30m	R		7.1	125K
+1059	Hot Shots!	1991	1h 25m	PG-13		6.7	125K
+1060	Once	2006	1h 26m	R		7.8	125K
+1061	The Spy Who Loved Me	1977	2h 5m	PG		7.0	125K
+1062	Fences	2016	2h 19m	PG-13		7.2	125K
+1063	Just Like Heaven	2005	1h 35m	PG-13		6.7	126K
+1064	Maverick	1994	2h 7m	PG		7.0	126K
+1066	The Death of Stalin	2017	1h 47m	R		7.3	126K
+1067	The Other Boleyn Girl	2008	1h 55m	PG-13		6.7	126K
+1068	While You Were Sleeping	1995	1h 43m	PG		6.8	127K
+1069	Glengarry Glen Ross	1992	1h 40m	R		7.6	127K
+1070	Street Kings	2008	1h 49m	R		6.8	127K
+1071	The Name of the Rose	1986	2h 10m	R		7.7	127K
+1072	Heathers	1989	1h 43m	R		7.1	127K
+1073	You Only Live Twice	1967	1h 57m	PG		6.8	127K
+1074	The Way Back	2010	2h 13m	PG-13		7.3	127K
+1075	West Side Story	1961	2h 33m	Approved		7.6	127K
+1076	Mississippi Burning	1988	2h 8m	R		7.8	128K
+1077	Aftersun	2022	1h 42m	R		7.6	128K
+1078	The Accountant 2	2025	2h 12m	R		6.6	128K
+1079	Death at a Funeral	2007	1h 30m	R		7.3	128K
+1080	Beautiful Boy	2018	2h	R		7.4	128K
+1081	The Unforgivable	2021	1h 52m	R		7.2	128K
+1082	Naked Gun 33 1/3: The Final Insult	1994	1h 23m	PG-13		6.5	128K
+1083	Mean Streets	1973	1h 52m	R		7.2	128K
+1084	Bonnie and Clyde	1967	1h 51m	R		7.7	128K
+1085	Patriot Games	1992	1h 57m	R		6.8	128K
+1086	National Lampoon's Vacation	1983	1h 38m	R		7.3	128K
+1087	Long Shot	2019	2h 5m	R		6.8	128K
+1088	The Fall	2006	1h 57m	R		7.8	128K
+1089	Nebraska	2013	1h 55m	R		7.7	128K
+1090	tick, tick... BOOM!	2021	1h 55m	PG-13		7.5	128K
+1091	Deliverance	1972	1h 49m	R		7.6	129K
+1092	Pay It Forward	2000	2h 3m	PG-13		7.2	129K
+1094	Scrooged	1988	1h 41m	PG-13		6.9	129K
+1095	Blink Twice	2024	1h 42m	R		6.5	129K
+1097	Mr. Smith Goes to Washington	1939	2h 9m	Approved		8.1	129K
+1098	The Housemaid	2025	2h 11m	R		6.8	129K
+1099	Patch Adams	1998	1h 55m	PG-13		6.9	130K
+1100	Monty Python's the Meaning of Life	1983	1h 47m	R		7.5	130K
+1101	Hit Man	2023	1h 55m	R		6.8	130K
+1103	A League of Their Own	1992	2h 8m	PG		7.4	130K
+1104	Rat Race	2001	1h 52m	PG-13		6.5	130K
+1105	Charlie Wilson's War	2007	1h 42m	R		7.0	130K
+1106	The Family Man	2000	2h 5m	PG-13		6.9	131K
+1107	How to Train Your Dragon	2025	2h 5m	PG		7.7	131K
+1108	Any Given Sunday	1999	2h 42m	R		6.9	131K
+1109	The Green Knight	2021	2h 10m	R		6.6	131K
+1110	If I Stay	2014	1h 47m	PG-13		6.7	131K
+1111	Midnight Cowboy	1969	1h 53m	R		7.8	131K
+1113	Men of Honor	2000	2h 9m	R		7.2	131K
+1114	Serendipity	2001	1h 30m	PG-13		6.8	132K
+1116	Marie Antoinette	2006	2h 3m	PG-13		6.5	132K
+1117	A Walk Among the Tombstones	2014	1h 54m	R		6.5	132K
+1118	Maleficent: Mistress of Evil	2019	1h 59m	PG		6.6	132K
+1119	Out of the Furnace	2013	1h 56m	R		6.7	132K
+1120	Ghost World	2001	1h 51m	R		7.3	132K
+1121	The Life of David Gale	2003	2h 10m	R		7.5	132K
+1122	The Foreigner	2017	1h 53m	R		7.0	132K
+1123	The Basketball Diaries	1995	1h 42m	R		7.3	132K
+1125	Bicentennial Man	1999	2h 12m	PG		6.9	133K
+1126	The King of Comedy	1982	1h 49m	PG		7.8	133K
+1127	Greyhound	2020	1h 31m	PG-13		7.0	133K
+1129	Demolition	2015	1h 41m	R		7.0	133K
+1130	American Fiction	2023	1h 57m	R		7.5	133K
+1131	Silence	2016	2h 41m	R		7.2	134K
+1132	Australia	2008	2h 45m	PG-13		6.6	134K
+1133	Step Up	2006	1h 44m	PG-13		6.5	134K
+1134	The Sum of All Fears	2002	2h 4m	PG-13		6.5	134K
+1136	Mallrats	1995	1h 34m	R		7.0	134K
+1138	Flags of Our Fathers	2006	2h 15m	R		7.1	134K
+1139	Caddyshack	1980	1h 38m	R		7.2	134K
+1140	The Call	2013	1h 34m	R		6.7	134K
+1141	The Fabelmans	2022	2h 31m	PG-13		7.5	134K
+1142	Exam	2009	1h 41m	Not Rated		6.7	134K
+1143	Gran Turismo	2023	2h 14m	PG-13		7.1	134K
+1144	City of Angels	1998	1h 54m	PG-13		6.7	135K
+1145	This Is England	2006	1h 41m	Not Rated		7.7	135K
+1146	Safety Not Guaranteed	2012	1h 26m	R		6.9	135K
+1147	Instant Family	2018	1h 58m	PG-13		7.3	135K
+1148	Sixteen Candles	1984	1h 33m	PG		7.0	135K
+1149	You Were Never Really Here	2017	1h 29m	R		6.7	135K
+1150	Barton Fink	1991	1h 56m	R		7.6	135K
+1151	Star Trek II: The Wrath of Khan	1982	1h 53m	PG		7.7	136K
+1152	Crimson Tide	1995	1h 56m	R		7.4	136K
+1154	National Lampoon's Animal House	1978	1h 49m	R		7.4	136K
+1155	Julie & Julia	2009	2h 3m	PG-13		7.0	136K
+1157	The Brutalist	2024	3h 36m	R		7.2	136K
+1159	The Whole Nine Yards	2000	1h 38m	R		6.7	136K
+1160	Friday	1995	1h 31m	R		7.2	137K
+1161	The Conversation	1974	1h 53m	PG		7.7	137K
+1162	The Best Offer	2013	2h 11m	R		7.7	137K
+1164	Sense and Sensibility	1995	2h 16m	PG		7.7	137K
+1166	The Kids Are All Right	2010	1h 46m	R		7.0	137K
+1167	Tears of the Sun	2003	2h 1m	R		6.6	137K
+1168	The Kingdom	2007	1h 50m	R		7.0	137K
+1169	Thunderball	1965	2h 10m	Approved		6.9	137K
+1170	Star Trek: First Contact	1996	1h 51m	PG-13		7.6	138K
+1171	About Schmidt	2002	2h 5m	R		7.2	138K
+1172	All the President's Men	1976	2h 18m	PG		7.9	138K
+1173	J. Edgar	2011	2h 17m	R		6.5	138K
+1174	The Phantom of the Opera	2004	2h 23m	PG-13		7.2	138K
+1175	Carnage	2011	1h 20m	R		7.1	138K
+1176	16 Blocks	2006	1h 42m	PG-13		6.6	138K
+1177	Syriana	2005	2h 8m	R		6.8	138K
+1178	Nymphomaniac: Vol. I	2013	1h 57m	Not Rated		6.9	139K
+1180	Something's Gotta Give	2003	2h 8m	PG-13		6.8	139K
+1181	Field of Dreams	1989	1h 47m	PG		7.5	139K
+1182	The 13th Warrior	1999	1h 42m	R		6.6	139K
+1183	Willow	1988	2h 6m	PG		7.2	139K
+1186	One Hour Photo	2002	1h 36m	R		6.8	140K
+1187	To All the Boys I've Loved Before	2018	1h 39m	TV-14		7.0	140K
+1189	Booksmart	2019	1h 42m	R		7.1	140K
+1190	A Real Pain	2024	1h 30m	R		7.0	140K
+1191	Paris, Texas	1984	2h 25m	R		8.1	140K
+1192	Last Vegas	2013	1h 45m	PG-13		6.6	140K
+1193	A Haunting in Venice	2023	1h 43m	PG-13		6.5	141K
+1194	The Pale Blue Eye	2022	2h 8m	R		6.6	141K
+1195	Swiss Army Man	2016	1h 37m	R		6.9	141K
+1196	I Origins	2014	1h 46m	R		7.3	141K
+1198	The Naked Gun 2½: The Smell of Fear	1991	1h 25m	PG-13		6.9	141K
+1199	An Education	2009	1h 40m	PG-13		7.2	141K
+1200	The Treasure of the Sierra Madre	1948	2h 6m	Approved		8.2	141K
+1201	Wild Things	1998	1h 48m	R		6.6	141K
+1202	T2 Trainspotting	2017	1h 57m	R		7.1	141K
+1203	The Walk	2015	2h 3m	PG		7.3	141K
+1204	Predator: Badlands	2025	1h 47m	PG-13		7.2	142K
+1205	Okja	2017	2h	TV-MA		7.3	142K
+1207	Babe	1995	1h 31m	G		6.9	142K
+1208	The Dreamers	2003	1h 55m	NC-17		7.1	142K
+1210	Shanghai Noon	2000	1h 50m	PG-13		6.6	142K
+1211	Burnt	2015	1h 41m	R		6.6	142K
+1212	Homefront	2013	1h 40m	R		6.5	142K
+1213	Empire of the Sun	1987	2h 33m	PG		7.7	143K
+1214	Black Mirror: Bandersnatch	2018	1h 30m	TV-MA		7.1	143K
+1215	Pleasantville	1998	2h 4m	PG-13		7.5	143K
+1217	Man on the Moon	1999	1h 58m	R		7.4	143K
+1218	The Score	2001	2h 4m	R		6.8	143K
+1219	Ransom	1996	2h 1m	R		6.7	144K
+1221	Me and Earl and the Dying Girl	2015	1h 45m	PG-13		7.7	144K
+1222	Clerks II	2006	1h 37m	R		7.3	144K
+1223	What Happened to Monday	2017	2h 3m	TV-MA		6.8	144K
+1225	Life as We Know It	2010	1h 54m	PG-13		6.5	145K
+1226	Leaving Las Vegas	1995	1h 51m	R		7.5	145K
+1228	Matchstick Men	2003	1h 56m	PG-13		7.3	145K
+1229	Hairspray	2007	1h 57m	PG		6.7	145K
+1230	Outbreak	1995	2h 7m	R		6.6	145K
+1231	Robin Hood: Men in Tights	1993	1h 44m	PG-13		6.7	146K
+1232	Papillon	1973	2h 31m	R		8.0	146K
+1234	Tron	1982	1h 36m	PG		6.7	146K
+1235	Harold & Kumar Escape from Guantanamo Bay	2008	1h 42m	R		6.5	146K
+1236	Wild	2014	1h 55m	R		7.1	146K
+1237	The Florida Project	2017	1h 51m	R		7.6	146K
+1238	Serpico	1973	2h 10m	R		7.7	146K
+1240	The Two Popes	2019	2h 5m	PG-13		7.6	146K
+1244	The Hours	2002	1h 54m	PG-13		7.5	147K
+1246	The Recruit	2003	1h 55m	PG-13		6.6	147K
+1248	Nerve	2016	1h 36m	PG-13		6.5	147K
+1249	The Santa Clause	1994	1h 37m	PG		6.6	147K
+1250	Ballerina	2025	2h 4m	R		6.8	147K
+1251	The Book Thief	2013	2h 11m	PG-13		7.5	148K
+1253	Green Zone	2010	1h 55m	R		6.8	148K
+1255	Beverly Hills Cop II	1987	1h 43m	R		6.6	148K
+1256	The Rundown	2003	1h 44m	PG-13		6.6	148K
+1257	Cliffhanger	1993	1h 53m	R		6.5	148K
+1258	Chasing Amy	1997	1h 53m	R		7.2	148K
+1259	Police Academy	1984	1h 36m	R		6.7	149K
+1260	Strangers on a Train	1951	1h 41m	PG		7.9	149K
+1261	All About Eve	1950	2h 18m	Approved		8.2	149K
+1263	Miller's Crossing	1990	1h 55m	R		7.7	149K
+1264	Capote	2005	1h 54m	R		7.3	149K
+1265	Bill & Ted's Excellent Adventure	1989	1h 30m	PG		6.9	149K
+1268	Bronson	2008	1h 32m	R		7.0	149K
+1270	The French Connection	1971	1h 44m	R		7.7	150K
+1271	The Big Sick	2017	2h	R		7.5	150K
+1273	Still Alice	2014	1h 41m	PG-13		7.5	150K
+1274	Death Becomes Her	1992	1h 44m	PG-13		6.7	150K
+1276	The Edge of Seventeen	2016	1h 44m	R		7.3	151K
+1277	Avatar: Fire and Ash	2025	3h 17m	PG-13		7.3	151K
+1278	My Big Fat Greek Wedding	2002	1h 35m	PG		6.6	151K
+1279	8MM	1999	2h 3m	R		6.6	151K
+1281	Billy Elliot	2000	1h 50m	R		7.7	152K
+1282	It's Kind of a Funny Story	2010	1h 41m	PG-13		7.1	152K
+1283	Spartacus	1960	3h 4m	PG-13		7.9	152K
+1284	Joy	2015	2h 4m	PG-13		6.6	152K
+1285	The Hunt	2020	1h 30m	R		6.6	152K
+1286	Hunt for the Wilderpeople	2016	1h 41m	PG-13		7.8	153K
+1287	Den of Thieves	2018	2h 20m	R		7.0	153K
+1289	John Q	2002	1h 56m	PG-13		7.1	153K
+1290	Carol	2015	1h 58m	R		7.3	153K
+1291	Payback	1999	1h 40m	R		7.0	153K
+1293	Glory	1989	2h 2m	R		7.8	154K
+1294	Marty Supreme	2025	2h 29m	R		7.7	154K
+1295	Manhattan	1979	1h 36m	R		7.8	154K
+1297	Foxcatcher	2014	2h 14m	R		7.0	155K
+1298	Good Time	2017	1h 42m	R		7.3	156K
+1299	The Constant Gardener	2005	2h 9m	R		7.3	156K
+1300	Paddington	2014	1h 35m	PG		7.3	156K
+1301	The Ministry of Ungentlemanly Warfare	2024	2h 2m	R		6.8	157K
+1304	Where the Crawdads Sing	2022	2h 5m	PG-13		7.2	158K
+1305	The Imaginarium of Doctor Parnassus	2009	2h 3m	PG-13		6.7	158K
+1306	Smokin' Aces	2006	1h 49m	R		6.6	158K
+1307	Blended	2014	1h 57m	PG-13		6.5	158K
+1308	Winter's Bone	2010	1h 40m	R		7.1	158K
+1309	Vantage Point	2008	1h 30m	PG-13		6.6	158K
+1310	My Cousin Vinny	1992	2h	R		7.6	158K
+1312	A Serious Man	2009	1h 46m	R		7.0	158K
+1313	Roman Holiday	1953	1h 58m	Approved		8.0	158K
+1315	Brooklyn	2015	1h 57m	PG-13		7.5	158K
+1316	Gifted	2017	1h 41m	PG-13		7.6	158K
+1317	From Russia with Love	1963	1h 55m	PG		7.3	158K
+1318	Highlander	1986	1h 50m	R		7.0	158K
+1319	In the Heart of the Sea	2015	2h 2m	PG-13		6.9	159K
+1320	Shoot 'Em Up	2007	1h 26m	R		6.6	159K
+1321	Love and Monsters	2020	1h 49m	PG-13		6.9	159K
+1323	We Were Soldiers	2002	2h 18m	R		7.2	159K
+1324	The Count of Monte Cristo	2002	2h 11m	PG-13		7.7	160K
+1325	Never Let Me Go	2010	1h 43m	R		7.1	160K
+1326	We Bought a Zoo	2011	2h 4m	PG		7.0	160K
+1327	Licorice Pizza	2021	2h 13m	R		7.1	160K
+1328	Raising Arizona	1987	1h 34m	PG-13		7.3	160K
+1329	The Equalizer 3	2023	1h 49m	R		6.8	161K
+1330	This Is Spinal Tap	1984	1h 22m	R		7.9	161K
+1331	Tag	2018	1h 40m	R		6.5	161K
+1332	The Firm	1993	2h 34m	R		6.9	161K
+1333	Defiance	2008	2h 17m	R		7.1	161K
+1334	Triple Frontier	2019	2h 5m	R		6.5	161K
+1336	Margin Call	2011	1h 47m	R		7.1	161K
+1337	Witness for the Prosecution	1957	1h 56m	Approved		8.4	161K
+1340	Phantom Thread	2017	2h 10m	R		7.4	162K
+1341	I Am Sam	2001	2h 12m	PG-13		7.6	162K
+1342	Man on a Ledge	2012	1h 42m	PG-13		6.6	162K
+1343	Rebecca	1940	2h 10m	Approved		8.1	162K
+1344	Mr. Brooks	2007	2h	R		7.2	163K
+1346	They Live	1988	1h 34m	R		7.2	163K
+1347	Remember Me	2010	1h 53m	PG-13		7.1	163K
+1348	Escape from Alcatraz	1979	1h 52m	PG		7.5	164K
+1350	The Way Way Back	2013	1h 43m	PG-13		7.4	164K
+1351	Hustle	2022	1h 57m	R		7.3	164K
+1352	Labyrinth	1986	1h 41m	PG		7.3	164K
+1353	Cold Mountain	2003	2h 34m	R		7.2	164K
+1354	Blazing Saddles	1974	1h 33m	R		7.7	164K
+1355	Borat Subsequent Moviefilm	2020	1h 35m	R		6.6	164K
+1356	Rope	1948	1h 20m	Approved		7.9	165K
+1358	The Lake House	2006	1h 39m	PG		6.8	165K
+1359	Good Morning, Vietnam	1987	2h 1m	R		7.3	165K
+1361	A Fish Called Wanda	1988	1h 48m	R		7.5	165K
+1362	Ray	2004	2h 32m	PG-13		7.7	165K
+1363	Tremors	1990	1h 36m	PG-13		7.2	166K
+1364	The Time Traveler's Wife	2009	1h 47m	PG-13		7.1	166K
+1365	Kramer vs. Kramer	1979	1h 45m	PG		7.8	166K
+1367	State of Play	2009	2h 7m	PG-13		7.1	166K
+1368	Jay and Silent Bob Strike Back	2001	1h 44m	R		6.8	166K
+1370	Big Trouble in Little China	1986	1h 39m	PG-13		7.2	167K
+1371	Lars and the Real Girl	2007	1h 46m	PG-13		7.3	167K
+1372	The French Dispatch	2021	1h 47m	R		7.1	167K
+1374	Bad Santa	2003	1h 32m	R		7.0	168K
+1375	Seven Years in Tibet	1997	2h 16m	PG-13		7.1	168K
+1376	The Negotiator	1998	2h 20m	R		7.3	168K
+1377	Kingdom of the Planet of the Apes	2024	2h 25m	PG-13		6.8	168K
+1378	Boyz n the Hood	1991	1h 52m	R		7.8	168K
+1379	Love, Rosie	2014	1h 42m	R		7.1	168K
+1380	Four Brothers	2005	1h 49m	R		6.8	168K
+1381	The Spectacular Now	2013	1h 35m	R		7.0	168K
+1382	The Mule	2018	1h 56m	R		7.0	168K
+1383	Dogville	2003	2h 51m	R		8.0	168K
+1384	The Gorge	2025	2h 8m	PG-13		6.7	169K
+1385	The Devil All the Time	2020	2h 18m	R		7.1	169K
+1386	Locke	2013	1h 25m	R		7.1	169K
+1388	Analyze This	1999	1h 43m	R		6.7	169K
+1391	Rounders	1998	2h 1m	R		7.3	170K
+1392	The Drop	2014	1h 46m	R		7.0	170K
+1393	The NeverEnding Story	1984	1h 42m	PG		7.3	170K
+1394	Lost Highway	1997	2h 14m	R		7.6	170K
+1395	Creed II	2018	2h 10m	PG-13		7.1	170K
+1396	King Richard	2021	2h 24m	PG-13		7.5	170K
+1397	Green Street Hooligans	2005	1h 49m	R		7.4	171K
+1399	The Disaster Artist	2017	1h 44m	R		7.3	171K
+1400	The Post	2017	1h 56m	PG-13		7.2	172K
+1401	From Hell	2001	2h 2m	R		6.7	172K
+1402	Inside Llewyn Davis	2013	1h 44m	R		7.4	172K
+1403	Brothers	2009	1h 45m	R		7.1	172K
+1405	Coherence	2013	1h 29m	Not Rated		7.2	172K
+1407	Escape from New York	1981	1h 39m	R		7.1	172K
+1408	Hocus Pocus	1993	1h 36m	PG		6.9	172K
+1409	Snowden	2016	2h 14m	R		7.3	172K
+1410	Extraction II	2023	2h 2m	R		7.0	172K
+1411	Monster	2003	1h 49m	R		7.3	173K
+1412	Memoirs of a Geisha	2005	2h 25m	PG-13		7.3	173K
+1413	War Horse	2011	2h 26m	PG-13		7.2	173K
+1416	The Parent Trap	1998	2h 8m	PG		6.7	173K
+1417	The Wedding Singer	1998	1h 37m	PG-13		6.9	173K
+1418	Beetlejuice Beetlejuice	2024	1h 45m	PG-13		6.6	173K
+1419	Conan the Barbarian	1982	2h 9m	R		6.9	173K
+1420	The Maltese Falcon	1941	1h 40m	Approved		7.9	174K
+1421	Invictus	2009	2h 14m	PG-13		7.3	174K
+1422	Hard Candy	2005	1h 44m	R		7.0	174K
+1423	Last Action Hero	1993	2h 10m	PG-13		6.5	174K
+1424	Wall Street	1987	2h 6m	R		7.3	174K
+1425	Adventureland	2009	1h 47m	R		6.8	174K
+1426	House of Gucci	2021	2h 38m	R		6.6	174K
+1427	Vice	2018	2h 12m	R		7.2	175K
+1428	Underworld: Rise of the Lycans	2009	1h 32m	R		6.5	175K
+1429	Bugonia	2025	1h 58m	R		7.4	175K
+1430	Marley & Me	2008	1h 55m	PG		7.0	175K
+1431	Saving Mr. Banks	2013	2h 5m	PG-13		7.5	175K
+1432	Begin Again	2013	1h 44m	R		7.4	176K
+1433	Buried	2010	1h 35m	R		7.0	176K
+1434	Logan Lucky	2017	1h 58m	PG-13		7.0	176K
+1435	Awakenings	1990	2h 1m	PG-13		7.8	176K
+1436	The Ghost Writer	2010	2h 8m	PG-13		7.2	177K
+1438	Challengers	2024	2h 11m	R		7.0	177K
+1439	On the Waterfront	1954	1h 48m	Approved		8.1	177K
+1440	Spy Game	2001	2h 6m	R		7.1	178K
+1441	The King	2019	2h 20m	R		7.3	178K
+1443	Bad Times at the El Royale	2018	2h 21m	R		7.1	178K
+1445	Sin City: A Dame to Kill For	2014	1h 42m	R		6.5	178K
+1446	The Unbearable Weight of Massive Talent	2022	1h 47m	R		7.0	179K
+1447	One Day	2011	1h 47m	PG-13		7.0	179K
+1448	13 Hours	2016	2h 24m	R		7.3	179K
+1449	Allied	2016	2h 4m	R		7.1	180K
+1450	Planes, Trains & Automobiles	1987	1h 33m	R		7.6	180K
+1451	Lethal Weapon 4	1998	2h 7m	R		6.6	180K
+1452	Dirty Harry	1971	1h 42m	R		7.7	180K
+1453	A Christmas Story	1983	1h 33m	PG		7.9	181K
+1454	We Need to Talk About Kevin	2011	1h 52m	R		7.4	181K
+1455	Double Indemnity	1944	1h 47m	Approved		8.3	181K
+1456	Young Frankenstein	1974	1h 46m	PG		8.0	181K
+1457	The Hunger Games: The Ballad of Songbirds & Snakes	2023	2h 37m	PG-13		6.6	182K
+1458	Project Hail Mary	2026	2h 36m	PG-13		8.4	182K
+1459	Definitely, Maybe	2008	1h 52m	PG-13		7.1	182K
+1460	Four Weddings and a Funeral	1994	1h 57m	R		7.1	182K
+1461	Wayne's World	1992	1h 34m	PG-13		7.0	182K
+1462	JFK	1991	3h 9m	R		8.0	182K
+1463	Trading Places	1983	1h 56m	R		7.5	182K
+1464	Nightmare Alley	2021	2h 30m	R		7.0	182K
+1465	The Mechanic	2011	1h 33m	R		6.5	183K
+1467	Michael Clayton	2007	1h 59m	R		7.2	184K
+1468	The Ballad of Buster Scruggs	2018	2h 13m	R		7.2	184K
+1470	A Bronx Tale	1993	2h 1m	R		7.8	184K
+1471	Yesterday	2019	1h 56m	PG-13		6.8	185K
+1472	Sound of Metal	2019	2h	R		7.7	185K
+1473	The Gift	2015	1h 48m	R		7.0	185K
+1475	Before Midnight	2013	1h 49m	R		7.9	185K
+1478	The Virgin Suicides	1999	1h 37m	R		7.2	186K
+1480	Network	1976	2h 1m	R		8.1	186K
+1483	Zack and Miri Make a Porno	2008	1h 41m	R		6.5	187K
+1485	Steve Jobs	2015	2h 2m	R		7.2	187K
+1487	Three Kings	1999	1h 54m	R		7.1	187K
+1489	Commando	1985	1h 30m	R		6.7	187K
+1490	The Perfect Storm	2000	2h 10m	PG-13		6.5	188K
+1491	Lethal Weapon 3	1992	1h 58m	R		6.7	188K
+1492	The Heat	2013	1h 57m	R		6.6	188K
+1493	Road Trip	2000	1h 33m	R		6.5	188K
+1494	RED 2	2013	1h 56m	PG-13		6.6	189K
+1495	A Simple Favor	2018	1h 57m	R		6.7	190K
+1496	The Man in the Iron Mask	1998	2h 12m	PG-13		6.5	190K
+1497	The Running Man	1987	1h 41m	R		6.6	190K
+1498	Bridge to Terabithia	2007	1h 36m	PG		7.2	191K
+1499	Sicario: Day of the Soldado	2018	2h 2m	R		7.1	191K
+1500	Tombstone	1993	2h 10m	R		7.8	191K
+1501	The Lovely Bones	2009	2h 15m	PG-13		6.6	191K
+1502	Galaxy Quest	1999	1h 42m	PG		7.4	191K
+1503	Ed Wood	1994	2h 7m	R		7.8	191K
+1504	25th Hour	2002	2h 15m	R		7.6	191K
+1506	Searching	2018	1h 42m	PG-13		7.6	192K
+1507	Coach Carter	2005	2h 16m	PG-13		7.4	192K
+1508	The Tree of Life	2011	2h 19m	PG-13		6.8	192K
+1509	The Insider	1999	2h 37m	R		7.8	192K
+1511	Thelma & Louise	1991	2h 10m	R		7.6	192K
+1512	Carry-On	2024	1h 59m	PG-13		6.5	192K
+1513	Wonka	2023	1h 56m	PG		6.9	193K
+1514	Pi	1998	1h 24m	R		7.3	193K
+1515	Twisters	2024	2h 2m	PG-13		6.5	194K
+1516	Air	2023	1h 51m	R		7.4	194K
+1519	Dr. No	1962	1h 50m	PG		7.2	195K
+1520	The Third Man	1949	1h 44m	Approved		8.1	195K
+1521	Rambo: First Blood Part II	1985	1h 36m	R		6.5	196K
+1524	Wonder	2017	1h 53m	PG		7.9	196K
+1525	Pokémon: Detective Pikachu	2019	1h 44m	PG		6.5	196K
+1526	The Creator	2023	2h 13m	PG-13		6.7	196K
+1527	Bad Boys for Life	2020	2h 4m	R		6.5	197K
+1529	The Bank Job	2008	1h 51m	R		7.2	197K
+1530	Cool Hand Luke	1967	2h 7m	Approved		8.0	197K
+1531	Punch-Drunk Love	2002	1h 35m	R		7.3	198K
+1532	Mary Poppins	1964	2h 19m	G		7.8	198K
+1533	Unbroken	2014	2h 17m	PG-13		7.2	199K
+1534	Deepwater Horizon	2016	1h 47m	PG-13		7.1	199K
+1535	High Fidelity	2000	1h 53m	R		7.4	199K
+1537	Legends of the Fall	1994	2h 13m	R		7.5	199K
+1538	Mud	2012	2h 10m	PG-13		7.3	199K
+1539	About a Boy	2002	1h 41m	PG-13		7.1	200K
+1540	The Bone Collector	1999	1h 58m	R		6.7	200K
+1541	The Master	2012	2h 18m	R		7.1	201K
+1543	The Addams Family	1991	1h 39m	PG-13		7.0	201K
+1544	Lethal Weapon 2	1989	1h 54m	R		7.3	201K
+1546	Eagle Eye	2008	1h 58m	PG-13		6.6	202K
+1548	Black Mass	2015	2h 3m	R		6.8	202K
+1549	In the Name of the Father	1993	2h 13m	R		8.1	202K
+1550	K-PAX	2001	2h	PG-13		7.4	202K
+1552	Swordfish	2001	1h 39m	R		6.5	203K
+1553	Molly's Game	2017	2h 20m	R		7.4	203K
+1554	The Assassination of Jesse James by the Coward Robert Ford	2007	2h 40m	R		7.5	204K
+1555	Barry Lyndon	1975	3h 5m	PG		8.1	204K
+1556	Breakfast at Tiffany's	1961	1h 55m	Approved		7.5	204K
+1557	The Founder	2016	1h 55m	PG-13		7.2	204K
+1558	Dial M for Murder	1954	1h 45m	PG		8.1	204K
+1559	Cinderella	2015	1h 45m	PG		6.9	205K
+1561	The Trial of the Chicago 7	2020	2h 9m	R		7.7	205K
+1562	Side Effects	2013	1h 46m	R		7.0	205K
+1563	Babylon	2022	3h 9m	R		7.1	206K
+1564	The Last King of Scotland	2006	2h 3m	R		7.6	206K
+1566	A Time to Kill	1996	2h 29m	R		7.5	206K
+1567	The Last of the Mohicans	1992	1h 52m	R		7.6	206K
+1569	Sleepless in Seattle	1993	1h 45m	PG		6.8	207K
+1570	Superman	1978	2h 23m	PG		7.4	207K
+1571	Bumblebee	2018	1h 54m	PG-13		6.7	208K
+1572	Ronin	1998	2h 2m	R		7.2	208K
+1573	Layer Cake	2004	1h 45m	R		7.2	208K
+1574	Melancholia	2011	2h 15m	R		7.1	208K
+1575	Miss Peregrine's Home for Peculiar Children	2016	2h 7m	PG-13		6.7	208K
+1576	Desperado	1995	1h 44m	R		7.1	208K
+1577	Rushmore	1998	1h 33m	R		7.6	208K
+1578	Army of Darkness	1992	1h 21m	R		7.4	208K
+1580	Crazy Rich Asians	2018	2h	PG-13		6.9	208K
+1581	Demolition Man	1993	1h 55m	R		6.7	209K
+1582	The Covenant	2023	2h 3m	R		7.5	209K
+1583	Rocketman	2019	2h 1m	R		7.3	209K
+1584	Tucker and Dale vs Evil	2010	1h 29m	R		7.5	209K
+1585	Cinderella Man	2005	2h 24m	PG-13		8.0	209K
+1587	The Abyss	1989	2h 20m	PG-13		7.5	209K
+1588	Machete	2010	1h 45m	R		6.6	210K
+1589	A Man Called Otto	2022	2h 6m	PG-13		7.5	210K
+1590	The Old Guard	2020	2h 5m	R		6.7	210K
+1591	The Ninth Gate	1999	2h 13m	R		6.7	210K
+1592	The Mask of Zorro	1998	2h 16m	PG-13		6.8	210K
+1593	Chocolat	2000	2h 1m	PG-13		7.2	210K
+1594	Planet of the Apes	1968	1h 52m	G		8.0	210K
+1596	The Girl on the Train	2016	1h 52m	R		6.5	211K
+1601	The Thin Red Line	1998	2h 50m	R		7.6	213K
+1603	The Road Warrior	1981	1h 36m	R		7.6	213K
+1605	What We Do in the Shadows	2014	1h 26m	R		7.6	213K
+1606	The English Patient	1996	2h 42m	R		7.4	213K
+1607	Palm Springs	2020	1h 30m	R		7.4	213K
+1608	Talladega Nights: The Ballad of Ricky Bobby	2006	1h 48m	PG-13		6.6	213K
+1609	The Vow	2012	1h 44m	PG-13		6.8	214K
+1610	Adaptation.	2002	1h 55m	R		7.6	214K
+1613	Hanna	2011	1h 51m	PG-13		6.7	215K
+1614	Idiocracy	2006	1h 24m	R		6.5	215K
+1615	The Next Three Days	2010	2h 13m	PG-13		7.3	215K
+1616	Triangle of Sadness	2022	2h 27m	R		7.2	216K
+1617	Dazed and Confused	1993	1h 43m	R		7.6	216K
+1618	Tomorrow Never Dies	1997	1h 59m	PG-13		6.5	216K
+1619	Harold & Kumar Go to White Castle	2004	1h 28m	R		7.0	216K
+1620	First Man	2018	2h 21m	PG-13		7.3	216K
+1621	Sideways	2004	2h 7m	R		7.5	217K
+1623	The Hitchhiker's Guide to the Galaxy	2005	1h 49m	PG		6.7	217K
+1624	Shame	2011	1h 41m	NC-17		7.2	217K
+1626	Goldfinger	1964	1h 50m	Approved		7.7	217K
+1627	Finding Neverland	2004	1h 46m	PG		7.6	217K
+1629	Red Sparrow	2018	2h 20m	R		6.6	217K
+1630	Underworld: Evolution	2006	1h 46m	R		6.7	218K
+1631	Nomadland	2020	1h 47m	R		7.3	218K
+1632	The Man from Earth	2007	1h 27m	Not Rated		7.8	218K
+1634	Stargate	1994	2h 1m	PG-13		7.0	219K
+1635	The Apartment	1960	2h 5m	Approved		8.3	219K
+1636	Unstoppable	2010	1h 38m	PG-13		6.8	219K
+1637	The Judge	2014	2h 21m	R		7.4	219K
+1638	A Knight's Tale	2001	2h 12m	PG-13		7.0	219K
+1639	Atomic Blonde	2017	1h 55m	R		6.7	220K
+1641	Blue Jasmine	2013	1h 38m	PG-13		7.3	220K
+1642	Cruel Intentions	1999	1h 37m	R		6.8	220K
+1644	The Life Aquatic with Steve Zissou	2004	1h 59m	R		7.2	221K
+1645	Secret Window	2004	1h 36m	PG-13		6.5	221K
+1646	The Naked Gun: From the Files of Police Squad!	1988	1h 25m	PG-13		7.6	222K
+1647	Robin Hood: Prince of Thieves	1991	2h 23m	PG-13		6.9	222K
+1648	The Power of the Dog	2021	2h 6m	R		6.8	222K
+1650	Brazil	1985	2h 12m	R		7.8	222K
+1652	The Killer	2023	1h 58m	R		6.7	223K
+1655	Legend	2015	2h 12m	R		6.9	223K
+1656	Air Force One	1997	2h 4m	R		6.5	223K
+1659	Point Break	1991	2h 2m	R		7.3	224K
+1660	Jarhead	2005	2h 5m	R		7.0	224K
+1663	Zombieland: Double Tap	2019	1h 39m	R		6.6	225K
+1664	Blue Valentine	2010	1h 52m	R		7.3	225K
+1665	I Love You, Man	2009	1h 45m	R		7.0	225K
+1666	P.S. I Love You	2007	2h 6m	PG-13		7.0	225K
+1667	Falling Down	1993	1h 53m	R		7.5	226K
+1668	Dark City	1998	1h 40m	R		7.5	226K
+1669	Mission: Impossible - The Final Reckoning	2025	2h 49m	PG-13		7.1	226K
+1670	Tinker Tailor Soldier Spy	2011	2h 7m	R		7.0	226K
+1671	Spaceballs	1987	1h 36m	PG		7.1	226K
+1672	Jungle Cruise	2021	2h 7m	PG-13		6.5	227K
+1673	Rocky III	1982	1h 39m	PG		6.9	228K
+1675	Wicked	2024	2h 40m	PG		7.3	228K
+1676	The Age of Adaline	2015	1h 52m	PG-13		7.2	228K
+1677	The Equalizer 2	2018	2h 1m	R		6.7	228K
+1678	Gangster Squad	2013	1h 53m	R		6.7	229K
+1679	Garden State	2004	1h 42m	R		7.4	229K
+1680	The Blues Brothers	1980	2h 13m	R		7.9	229K
+1683	Traffic	2000	2h 27m	R		7.5	230K
+1684	The Hunt for Red October	1990	2h 15m	PG		7.5	230K
+1685	The Crow	1994	1h 42m	R		7.5	230K
+1686	Wake Up Dead Man	2025	2h 24m	PG-13		7.3	230K
+1688	A Walk to Remember	2002	1h 41m	PG		7.3	231K
+1689	A Series of Unfortunate Events	2004	1h 48m	PG		6.8	231K
+1690	Beverly Hills Cop	1984	1h 45m	R		7.4	232K
+1691	Indiana Jones and the Dial of Destiny	2023	2h 34m	PG-13		6.5	232K
+1692	American Made	2017	1h 55m	R		7.1	232K
+1693	Close Encounters of the Third Kind	1977	2h 18m	PG		7.6	233K
+1694	Upgrade	2018	1h 40m	R		7.5	233K
+1696	Who Framed Roger Rabbit	1988	1h 44m	PG		7.7	233K
+1697	Straight Outta Compton	2015	2h 27m	R		7.8	233K
+1698	American Reunion	2012	1h 53m	R		6.7	234K
+1699	The Darjeeling Limited	2007	1h 31m	R		7.2	234K
+1700	Girl, Interrupted	1999	2h 7m	R		7.3	234K
+1701	Fracture	2007	1h 53m	R		7.2	235K
+1703	Thank You for Smoking	2005	1h 32m	R		7.5	235K
+1705	Revolutionary Road	2008	1h 59m	R		7.3	236K
+1706	2 Guns	2013	1h 49m	R		6.7	237K
+1707	Get Smart	2008	1h 50m	PG-13		6.5	237K
+1708	Wrath of Man	2021	1h 59m	R		7.1	238K
+1710	Paths of Glory	1957	1h 28m	Approved		8.4	238K
+1712	Enemy	2013	1h 31m	R		6.9	239K
+1713	Match Point	2005	2h 4m	R		7.6	239K
+1714	The Ides of March	2011	1h 41m	R		7.1	239K
+1715	Butch Cassidy and the Sundance Kid	1969	1h 50m	PG		8.0	239K
+1716	The Chronicles of Narnia: Prince Caspian	2008	2h 30m	PG		6.5	239K
+1717	What Women Want	2000	2h 7m	PG-13		6.5	239K
+1718	Ghostbusters II	1989	1h 48m	PG		6.6	239K
+1719	Coming to America	1988	1h 57m	R		7.1	240K
+1720	Clerks	1994	1h 32m	R		7.7	240K
+1721	Dogma	1999	2h 10m	R		7.3	240K
+1722	Ghostbusters: Afterlife	2021	2h 4m	PG-13		7.0	241K
+1724	Mickey 17	2025	2h 17m	R		6.7	242K
+1725	Cape Fear	1991	2h 8m	R		7.3	242K
+1726	Rocky Balboa	2006	1h 42m	PG		7.1	243K
+1727	Basic Instinct	1992	2h 7m	R		7.1	243K
+1728	Darkest Hour	2017	2h 5m	PG-13		7.4	243K
+1729	Shakespeare in Love	1998	2h 3m	R		7.1	243K
+1732	The Father	2020	1h 37m	PG-13		8.2	243K
+1733	EuroTrip	2004	1h 32m	R		6.6	244K
+1735	Rocky IV	1985	1h 31m	PG		6.9	244K
+1736	Mad Max	1979	1h 28m	R		6.8	244K
+1737	Willy Wonka & the Chocolate Factory	1971	1h 40m	G		7.8	245K
+1738	Blue Velvet	1986	2h	R		7.7	245K
+1739	Stranger Than Fiction	2006	1h 53m	PG-13		7.5	245K
+1740	Enola Holmes	2020	2h 3m	PG-13		6.6	245K
+1741	You've Got Mail	1998	1h 59m	PG		6.7	245K
+1742	Erin Brockovich	2000	2h 11m	R		7.5	245K
+1743	The Magnificent Seven	2016	2h 12m	PG-13		6.9	246K
+1744	The Flash	2023	2h 24m	PG-13		6.6	247K
+1745	Everest	2015	2h 1m	PG-13		7.1	247K
+1746	The Holdovers	2023	2h 13m	R		7.9	247K
+1747	King Arthur: Legend of the Sword	2017	2h 6m	PG-13		6.7	247K
+1748	National Lampoon's Christmas Vacation	1989	1h 37m	PG-13		7.5	247K
+1749	Gandhi	1982	3h 11m	PG		8.0	247K
+1750	Carlito's Way	1993	2h 24m	R		7.9	247K
+1753	The Bridge on the River Kwai	1957	2h 41m	PG		8.1	248K
+1755	Rocky II	1979	1h 59m	PG		7.3	249K
+1756	Remember the Titans	2000	1h 53m	PG		7.8	249K
+1757	Kiss Kiss Bang Bang	2005	1h 43m	R		7.4	249K
+1758	Safe House	2012	1h 55m	R		6.7	249K
+1759	Body of Lies	2008	2h 8m	R		7.0	250K
+1760	Chef	2014	1h 54m	R		7.3	250K
+1761	Captain Fantastic	2016	1h 58m	R		7.8	250K
+1762	Love & Other Drugs	2010	1h 52m	R		6.7	251K
+1763	Closer	2004	1h 44m	R		7.1	251K
+1766	Big Daddy	1999	1h 33m	PG-13		6.5	251K
+1767	Sleepers	1996	2h 27m	R		7.5	251K
+1768	The Chronicles of Riddick	2004	1h 59m	R		6.6	251K
+1769	Twister	1996	1h 53m	PG-13		6.6	251K
+1770	Role Models	2008	1h 39m	R		6.8	252K
+1771	Blade II	2002	1h 57m	R		6.7	252K
+1772	The Tomorrow War	2021	2h 18m	PG-13		6.6	253K
+1773	A Fistful of Dollars	1964	1h 39m	R		7.9	253K
+1774	Munich	2005	2h 44m	R		7.5	253K
+1775	21 Grams	2003	2h 4m	R		7.6	253K
+1778	Don Jon	2013	1h 30m	R		6.5	255K
+1779	Warm Bodies	2013	1h 38m	PG-13		6.8	255K
+1780	Master and Commander: The Far Side of the World	2003	2h 18m	PG-13		7.5	255K
+1781	The Artist	2011	1h 40m	PG-13		7.8	255K
+1782	Napoleon Dynamite	2004	1h 36m	PG		7.0	255K
+1783	Ghost	1990	2h 6m	PG-13		7.1	256K
+1784	Chicago	2002	1h 53m	PG-13		7.2	256K
+1785	Rambo	2008	1h 32m	R		7.0	256K
+1786	Old School	2003	1h 28m	R		7.0	257K
+1787	Jason Bourne	2016	2h 3m	PG-13		6.6	257K
+1788	Project X	2012	1h 28m	R		6.7	257K
+1789	The Adam Project	2022	1h 46m	PG-13		6.7	257K
+1790	Mr. Nobody	2009	2h 21m	R		7.7	257K
+1792	Conclave	2024	2h	PG		7.4	257K
+1793	The Fantastic Four: First Steps	2025	1h 55m	PG-13		6.8	258K
+1794	The Fountain	2006	1h 37m	PG-13		7.1	258K
+1796	The Favourite	2018	1h 59m	R		7.5	258K
+1797	Ghostbusters	2016	1h 57m	PG-13		6.8	258K
+1798	The Great Dictator	1940	2h 5m	G		8.4	259K
+1800	The Fall Guy	2024	2h 6m	PG-13		6.8	259K
+1801	The Descendants	2011	1h 55m	R		7.3	260K
+1802	Big	1988	1h 44m	PG		7.3	260K
+1803	Rush Hour 2	2001	1h 30m	PG-13		6.7	260K
+1804	Romeo + Juliet	1996	2h	PG-13		6.7	260K
+1805	True Romance	1993	1h 59m	R		7.9	260K
+1806	Elvis	2022	2h 39m	PG-13		7.3	260K
+1807	Sunset Boulevard	1950	1h 50m	Approved		8.4	261K
+1809	I, Tonya	2017	1h 59m	R		7.5	261K
+1810	The Boondock Saints	1999	1h 48m	R		7.6	262K
+1811	The Hitman's Bodyguard	2017	1h 58m	R		6.9	262K
+1814	Austin Powers: The Spy Who Shagged Me	1999	1h 35m	PG-13		6.7	262K
+1815	Lawless	2012	1h 56m	R		7.2	262K
+1816	The Girl Next Door	2004	1h 49m	R		6.7	262K
+1817	The Impossible	2012	1h 54m	PG-13		7.5	263K
+1820	Saltburn	2023	2h 11m	R		7.0	264K
+1821	Ender's Game	2013	1h 54m	PG-13		6.6	265K
+1822	Me, Myself & Irene	2000	1h 56m	R		6.6	265K
+1824	Lion	2016	1h 58m	PG-13		8.0	266K
+1825	National Treasure: Book of Secrets	2007	2h 4m	PG		6.5	267K
+1826	Civil War	2024	1h 49m	R		7.0	267K
+1827	Natural Born Killers	1994	1h 59m	R		7.2	267K
+1830	The Beach	2000	1h 59m	R		6.6	268K
+1833	What's Eating Gilbert Grape	1993	1h 58m	PG-13		7.7	269K
+1834	Star Trek Beyond	2016	2h 2m	PG-13		7.0	270K
+1835	The Lincoln Lawyer	2011	1h 58m	R		7.3	270K
+1836	Anora	2024	2h 19m	R		7.4	270K
+1838	Escape Plan	2013	1h 55m	R		6.7	270K
+1839	The Road	2009	1h 51m	R		7.2	270K
+1840	The Karate Kid	1984	2h 6m	PG		7.3	271K
+1842	The Talented Mr. Ripley	1999	2h 19m	R		7.4	271K
+1843	Ben-Hur	1959	3h 32m	G		8.1	271K
+1845	The Gray Man	2022	2h 2m	PG-13		6.5	272K
+1846	When Harry Met Sally...	1989	1h 35m	R		7.7	272K
+1847	Prey	2022	1h 40m	R		7.1	272K
+1848	The Bucket List	2007	1h 37m	PG-13		7.3	272K
+1849	A History of Violence	2005	1h 36m	R		7.4	272K
+1851	Dungeons & Dragons: Honor Among Thieves	2023	2h 14m	PG-13		7.2	273K
+1852	Austin Powers: International Man of Mystery	1997	1h 29m	PG-13		7.0	273K
+1853	Philadelphia	1993	2h 5m	PG-13		7.7	273K
+1854	The Boy in the Striped Pajamas	2008	1h 34m	PG-13		7.7	273K
+1855	Thunderbolts*	2025	2h 7m	PG-13		7.1	274K
+1856	The Reader	2008	2h 4m	R		7.6	274K
+1857	The Fate of the Furious	2017	2h 16m	PG-13		6.6	274K
+1858	Spy	2015	2h	R		7.0	274K
+1859	Gremlins	1984	1h 46m	PG		7.3	274K
+1860	Disturbia	2007	1h 45m	PG-13		6.8	274K
+1861	The Grey	2011	1h 57m	R		6.7	274K
+1862	Enemy of the State	1998	2h 12m	R		7.3	274K
+1863	Valkyrie	2008	2h 1m	PG-13		7.1	275K
+1864	Changeling	2008	2h 21m	R		7.7	275K
+1865	RocknRolla	2008	1h 54m	R		7.2	275K
+1866	Unknown	2011	1h 53m	PG-13		6.8	276K
+1868	Hell or High Water	2016	1h 42m	R		7.6	277K
+1869	Clueless	1995	1h 37m	PG-13		6.9	277K
+1871	Game Night	2018	1h 40m	R		6.9	277K
+1872	Crank	2006	1h 28m	R		6.9	277K
+1873	The Great Escape	1963	2h 52m	Approved		8.2	277K
+1874	Eastern Promises	2007	1h 40m	R		7.6	277K
+1875	Chronicle	2012	1h 24m	PG-13		7.0	277K
+1876	The A-Team	2010	1h 57m	PG-13		6.7	277K
+1877	Southpaw	2015	2h 4m	R		7.3	278K
+1878	Perfume: The Story of a Murderer	2006	2h 27m	R		7.5	279K
+1880	Dirty Dancing	1987	1h 40m	PG-13		7.1	279K
+1881	Walk the Line	2005	2h 16m	PG-13		7.8	280K
+1882	Vicky Cristina Barcelona	2008	1h 36m	PG-13		7.1	280K
+1883	Ad Astra	2019	2h 3m	PG-13		6.5	280K
+1884	21	2008	2h 3m	PG-13		6.8	281K
+1885	The Whale	2022	1h 57m	R		7.6	281K
+1886	Paul	2011	1h 44m	R		6.9	282K
+1887	The Elephant Man	1980	2h 4m	PG		8.2	282K
+1888	Singin' in the Rain	1952	1h 43m	G		8.3	282K
+1889	The Adjustment Bureau	2011	1h 46m	PG-13		7.0	282K
+1890	Primal Fear	1996	2h 9m	R		7.7	282K
+1891	Little Women	2019	2h 15m	PG		7.8	283K
+1892	Legally Blonde	2001	1h 36m	PG-13		6.5	284K
+1893	Chappie	2015	2h	R		6.8	284K
+1895	Lincoln	2012	2h 30m	PG-13		7.3	284K
+1897	Modern Times	1936	1h 27m	G		8.5	285K
+1900	Dodgeball: A True Underdog Story	2004	1h 32m	PG-13		6.7	285K
+1901	GoldenEye	1995	2h 10m	PG-13		7.2	286K
+1902	Sunshine	2007	1h 47m	R		7.2	286K
+1903	Bridget Jones's Diary	2001	1h 37m	R		6.8	286K
+1904	American Pie 2	2001	1h 48m	R		6.5	286K
+1905	Airplane!	1980	1h 28m	PG		7.7	287K
+1906	Blow	2001	2h 4m	R		7.5	287K
+1907	Non-Stop	2014	1h 46m	PG-13		6.9	287K
+1908	Seven Psychopaths	2012	1h 50m	R		7.1	287K
+1909	Bad Boys II	2003	2h 27m	R		6.6	288K
+1911	Hidden Figures	2016	2h 7m	PG		7.8	288K
+1912	Extraction	2020	1h 56m	R		6.8	289K
+1915	Annie Hall	1977	1h 33m	PG		7.9	291K
+1916	The Sound of Music	1965	2h 54m	G		8.1	291K
+1917	Hook	1991	2h 22m	PG		6.8	291K
+1919	End of Watch	2012	1h 49m	R		7.6	291K
+1920	Dog Day Afternoon	1975	2h 5m	R		8.0	292K
+1921	Identity	2003	1h 30m	R		7.3	292K
+1922	Enemy at the Gates	2001	2h 11m	R		7.5	293K
+1923	Gladiator II	2024	2h 28m	R		6.5	293K
+1924	Focus	2015	1h 45m	R		6.6	294K
+1925	Warcraft	2016	2h 3m	PG-13		6.7	295K
+1926	The Banshees of Inisherin	2022	1h 54m	R		7.6	295K
+1927	Cruella	2021	2h 14m	PG-13		7.3	295K
+1928	Lethal Weapon	1987	1h 49m	R		7.6	295K
+1930	Robin Hood	2010	2h 20m	PG-13		6.6	296K
+1931	The Village	2004	1h 48m	PG-13		6.6	296K
+1933	War Dogs	2016	1h 54m	R		7.1	297K
+1935	Stardust	2007	2h 7m	PG-13		7.6	298K
+1936	The Northman	2022	2h 17m	R		7.0	298K
+1937	Hellboy II: The Golden Army	2008	2h	PG-13		7.0	299K
+1938	John Carter	2012	2h 12m	PG-13		6.6	299K
+1939	Meet Joe Black	1998	2h 58m	PG-13		7.2	299K
+1941	For a Few Dollars More	1965	2h 12m	R		8.2	300K
+1942	Kick-Ass 2	2013	1h 43m	R		6.5	300K
+1943	The Sting	1973	2h 9m	PG		8.2	300K
+1944	Road to Perdition	2002	1h 57m	R		7.6	300K
+1945	Underworld	2003	2h 1m	R		7.0	300K
+1946	First Blood	1982	1h 33m	R		7.7	300K
+1948	True Lies	1994	2h 21m	R		7.3	301K
+1949	Phone Booth	2002	1h 21m	R		7.1	301K
+1951	The Graduate	1967	1h 46m	PG		8.0	303K
+1952	Glass	2019	2h 9m	PG-13		6.6	303K
+1954	Mamma Mia!	2008	1h 48m	PG-13		6.5	304K
+1955	Some Like It Hot	1959	2h 1m	Approved		8.2	304K
+1956	Boogie Nights	1997	2h 35m	R		7.9	305K
+1958	Killers of the Flower Moon	2023	3h 26m	R		7.5	306K
+1959	Happy Gilmore	1996	1h 32m	PG-13		7.0	306K
+1960	Olympus Has Fallen	2013	1h 59m	R		6.5	306K
+1961	Office Space	1999	1h 29m	R		7.6	308K
+1962	RoboCop	1987	1h 42m	R		7.6	308K
+1963	Vanilla Sky	2001	2h 16m	R		6.9	308K
+1964	The Intern	2015	2h 1m	PG-13		7.1	308K
+1965	The Place Beyond the Pines	2012	2h 20m	R		7.3	309K
+1966	The Other Guys	2010	1h 47m	PG-13		6.7	309K
+1967	Gone in 60 Seconds	2000	1h 58m	PG-13		6.5	310K
+1968	Dances with Wolves	1990	3h 1m	PG-13		8.0	310K
+1970	Gone Baby Gone	2007	1h 54m	R		7.6	310K
+1971	Jerry Maguire	1996	2h 19m	R		7.3	310K
+1972	Red Dragon	2002	2h 4m	R		7.2	311K
+1974	Dredd	2012	1h 35m	R		7.1	312K
+1975	The Patriot	2000	2h 45m	R		7.2	312K
+1976	Contact	1997	2h 30m	PG		7.5	312K
+1977	The World's End	2013	1h 49m	R		6.9	312K
+1979	Hannibal	2001	2h 11m	R		6.8	313K
+1982	BlacKkKlansman	2018	2h 15m	R		7.5	314K
+1983	Wind River	2017	1h 47m	R		7.7	314K
+1984	Aladdin	2019	2h 8m	PG		6.9	314K
+1985	Moulin Rouge!	2001	2h 7m	PG-13		7.5	314K
+1986	Panic Room	2002	1h 52m	R		6.8	314K
+1987	Before Sunset	2004	1h 20m	R		8.1	314K
+1989	Almost Famous	2000	2h 2m	R		7.9	315K
+1990	Bad Boys	1995	1h 59m	R		6.8	315K
+1991	Serenity	2005	1h 59m	PG-13		7.8	315K
+1992	Mrs. Doubtfire	1993	2h 5m	PG-13		7.1	315K
+1995	Zoolander	2001	1h 30m	R		6.5	316K
+1996	A Few Good Men	1992	2h 18m	R		7.7	316K
+1997	Prince of Persia: The Sands of Time	2010	1h 56m	PG-13		6.5	317K
+1999	Jumanji: The Next Level	2019	2h 3m	PG-13		6.6	318K
+2000	Furiosa: A Mad Max Saga	2024	2h 28m	R		7.5	318K
+2002	Fear and Loathing in Las Vegas	1998	1h 58m	R		7.4	319K
+2003	Forgetting Sarah Marshall	2008	1h 51m	R		7.1	319K
+2004	How to Lose a Guy in 10 Days	2003	1h 56m	PG-13		6.5	320K
+2005	Murder on the Orient Express	2017	1h 54m	PG-13		6.5	321K
+2007	Sully	2016	1h 36m	PG-13		7.4	321K
+2008	Alita: Battle Angel	2019	2h 2m	PG-13		7.3	323K
+2009	Lone Survivor	2013	2h 1m	R		7.5	323K
+2011	Bridesmaids	2011	2h 5m	R		6.8	325K
+2012	Grease	1978	1h 50m	PG		7.2	325K
+2013	Angels & Demons	2009	2h 18m	PG-13		6.7	325K
+2014	Seven Pounds	2008	2h 3m	PG-13		7.6	326K
+2015	The Goonies	1985	1h 54m	PG		7.7	326K
+2016	War for the Planet of the Apes	2017	2h 20m	PG-13		7.4	326K
+2017	Mission: Impossible - Dead Reckoning Part One	2023	2h 43m	PG-13		7.6	326K
+2019	Rush Hour	1998	1h 38m	PG-13		7.1	328K
+2020	The Bourne Legacy	2012	2h 15m	PG-13		6.6	328K
+2021	Atonement	2007	2h 3m	R		7.8	328K
+2022	Babel	2006	2h 23m	R		7.4	329K
+2023	Blade	1998	2h	R		7.1	329K
+2025	Contagion	2011	1h 46m	PG-13		6.8	330K
+2026	The Wrestler	2008	1h 49m	R		7.9	331K
+2027	Fantastic Beasts: The Crimes of Grindelwald	2018	2h 14m	PG-13		6.5	331K
+2028	The Lobster	2015	1h 59m	R		7.1	333K
+2030	Me Before You	2016	1h 50m	PG-13		7.4	333K
+2032	Creed	2015	2h 13m	PG-13		7.6	334K
+2033	Predestination	2014	1h 37m	R		7.4	334K
+2035	The Royal Tenenbaums	2001	1h 50m	R		7.6	334K
+2036	The Expendables 2	2012	1h 43m	R		6.6	334K
+2037	Public Enemies	2009	2h 20m	R		6.9	335K
+2038	Fast & Furious	2009	1h 47m	PG-13		6.5	335K
+2039	Apollo 13	1995	2h 20m	PG		7.7	336K
+2041	The Transporter	2002	1h 32m	PG-13		6.8	338K
+2042	As Good as It Gets	1997	2h 19m	PG-13		7.7	338K
+2044	RED	2010	1h 51m	PG-13		7.0	338K
+2045	Nocturnal Animals	2016	1h 56m	R		7.4	338K
+2046	A.I. Artificial Intelligence	2001	2h 26m	PG-13		7.2	339K
+2047	Lucky Number Slevin	2006	1h 50m	R		7.7	339K
+2048	Con Air	1997	1h 55m	R		6.9	339K
+2049	Step Brothers	2008	1h 38m	R		6.9	340K
+2051	Zero Dark Thirty	2012	2h 37m	R		7.4	341K
+2052	Lawrence of Arabia	1962	3h 47m	Approved		8.3	341K
+2054	Insomnia	2002	1h 58m	R		7.2	342K
+2055	El Camino	2019	2h 2m	TV-MA		7.3	342K
+2056	The Island	2005	2h 16m	PG-13		6.8	342K
+2057	Hachi: A Dog's Tale	2009	1h 33m	G		8.1	342K
+2058	Salt	2010	1h 40m	PG-13		6.5	343K
+2059	Bridge of Spies	2015	2h 22m	PG-13		7.6	344K
+2060	Law Abiding Citizen	2009	1h 49m	R		7.4	344K
+2061	Deja Vu	2006	2h 6m	PG-13		7.1	345K
+2063	Starship Troopers	1997	2h 9m	R		7.3	345K
+2064	The Fugitive	1993	2h 10m	PG-13		7.8	346K
+2065	The Greatest Showman	2017	1h 45m	PG		7.5	346K
+2066	Gattaca	1997	1h 46m	PG-13		7.7	346K
+2067	Elf	2003	1h 37m	PG		7.1	346K
+2068	F1: The Movie	2025	2h 35m	PG-13		7.6	347K
+2069	There's Something About Mary	1998	1h 59m	R		7.1	348K
+2070	Hitch	2005	1h 58m	PG-13		6.6	349K
+2071	Hugo	2011	2h 6m	PG		7.5	349K
+2072	Batman Returns	1992	2h 6m	PG-13		7.1	350K
+2073	Magnolia	1999	3h 8m	R		8.0	350K
+2074	Pitch Perfect	2012	1h 52m	PG-13		7.1	350K
+2075	3:10 to Yuma	2007	2h 2m	R		7.6	351K
+2077	8 Mile	2002	1h 50m	R		7.2	351K
+2078	O Brother, Where Art Thou?	2000	1h 47m	PG-13		7.7	351K
+2079	To Kill a Mockingbird	1962	2h 9m	Approved		8.2	351K
+2081	Kingdom of Heaven	2005	2h 24m	R		7.3	352K
+2082	Ace Ventura: Pet Detective	1994	1h 26m	PG-13		6.9	353K
+2084	The Untouchables	1987	1h 59m	R		7.8	354K
+2085	50/50	2011	1h 40m	R		7.6	354K
+2086	Uncut Gems	2019	2h 15m	R		7.4	355K
+2087	Manchester by the Sea	2016	2h 17m	R		7.8	355K
+2088	Donnie Brasco	1997	2h 7m	R		7.7	356K
+2090	Gone with the Wind	1939	3h 58m	G		8.2	356K
+2091	The Man from U.N.C.L.E.	2015	1h 56m	PG-13		7.2	356K
+2092	School of Rock	2003	1h 49m	PG-13		7.2	357K
+2094	Beauty and the Beast	2017	2h 9m	PG		7.1	358K
+2095	Lord of War	2005	2h 2m	R		7.6	358K
+2096	Up in the Air	2009	1h 49m	R		7.4	360K
+2097	The Book of Eli	2010	1h 58m	R		6.8	360K
+2099	Les Misérables	2012	2h 38m	PG-13		7.5	362K
+2100	Equilibrium	2002	1h 47m	R		7.3	362K
+2101	Liar Liar	1997	1h 26m	PG-13		6.9	362K
+2102	Lady Bird	2017	1h 34m	R		7.4	363K
+2105	The Dictator	2012	1h 23m	R		6.5	366K
+2106	The Holiday	2006	2h 16m	PG-13		7.0	367K
+2107	Black Panther: Wakanda Forever	2022	2h 41m	PG-13		6.6	368K
+2108	North by Northwest	1959	2h 16m	Approved		8.3	369K
+2110	Being John Malkovich	1999	1h 53m	R		7.7	369K
+2112	Hellboy	2004	2h 2m	PG-13		6.9	370K
+2113	Scent of a Woman	1992	2h 36m	R		8.0	370K
+2114	The Secret Life of Walter Mitty	2013	1h 54m	PG		7.3	370K
+2115	Marriage Story	2019	2h 17m	R		7.9	371K
+2116	Due Date	2010	1h 35m	R		6.5	371K
+2117	Pineapple Express	2008	1h 51m	R		6.9	373K
+2119	Kong: Skull Island	2017	1h 58m	PG-13		6.7	374K
+2120	Shooter	2007	2h 4m	R		7.2	375K
+2121	Pride & Prejudice	2005	2h 9m	PG		7.8	375K
+2122	Burn After Reading	2008	1h 36m	R		7.0	375K
+2123	True Grit	2010	1h 50m	PG-13		7.6	376K
+2124	Interview with the Vampire	1994	2h 3m	R		7.5	376K
+2125	Before Sunrise	1995	1h 41m	R		8.1	376K
+2126	National Treasure	2004	2h 11m	PG		6.9	376K
+2127	The Interview	2014	1h 52m	R		6.5	376K
+2128	Chinatown	1974	2h 10m	R		8.1	376K
+2129	Meet the Parents	2000	1h 48m	PG-13		7.0	377K
+2130	The Rock	1996	2h 16m	R		7.4	379K
+2131	Real Steel	2011	2h 7m	PG-13		7.1	380K
+2132	Super 8	2011	1h 52m	PG-13		7.0	380K
+2133	Total Recall	1990	1h 53m	R		7.5	380K
+2134	Boyhood	2014	2h 45m	R		7.9	381K
+2135	Moonrise Kingdom	2012	1h 34m	PG-13		7.7	382K
+2136	10 Cloverfield Lane	2016	1h 43m	PG-13		7.2	383K
+2137	Notting Hill	1999	2h 4m	PG-13		7.2	383K
+2138	Once Upon a Time in the West	1968	2h 25m	PG-13		8.5	383K
+2139	Pirates of the Caribbean: Dead Men Tell No Tales	2017	2h 9m	PG-13		6.5	384K
+2140	The Blind Side	2009	2h 9m	PG-13		7.6	386K
+2141	Cloud Atlas	2012	2h 52m	R		7.3	386K
+2142	The Deer Hunter	1978	3h 3m	R		8.1	386K
+2143	Ocean's Thirteen	2007	2h 2m	PG-13		6.9	387K
+2144	Tron: Legacy	2010	2h 5m	PG		6.8	387K
+2145	One Battle After Another	2025	2h 41m	R		7.7	387K
+2147	Poor Things	2023	2h 21m	R		7.7	391K
+2148	Jack Reacher	2012	2h 10m	PG-13		7.0	391K
+2149	Nobody	2021	1h 32m	R		7.4	391K
+2150	Hotel Rwanda	2004	2h 1m	PG-13		8.1	391K
+2151	Terminator Salvation	2009	1h 55m	PG-13		6.5	392K
+2153	Moon	2009	1h 37m	R		7.8	394K
+2154	The Accountant	2016	2h 8m	R		7.3	395K
+2155	The Proposal	2009	1h 48m	PG-13		6.8	396K
+2156	Flight	2012	2h 18m	R		7.3	397K
+2157	Wedding Crashers	2005	1h 59m	R		7.0	397K
+2158	Knocked Up	2007	2h 9m	R		6.9	398K
+2159	Kingsman: The Golden Circle	2017	2h 21m	R		6.7	400K
+2161	Anchorman: The Legend of Ron Burgundy	2004	1h 34m	PG-13		7.1	401K
+2163	Jackie Brown	1997	2h 34m	R		7.5	403K
+2164	Pretty Woman	1990	1h 59m	R		7.1	404K
+2165	The Illusionist	2006	1h 50m	PG-13		7.5	404K
+2166	Yes Man	2008	1h 44m	PG-13		6.8	404K
+2167	Superman	2025	2h 9m	PG-13		7.0	404K
+2168	Sweeney Todd: The Demon Barber of Fleet Street	2007	1h 56m	R		7.3	406K
+2169	The Italian Job	2003	1h 51m	PG-13		7.0	407K
+2170	Die Hard 2	1990	2h 4m	R		7.2	407K
+2171	Constantine	2005	2h 1m	R		7.0	407K
+2172	The Fighter	2010	1h 56m	R		7.8	407K
+2173	The Aviator	2004	2h 50m	PG-13		7.5	407K
+2174	Once Upon a Time in America	1984	3h 49m	R		8.3	408K
+2175	Solo: A Star Wars Story	2018	2h 15m	PG-13		6.9	408K
+2176	Night at the Museum	2006	1h 48m	PG		6.5	409K
+2177	John Wick: Chapter 4	2023	2h 49m	R		7.6	410K
+2178	Raging Bull	1980	2h 9m	R		8.1	410K
+2180	Men in Black³	2012	1h 46m	PG-13		6.8	411K
+2181	Jumanji	1995	1h 44m	PG		7.1	412K
+2183	Shazam!	2019	2h 12m	PG-13		7.0	412K
+2184	The Hunger Games: Mockingjay - Part 2	2015	2h 17m	PG-13		6.6	413K
+2185	The Nice Guys	2016	1h 56m	R		7.4	413K
+2186	Signs	2002	1h 46m	PG-13		6.8	413K
+2187	50 First Dates	2004	1h 39m	PG-13		6.8	414K
+2189	Ferris Bueller's Day Off	1986	1h 43m	PG-13		7.8	415K
+2192	Beetlejuice	1988	1h 32m	PG		7.4	417K
+2193	Man on Fire	2004	2h 26m	R		7.7	419K
+2194	Mission: Impossible - Fallout	2018	2h 27m	PG-13		7.7	419K
+2195	Friends with Benefits	2011	1h 49m	R		6.5	419K
+2196	Snowpiercer	2013	2h 6m	R		7.1	420K
+2198	Speed	1994	1h 56m	R		7.3	422K
+2200	Maleficent	2014	1h 37m	PG		6.9	424K
+2201	127 Hours	2010	1h 34m	R		7.5	424K
+2202	The Fault in Our Stars	2014	2h 6m	PG-13		7.6	424K
+2203	Inside Man	2006	2h 9m	R		7.6	424K
+2204	Mission: Impossible III	2006	2h 6m	PG-13		6.9	424K
+2205	Face/Off	1997	2h 18m	R		7.3	426K
+2207	Mulholland Drive	2001	2h 27m	R		7.9	427K
+2208	Eyes Wide Shut	1999	2h 39m	R		7.5	427K
+2209	Wanted	2008	1h 50m	R		6.7	428K
+2210	Die Hard with a Vengeance	1995	2h 8m	R		7.6	430K
+2211	Batman	1989	2h 6m	PG-13		7.5	431K
+2212	About Time	2013	2h 3m	R		7.8	432K
+2213	Fast Five	2011	2h 10m	PG-13		7.3	432K
+2214	Monty Python's Life of Brian	1979	1h 34m	R		8.0	435K
+2215	Live Free or Die Hard	2007	2h 8m	PG-13		7.1	435K
+2216	Ocean's Twelve	2004	2h 5m	PG-13		6.5	438K
+2217	22 Jump Street	2014	1h 52m	R		7.0	439K
+2218	Furious 7	2015	2h 17m	PG-13		7.1	439K
+2220	Fast & Furious 6	2013	2h 10m	PG-13		7.0	439K
+2221	The Machinist	2004	1h 41m	R		7.6	441K
+2222	Easy A	2010	1h 32m	PG-13		7.0	443K
+2223	Dumb and Dumber	1994	1h 47m	PG-13		7.3	443K
+2224	The Devil's Advocate	1997	2h 24m	R		7.5	443K
+2227	Mission: Impossible - Rogue Nation	2015	2h 11m	PG-13		7.4	445K
+2229	The Town	2010	2h 5m	R		7.5	447K
+2230	10 Things I Hate About You	1999	1h 37m	PG-13		7.4	448K
+2231	A Star Is Born	2018	2h 16m	R		7.6	448K
+2233	Black Hawk Down	2001	2h 24m	R		7.7	454K
+2234	The Godfather Part III	1990	2h 42m	R		7.5	455K
+2235	Home Alone 2: Lost in New York	1992	2h	PG		6.9	455K
+2236	This Is the End	2013	1h 47m	R		6.6	455K
+2237	The Gentlemen	2019	1h 53m	R		7.8	455K
+2238	The Fast and the Furious	2001	1h 46m	PG-13		6.8	456K
+2239	The Suicide Squad	2021	2h 12m	R		7.2	457K
+2240	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	2005	2h 23m	PG		6.9	457K
+2242	Vertigo	1958	2h 8m	PG		8.2	458K
+2244	Crash	2004	1h 52m	R		7.7	462K
+2245	The Equalizer	2014	2h 12m	R		7.3	464K
+2246	Collateral	2004	2h	R		7.5	466K
+2247	The Wizard of Oz	1939	1h 42m	G		8.1	467K
+2248	Amadeus	1984	2h 40m	PG		8.4	467K
+2249	Unbreakable	2000	1h 46m	PG-13		7.3	467K
+2250	American Pie	1999	1h 35m	R		7.0	467K
+2251	Unforgiven	1992	2h 10m	R		8.2	468K
+2252	Guardians of the Galaxy Vol. 3	2023	2h 30m	PG-13		7.9	469K
+2253	Bruce Almighty	2003	1h 41m	PG-13		6.8	469K
+2254	The Mask	1994	1h 41m	PG-13		7.0	469K
+2255	The Game	1997	2h 9m	R		7.7	469K
+2256	King Kong	2005	3h 7m	PG-13		7.2	470K
+2257	Midnight in Paris	2011	1h 34m	PG-13		7.6	471K
+2258	E.T. the Extra-Terrestrial	1982	1h 55m	PG		7.9	471K
+2259	The Irishman	2019	3h 29m	R		7.8	471K
+2260	The Breakfast Club	1985	1h 37m	R		7.8	471K
+2261	Platoon	1986	2h	R		8.1	472K
+2262	Zack Snyder's Justice League	2021	4h 2m	R		7.9	472K
+2263	The Shape of Water	2017	2h 3m	R		7.3	475K
+2264	Black Widow	2021	2h 14m	PG-13		6.6	476K
+2265	Borat	2006	1h 24m	R		7.4	476K
+2266	The Lost World: Jurassic Park	1997	2h 9m	PG-13		6.6	477K
+2268	Big Fish	2003	2h 5m	PG-13		7.9	478K
+2269	Armageddon	1998	2h 31m	PG-13		6.7	478K
+2271	John Wick: Chapter 3 - Parabellum	2019	2h 10m	R		7.4	479K
+2274	In Time	2011	1h 49m	PG-13		6.7	483K
+2275	Mean Girls	2004	1h 37m	PG-13		7.1	485K
+2276	American Gangster	2007	2h 37m	R		7.8	485K
+2277	The Princess Bride	1987	1h 38m	PG		8.0	485K
+2278	The Da Vinci Code	2006	2h 29m	PG-13		6.7	485K
+2279	No Time to Die	2021	2h 43m	PG-13		7.3	486K
+2280	Ghostbusters	1984	1h 45m	PG		7.8	486K
+2281	Stand by Me	1986	1h 29m	R		8.1	486K
+2282	Shang-Chi and the Legend of the Ten Rings	2021	2h 12m	PG-13		7.3	486K
+2283	Jojo Rabbit	2019	1h 48m	PG-13		7.9	487K
+2284	Free Guy	2021	1h 55m	PG-13		7.1	487K
+2285	Horrible Bosses	2011	1h 38m	R		6.9	487K
+2286	Tropic Thunder	2008	1h 47m	R		7.1	488K
+2288	Elysium	2013	1h 49m	R		6.6	491K
+2289	X-Men: Apocalypse	2016	2h 24m	PG-13		6.8	491K
+2290	In Bruges	2008	1h 47m	R		7.9	493K
+2291	Citizen Kane	1941	1h 59m	PG		8.2	493K
+2292	Ant-Man and the Wasp	2018	1h 58m	PG-13		7.0	494K
+2293	Passengers	2016	1h 56m	PG-13		7.0	495K
+2294	Spectre	2015	2h 28m	PG-13		6.8	495K
+2296	Scott Pilgrim vs. the World	2010	1h 52m	PG-13		7.5	496K
+2297	The Hurt Locker	2008	2h 11m	R		7.5	496K
+2298	Quantum of Solace	2008	1h 46m	PG-13		6.5	496K
+2301	Predator	1987	1h 47m	R		7.8	499K
+2303	The Mummy	1999	2h 4m	PG-13		7.1	500K
+2304	The 40-Year-Old Virgin	2005	1h 56m	R		7.1	500K
+2305	Jumanji: Welcome to the Jungle	2017	1h 59m	PG-13		6.9	501K
+2306	Sherlock Holmes: A Game of Shadows	2011	2h 9m	PG-13		7.4	502K
+2307	The Last Samurai	2003	2h 34m	R		7.8	504K
+2308	Gangs of New York	2002	2h 47m	R		7.5	504K
+2310	War of the Worlds	2005	1h 57m	PG-13		6.6	506K
+2311	The Theory of Everything	2014	2h 3m	PG-13		7.7	507K
+2312	Moneyball	2011	2h 13m	PG-13		7.6	507K
+2314	Star Trek Into Darkness	2013	2h 12m	PG-13		7.7	510K
+2315	Dawn of the Planet of the Apes	2014	2h 10m	PG-13		7.6	511K
+2316	The Day After Tomorrow	2004	2h 4m	PG-13		6.5	511K
+2317	The Bourne Supremacy	2004	1h 48m	PG-13		7.7	512K
+2318	Training Day	2001	2h 2m	R		7.8	516K
+2319	Mission: Impossible	1996	1h 50m	PG-13		7.2	516K
+2320	Divergent	2014	2h 19m	PG-13		6.6	517K
+2321	American Hustle	2013	2h 18m	R		7.2	518K
+2322	Captain Phillips	2013	2h 14m	PG-13		7.8	518K
+2323	Back to the Future Part III	1990	1h 58m	PG		7.5	519K
+2325	Mystic River	2003	2h 18m	R		7.9	522K
+2326	Glass Onion	2022	2h 19m	PG-13		7.1	522K
+2327	The Wolverine	2013	2h 6m	PG-13		6.7	523K
+2328	We're the Millers	2013	1h 50m	R		7.0	523K
+2330	The Girl with the Dragon Tattoo	2011	2h 38m	R		7.8	527K
+2331	The Help	2011	2h 26m	PG-13		8.1	527K
+2332	Warrior	2011	2h 20m	PG-13		8.1	528K
+2333	Lost in Translation	2003	1h 42m	R		7.7	528K
+2334	The Devil Wears Prada	2006	1h 49m	PG-13		7.0	530K
+2335	Bullet Train	2022	2h 7m	R		7.3	532K
+2337	The Terminal	2004	2h 8m	PG-13		7.4	534K
+2339	Sicario	2015	2h 1m	R		7.7	536K
+2340	The Big Short	2015	2h 10m	R		7.8	538K
+2341	Fantastic Beasts and Where to Find Them	2016	2h 12m	PG-13		7.2	540K
+2342	Ready Player One	2018	2h 20m	PG-13		7.4	540K
+2343	Doctor Strange in the Multiverse of Madness	2022	2h 6m	PG-13		6.9	543K
+2344	The Fifth Element	1997	2h 6m	PG-13		7.6	543K
+2347	The Hunger Games: Mockingjay - Part 1	2014	2h 3m	PG-13		6.6	545K
+2348	Dallas Buyers Club	2013	1h 57m	R		7.9	548K
+2349	Top Gun	1986	1h 50m	PG		7.0	550K
+2350	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	1964	1h 35m	PG		8.3	551K
+2352	Aquaman	2018	2h 23m	PG-13		6.8	552K
+2353	It's a Wonderful Life	1946	2h 10m	PG		8.6	554K
+2355	The Butterfly Effect	2004	1h 53m	R		7.6	555K
+2356	Little Miss Sunshine	2006	1h 41m	R		7.8	557K
+2357	Rush	2013	2h 3m	R		8.1	558K
+2358	Pacific Rim	2013	2h 11m	PG-13		6.9	558K
+2359	The Maze Runner	2014	1h 53m	PG-13		6.8	561K
+2360	The Incredible Hulk	2008	1h 52m	PG-13		6.6	563K
+2362	Edward Scissorhands	1990	1h 45m	PG-13		7.8	564K
+2363	Deadpool & Wolverine	2024	2h 8m	R		7.5	564K
+2364	Mission: Impossible - Ghost Protocol	2011	2h 12m	PG-13		7.4	564K
+2365	Children of Men	2006	1h 49m	R		7.9	565K
+2366	Hot Fuzz	2007	2h 1m	R		7.8	566K
+2367	X-Men Origins: Wolverine	2009	1h 47m	PG-13		6.5	567K
+2368	Indiana Jones and the Temple of Doom	1984	1h 58m	PG		7.5	567K
+2369	Rear Window	1954	1h 52m	PG		8.5	568K
+2370	American Sniper	2014	2h 13m	R		7.3	568K
+2371	John Wick: Chapter 2	2017	2h 2m	R		7.4	568K
+2372	Ford v Ferrari	2019	2h 32m	PG-13		8.1	569K
+2373	Charlie and the Chocolate Factory	2005	1h 55m	PG		6.7	570K
+2374	X-Men: The Last Stand	2006	1h 44m	PG-13		6.6	571K
+2375	Juno	2007	1h 36m	PG-13		7.4	572K
+2376	The Matrix Revolutions	2003	2h 9m	R		6.7	574K
+2377	The Hangover Part II	2011	1h 42m	R		6.5	576K
+2379	Love Actually	2003	2h 15m	R		7.5	580K
+2380	Source Code	2011	1h 33m	PG-13		7.5	581K
+2381	Rain Man	1988	2h 13m	R		8.0	584K
+2382	Oblivion	2013	2h 4m	PG-13		7.0	585K
+2383	The Amazing Spider-Man 2	2014	2h 22m	PG-13		6.6	588K
+2384	Mr. & Mrs. Smith	2005	2h	PG-13		6.5	592K
+2385	The Perks of Being a Wallflower	2012	1h 43m	PG-13		7.9	594K
+2386	Monty Python and the Holy Grail	1975	1h 31m	PG		8.2	603K
+2387	Rise of the Planet of the Apes	2011	1h 45m	PG-13		7.6	605K
+2388	Venom	2018	1h 52m	PG-13		6.6	605K
+2389	Three Billboards Outside Ebbing, Missouri	2017	1h 55m	R		8.1	606K
+2390	Pirates of the Caribbean: On Stranger Tides	2011	2h 16m	PG-13		6.6	606K
+2391	Fury	2014	2h 14m	R		7.6	607K
+2392	Avatar: The Way of Water	2022	3h 12m	PG-13		7.5	609K
+2393	Watchmen	2009	2h 42m	R		7.6	610K
+2394	X2: X-Men United	2003	2h 14m	PG-13		7.4	611K
+2395	The Bourne Identity	2002	1h 59m	PG-13		7.8	612K
+2396	I, Robot	2004	1h 55m	PG-13		7.1	614K
+2397	Troy	2004	2h 43m	R		7.3	614K
+2398	Crazy, Stupid, Love.	2011	1h 58m	PG-13		7.4	616K
+2399	The Hobbit: The Battle of the Five Armies	2014	2h 24m	R		7.4	616K
+2400	500 Days of Summer	2009	1h 35m	PG-13		7.6	617K
+2401	Casino	1995	2h 58m	R		8.2	618K
+2402	The Pursuit of Happyness	2006	1h 57m	PG-13		8.0	619K
+2404	Back to the Future Part II	1989	1h 48m	PG		7.8	620K
+2405	Minority Report	2002	2h 25m	PG-13		7.6	620K
+2406	Kick-Ass	2010	1h 57m	R		7.6	620K
+2408	Blood Diamond	2006	2h 23m	R		8.0	625K
+2409	Everything Everywhere All at Once	2022	2h 19m	R		7.7	627K
+2410	Looper	2012	1h 59m	R		7.4	628K
+2413	Spider-Man: Far from Home	2019	2h 9m	PG-13		7.3	636K
+2414	Ex Machina	2014	1h 48m	R		7.7	638K
+2415	Star Trek	2009	2h 7m	PG-13		7.9	638K
+2416	Shaun of the Dead	2004	1h 39m	R		7.8	638K
+2417	The Great Gatsby	2013	2h 23m	PG-13		7.2	641K
+2418	Bohemian Rhapsody	2018	2h 14m	PG-13		7.9	643K
+2419	21 Jump Street	2012	1h 49m	R		7.2	644K
+2420	Independence Day	1996	2h 25m	PG-13		7.0	646K
+2421	Limitless	2011	1h 45m	PG-13		7.4	646K
+2422	Dead Poets Society	1989	2h 8m	PG		8.1	649K
+2423	Lock, Stock and Two Smoking Barrels	1998	1h 47m	R		8.1	649K
+2424	Casablanca	1942	1h 42m	PG		8.5	654K
+2426	Captain Marvel	2019	2h 3m	PG-13		6.7	657K
+2427	L.A. Confidential	1997	2h 18m	R		8.2	658K
+2428	Harry Potter and the Half-Blood Prince	2009	2h 33m	PG		7.6	658K
+2429	Harry Potter and the Deathly Hallows: Part 1	2010	2h 26m	PG-13		7.7	662K
+2430	Men in Black	1997	1h 38m	PG-13		7.3	662K
+2431	Argo	2012	2h	R		7.7	665K
+2432	Zombieland	2009	1h 28m	R		7.5	666K
+2433	Nightcrawler	2014	1h 57m	R		7.8	667K
+2434	Barbie	2023	1h 54m	PG-13		6.8	667K
+2436	Don't Look Up	2021	2h 18m	R		7.1	669K
+2437	The Matrix Reloaded	2003	2h 18m	R		7.2	669K
+2438	Zodiac	2007	2h 37m	R		7.7	671K
+2439	Taken	2008	1h 30m	PG-13		7.7	671K
+2440	Ocean's Eleven	2001	1h 56m	PG-13		7.7	672K
+2441	Hacksaw Ridge	2016	2h 19m	R		8.1	678K
+2442	12 Monkeys	1995	2h 9m	R		8.0	679K
+2443	Green Book	2018	2h 10m	PG-13		8.2	681K
+2444	Baby Driver	2017	1h 53m	R		7.5	682K
+2445	Tenet	2020	2h 30m	PG-13		7.3	683K
+2446	The Bourne Ultimatum	2007	1h 55m	PG-13		8.0	683K
+2447	The Notebook	2004	2h 3m	PG-13		7.8	686K
+2448	Rocky	1976	2h	PG		8.1	687K
+2449	Cast Away	2000	2h 23m	PG-13		7.8	688K
+2450	X-Men	2000	1h 44m	PG-13		7.3	690K
+2451	Superbad	2007	1h 53m	R		7.6	691K
+2453	Into the Wild	2007	2h 28m	R		8.0	695K
+2454	Birdman or (The Unexpected Virtue of Ignorance)	2014	1h 59m	R		7.7	697K
+2456	Harry Potter and the Order of the Phoenix	2007	2h 18m	PG-13		7.5	698K
+2457	Life of Pi	2012	2h 7m	PG		7.9	699K
+2459	Sherlock Holmes	2009	2h 8m	PG-13		7.5	706K
+2460	There Will Be Blood	2007	2h 38m	R		8.2	706K
+2461	Ted	2012	1h 46m	R		6.9	708K
+2463	Star Wars: Episode VIII - The Last Jedi	2017	2h 32m	PG-13		6.8	717K
+2464	Transformers	2007	2h 24m	PG-13		7.1	717K
+2465	The Hateful Eight	2015	2h 48m	R		7.8	721K
+2466	Her	2013	2h 6m	R		8.0	725K
+2467	Jurassic World	2015	2h 4m	PG-13		6.9	728K
+2468	The King's Speech	2010	1h 58m	R		8.0	732K
+2469	Dune: Part Two	2024	2h 46m	PG-13		8.4	733K
+2470	Wonder Woman	2017	2h 21m	PG-13		7.3	734K
+2472	Groundhog Day	1993	1h 41m	PG		8.0	736K
+2473	Home Alone	1990	1h 43m	PG		7.8	742K
+2474	Pirates of the Caribbean: At World's End	2007	2h 49m	PG-13		7.2	742K
+2475	Deadpool 2	2018	1h 59m	R		7.6	742K
+2476	Casino Royale	2006	2h 24m	PG-13		8.0	743K
+2477	The Curious Case of Benjamin Button	2008	2h 46m	PG-13		7.8	743K
+2478	Harry Potter and the Goblet of Fire	2005	2h 37m	PG-13		7.7	751K
+2479	Blade Runner 2049	2017	2h 44m	R		8.0	751K
+2480	District 9	2009	1h 52m	R		7.9	751K
+2481	The Hobbit: The Desolation of Smaug	2013	2h 41m	PG-13		7.8	752K
+2482	Rogue One: A Star Wars Story	2016	2h 13m	PG-13		7.8	753K
+2483	La La Land	2016	2h 8m	PG-13		8.0	759K
+2484	Drive	2011	1h 40m	R		7.8	761K
+2485	The Amazing Spider-Man	2012	2h 16m	PG-13		6.9	763K
+2486	X-Men: First Class	2011	2h 11m	PG-13		7.7	763K
+2487	Harry Potter and the Chamber of Secrets	2002	2h 41m	PG		7.5	764K
+2488	Million Dollar Baby	2004	2h 12m	PG-13		8.1	765K
+2489	Harry Potter and the Prisoner of Azkaban	2004	2h 22m	PG		7.9	765K
+2490	Trainspotting	1996	1h 33m	R		8.1	768K
+2491	1917	2019	1h 59m	R		8.2	768K
+2492	Apocalypse Now	1979	2h 27m	R		8.4	769K
+2493	Now You See Me	2013	1h 55m	PG-13		7.2	769K
+2494	Skyfall	2012	2h 23m	PG-13		7.8	771K
+2495	The Hunger Games: Catching Fire	2013	2h 26m	PG-13		7.5	772K
+2496	Silver Linings Playbook	2012	2h 2m	R		7.7	772K
+2497	Kingsman: The Secret Service	2014	2h 9m	R		7.7	775K
+2498	Thor: The Dark World	2013	1h 52m	PG-13		6.7	776K
+2499	Ant-Man	2015	1h 57m	PG-13		7.2	778K
+2500	World War Z	2013	1h 56m	PG-13		7.0	781K
+2501	2001: A Space Odyssey	1968	2h 29m	G		8.3	781K
+2502	Spider-Man 2	2004	2h 7m	PG-13		7.5	782K
+2505	12 Years a Slave	2013	2h 14m	R		8.1	785K
+2506	Fargo	1996	1h 38m	R		8.1	786K
+2507	X-Men: Days of Future Past	2014	2h 12m	PG-13		7.9	787K
+2508	Spider-Man: Homecoming	2017	2h 13m	PG-13		7.4	794K
+2509	Heat	1995	2h 50m	R		8.3	800K
+2510	Edge of Tomorrow	2014	1h 53m	PG-13		7.9	802K
+2511	Dunkirk	2017	1h 46m	PG-13		7.8	805K
+2514	The Social Network	2010	2h	PG-13		7.8	817K
+2515	Star Wars: Episode II - Attack of the Clones	2002	2h 22m	PG		6.6	818K
+2516	Sin City	2005	2h 4m	R		8.0	820K
+2517	Pirates of the Caribbean: Dead Man's Chest	2006	2h 31m	PG-13		7.4	824K
+2518	John Wick	2014	1h 41m	R		7.5	826K
+2519	Guardians of the Galaxy Vol. 2	2017	2h 16m	PG-13		7.6	826K
+2520	American Psycho	2000	1h 42m	R		7.6	834K
+2521	Aliens	1986	2h 17m	R		8.4	839K
+2522	Full Metal Jacket	1987	1h 56m	R		8.2	849K
+2523	Top Gun: Maverick	2022	2h 10m	PG-13		8.2	854K
+2524	Arrival	2016	1h 56m	PG-13		7.9	860K
+2525	Gran Torino	2008	1h 56m	R		8.1	860K
+2526	Indiana Jones and the Last Crusade	1989	2h 7m	PG-13		8.2	862K
+2527	Man of Steel	2013	2h 23m	PG-13		7.1	865K
+2528	Kill Bill: Vol. 2	2004	2h 17m	R		8.0	868K
+2529	Knives Out	2019	2h 10m	PG-13		7.9	874K
+2530	I Am Legend	2007	1h 41m	PG-13		7.2	875K
+2531	The Imitation Game	2014	1h 54m	PG-13		8.0	876K
+2532	Doctor Strange	2016	1h 55m	PG-13		7.5	877K
+2533	Blade Runner	1982	1h 57m	R		8.1	880K
+2534	Black Swan	2010	1h 48m	R		8.0	887K
+2535	The Good, the Bad and the Ugly	1966	2h 58m	R		8.8	889K
+2537	Thor: Ragnarok	2017	2h 10m	PG-13		7.9	892K
+2539	Gravity	2013	1h 31m	PG-13		7.7	898K
+2540	Black Panther	2018	2h 14m	PG-13		7.3	907K
+2541	Slumdog Millionaire	2008	2h	R		8.0	909K
+2542	Donnie Darko	2001	1h 53m	R		8.0	910K
+2543	300	2006	1h 57m	R		7.6	911K
+2545	The Big Lebowski	1998	1h 57m	R		8.1	915K
+2546	Star Wars: Episode III - Revenge of the Sith	2005	2h 20m	PG-13		7.7	919K
+2547	The Batman	2022	2h 56m	PG-13		7.8	923K
+2548	Logan	2017	2h 17m	R		8.1	923K
+2549	Star Wars: Episode I - The Phantom Menace	1999	2h 16m	PG		6.5	924K
+2550	Captain America: Civil War	2016	2h 27m	PG-13		7.8	924K
+2551	The Hobbit: An Unexpected Journey	2012	2h 49m	PG-13		7.8	926K
+2552	The Hangover	2009	1h 40m	R		7.7	927K
+2553	Prisoners	2013	2h 33m	R		8.2	931K
+2554	Iron Man 2	2010	2h 4m	PG-13		6.9	935K
+2555	A Clockwork Orange	1971	2h 16m	R		8.2	935K
+2557	The Revenant	2015	2h 36m	R		8.0	947K
+2558	Harry Potter and the Sorcerer's Stone	2001	2h 32m	PG		7.7	949K
+2559	Once Upon a Time... in Hollywood	2019	2h 41m	R		7.6	959K
+2560	Iron Man 3	2013	2h 10m	PG-13		7.1	963K
+2561	Thor	2011	1h 55m	PG-13		7.0	963K
+2562	Captain America: The First Avenger	2011	2h 4m	PG-13		6.9	965K
+2563	Spider-Man	2002	2h 1m	PG-13		7.4	965K
+2565	The Grand Budapest Hotel	2014	1h 39m	R		8.1	967K
+2566	Captain America: The Winter Soldier	2014	2h 16m	PG-13		7.7	969K
+2567	Requiem for a Dream	2000	1h 42m	NC-17		8.3	971K
+2568	Snatch	2000	1h 42m	R		8.2	975K
+2569	12 Angry Men	1957	1h 36m	Approved		9.0	981K
+2570	Avengers: Age of Ultron	2015	2h 21m	PG-13		7.3	998K
+2571	The Terminator	1984	1h 47m	R		8.1	1M
+2572	The Martian	2015	2h 24m	PG-13		8.0	1M
+2573	The Pianist	2002	2h 30m	R		8.5	1M
+2574	Scarface	1983	2h 50m	R		8.3	1M
+2575	Spider-Man: No Way Home	2021	2h 28m	PG-13		8.1	1M
+2576	Oppenheimer	2023	3h	R		8.2	1M
+2577	Taxi Driver	1976	1h 54m	R		8.2	1M
+2578	Star Wars: Episode VII - The Force Awakens	2015	2h 18m	PG-13		7.7	1M
+2579	Die Hard	1988	2h 12m	R		8.2	1M
+2580	Dune: Part One	2021	2h 35m	PG-13		8.0	1M
+2581	Harry Potter and the Deathly Hallows: Part 2	2011	2h 10m	PG-13		8.1	1M
+2582	A Beautiful Mind	2001	2h 15m	PG-13		8.2	1.1M
+2585	The Hunger Games	2012	2h 22m	PG-13		7.2	1.1M
+2586	Raiders of the Lost Ark	1981	1h 55m	PG		8.4	1.1M
+2588	Whiplash	2014	1h 46m	R		8.5	1.1M
+2589	One Flew Over the Cuckoo's Nest	1975	2h 13m	R		8.6	1.2M
+2590	Braveheart	1995	2h 58m	R		8.3	1.2M
+2591	Gone Girl	2014	2h 29m	R		8.1	1.2M
+2592	Reservoir Dogs	1992	1h 39m	R		8.3	1.2M
+2594	Jurassic Park	1993	2h 7m	PG-13		8.2	1.2M
+2595	Eternal Sunshine of the Spotless Mind	2004	1h 48m	R		8.3	1.2M
+2596	No Country for Old Men	2007	2h 2m	R		8.2	1.2M
+2597	Mad Max: Fury Road	2015	2h	R		8.1	1.2M
+2599	Star Wars: Episode VI - Return of the Jedi	1983	2h 11m	PG		8.3	1.2M
+2600	Good Will Hunting	1997	2h 6m	R		8.4	1.2M
+2601	Iron Man	2008	2h 6m	PG-13		7.9	1.2M
+2603	Catch Me If You Can	2002	2h 21m	PG-13		8.1	1.2M
+2605	The Usual Suspects	1995	1h 46m	R		8.5	1.2M
+2606	V for Vendetta	2005	2h 12m	R		8.1	1.2M
+2607	Deadpool	2016	1h 48m	R		8.0	1.3M
+2609	American History X	1998	1h 59m	R		8.5	1.3M
+2610	American Beauty	1999	2h 2m	R		8.3	1.3M
+2611	Terminator 2: Judgment Day	1991	2h 17m	R		8.6	1.3M
+2612	Kill Bill: Vol. 1	2003	1h 51m	R		8.2	1.3M
+2614	Pirates of the Caribbean: The Curse of the Black Pearl	2003	2h 23m	PG-13		8.1	1.3M
+2615	Léon: The Professional	1994	1h 50m	R		8.5	1.3M
+2616	Guardians of the Galaxy	2014	2h 1m	PG-13		8.0	1.4M
+2617	Avengers: Infinity War	2018	2h 29m	PG-13		8.4	1.4M
+2618	The Truman Show	1998	1h 43m	PG		8.2	1.4M
+2619	GoodFellas	1990	2h 25m	R		8.7	1.4M
+2620	Titanic	1997	3h 14m	PG-13		8.0	1.4M
+2621	Memento	2000	1h 53m	R		8.4	1.4M
+2622	Avengers: Endgame	2019	3h 1m	PG-13		8.4	1.4M
+2623	Back to the Future	1985	1h 56m	PG		8.5	1.4M
+2624	The Godfather Part II	1974	3h 22m	R		9.0	1.5M
+2625	Avatar	2009	2h 42m	PG-13		7.9	1.5M
+2626	Star Wars: Episode V - The Empire Strikes Back	1980	2h 4m	PG		8.7	1.5M
+2627	The Departed	2006	2h 31m	R		8.5	1.5M
+2628	The Avengers	2012	2h 23m	PG-13		8.0	1.6M
+2629	The Green Mile	1999	3h 9m	R		8.6	1.6M
+2630	Star Wars: Episode IV - A New Hope	1977	2h 1m	PG		8.6	1.6M
+2631	Schindler's List	1993	3h 15m	R		9.0	1.6M
+2632	The Prestige	2006	2h 10m	PG-13		8.5	1.6M
+2633	Saving Private Ryan	1998	2h 49m	R		8.6	1.6M
+2634	Shutter Island	2010	2h 18m	R		8.2	1.6M
+2635	Joker	2019	2h 2m	R		8.3	1.7M
+2636	Batman Begins	2005	2h 20m	PG-13		8.2	1.7M
+2637	The Silence of the Lambs	1991	1h 58m	R		8.6	1.7M
+2638	Inglourious Basterds	2009	2h 33m	R		8.4	1.8M
+2639	The Wolf of Wall Street	2013	3h	R		8.2	1.8M
+2640	Gladiator	2000	2h 35m	R		8.5	1.8M
+2641	Django Unchained	2012	2h 45m	R		8.5	1.9M
+2642	The Lord of the Rings: The Two Towers	2002	2h 59m	PG-13		8.8	2M
+2643	The Dark Knight Rises	2012	2h 44m	PG-13		8.4	2M
+2644	Seven	1995	2h 7m	R		8.6	2M
+2645	The Lord of the Rings: The Return of the King	2003	3h 21m	PG-13		9.0	2.2M
+2646	The Lord of the Rings: The Fellowship of the Ring	2001	2h 58m	PG-13		8.9	2.2M
+2647	The Godfather	1972	2h 55m	R		9.2	2.2M
+2648	The Matrix	1999	2h 16m	R		8.7	2.2M
+2649	Pulp Fiction	1994	2h 34m	R		8.8	2.4M
+2650	Forrest Gump	1994	2h 22m	PG-13		8.8	2.5M
+2651	Interstellar	2014	2h 49m	PG-13		8.7	2.5M
+2652	Fight Club	1999	2h 19m	R		8.8	2.6M
+2653	Inception	2010	2h 28m	PG-13		8.8	2.8M
+2654	The Dark Knight	2008	2h 32m	PG-13		9.1	3.2M
+2655	The Shawshank Redemption	1994	2h 22m	R		9.3	3.2M

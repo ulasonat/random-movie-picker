@@ -1,0 +1,3183 @@
+{
+  "review_date": "2026-09-26",
+  "reviewed_source_movies": 2655,
+  "criteria": {
+    "horror": "Exclude horror-led films, including supernatural, psychological, creature, slasher and body horror. Keep films whose primary experience is action, science fiction, crime investigation, drama or broad comedy even if they contain horror elements.",
+    "abuse_victimization": "Exclude films focused on abuse, exploitation, systemic abuse accountability or survivor recovery. Keep broader war/history, crime, revenge, coming-of-age and ambition stories unless abuse is the central subject.",
+    "children": "Exclude films primarily pitched at young children, using Cars and Finding Nemo as explicit anchors. Keep broad adult/family adventures. Existing unrelated animation exclusions remain unchanged."
+  },
+  "decisions": [
+    {
+      "id": 2,
+      "title": "Host",
+      "year": 2020,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2, title/year and supplied synopsis"
+    },
+    {
+      "id": 24,
+      "title": "Bad Taste",
+      "year": 1987,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 24, title/year and supplied synopsis"
+    },
+    {
+      "id": 53,
+      "title": "Better Watch Out",
+      "year": 2016,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 53, title/year and supplied synopsis"
+    },
+    {
+      "id": 74,
+      "title": "Possessor",
+      "year": 2020,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 74, title/year and supplied synopsis"
+    },
+    {
+      "id": 94,
+      "title": "Freaks",
+      "year": 1932,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 94, title/year and supplied synopsis"
+    },
+    {
+      "id": 111,
+      "title": "Prince of Darkness",
+      "year": 1987,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 111, title/year and supplied synopsis"
+    },
+    {
+      "id": 115,
+      "title": "Saint Maud",
+      "year": 2019,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 115, title/year and supplied synopsis"
+    },
+    {
+      "id": 123,
+      "title": "Black Christmas",
+      "year": 1974,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 123, title/year and supplied synopsis"
+    },
+    {
+      "id": 128,
+      "title": "Possession",
+      "year": 1981,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 128, title/year and supplied synopsis"
+    },
+    {
+      "id": 135,
+      "title": "The Endless",
+      "year": 2017,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 135, title/year and supplied synopsis"
+    },
+    {
+      "id": 141,
+      "title": "Oddity",
+      "year": 2024,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 141, title/year and supplied synopsis"
+    },
+    {
+      "id": 147,
+      "title": "The Final Girls",
+      "year": 2015,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 147, title/year and supplied synopsis"
+    },
+    {
+      "id": 153,
+      "title": "Ginger Snaps",
+      "year": 2000,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 153, title/year and supplied synopsis"
+    },
+    {
+      "id": 161,
+      "title": "Creepshow",
+      "year": 1982,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 161, title/year and supplied synopsis"
+    },
+    {
+      "id": 184,
+      "title": "Dead Ringers",
+      "year": 1988,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 184, title/year and supplied synopsis"
+    },
+    {
+      "id": 185,
+      "title": "The Hitcher",
+      "year": 1986,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 185, title/year and supplied synopsis"
+    },
+    {
+      "id": 187,
+      "title": "Bride of Frankenstein",
+      "year": 1935,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 187, title/year and supplied synopsis"
+    },
+    {
+      "id": 202,
+      "title": "Invasion of the Body Snatchers",
+      "year": 1956,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 202, title/year and supplied synopsis"
+    },
+    {
+      "id": 231,
+      "title": "Repulsion",
+      "year": 1965,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 231, title/year and supplied synopsis"
+    },
+    {
+      "id": 277,
+      "title": "Speak No Evil",
+      "year": 2022,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 277, title/year and supplied synopsis"
+    },
+    {
+      "id": 299,
+      "title": "Dracula",
+      "year": 1931,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 299, title/year and supplied synopsis"
+    },
+    {
+      "id": 344,
+      "title": "Scanners",
+      "year": 1981,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 344, title/year and supplied synopsis"
+    },
+    {
+      "id": 346,
+      "title": "What Ever Happened to Baby Jane?",
+      "year": 1962,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 346, title/year and supplied synopsis"
+    },
+    {
+      "id": 372,
+      "title": "Don't Look Now",
+      "year": 1973,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 372, title/year and supplied synopsis"
+    },
+    {
+      "id": 376,
+      "title": "Totally Killer",
+      "year": 2023,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 376, title/year and supplied synopsis"
+    },
+    {
+      "id": 385,
+      "title": "The Girl with All the Gifts",
+      "year": 2016,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 385, title/year and supplied synopsis"
+    },
+    {
+      "id": 425,
+      "title": "Dog Soldiers",
+      "year": 2002,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 425, title/year and supplied synopsis"
+    },
+    {
+      "id": 430,
+      "title": "The First Omen",
+      "year": 2024,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 430, title/year and supplied synopsis"
+    },
+    {
+      "id": 446,
+      "title": "The Awakening",
+      "year": 2011,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 446, title/year and supplied synopsis"
+    },
+    {
+      "id": 490,
+      "title": "Fear Street: Part Three - 1666",
+      "year": 2021,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 490, title/year and supplied synopsis"
+    },
+    {
+      "id": 499,
+      "title": "Together",
+      "year": 2025,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 499, title/year and supplied synopsis"
+    },
+    {
+      "id": 509,
+      "title": "The Return of the Living Dead",
+      "year": 1985,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 509, title/year and supplied synopsis"
+    },
+    {
+      "id": 527,
+      "title": "Re-Animator",
+      "year": 1985,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 527, title/year and supplied synopsis"
+    },
+    {
+      "id": 540,
+      "title": "Day of the Dead",
+      "year": 1985,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 540, title/year and supplied synopsis"
+    },
+    {
+      "id": 551,
+      "title": "Arachnophobia",
+      "year": 1990,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 551, title/year and supplied synopsis"
+    },
+    {
+      "id": 559,
+      "title": "Invasion of the Body Snatchers",
+      "year": 1978,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 559, title/year and supplied synopsis"
+    },
+    {
+      "id": 566,
+      "title": "28 Years Later: The Bone Temple",
+      "year": 2026,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 566, title/year and supplied synopsis"
+    },
+    {
+      "id": 567,
+      "title": "Joy Ride",
+      "year": 2001,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 567, title/year and supplied synopsis"
+    },
+    {
+      "id": 642,
+      "title": "Frankenstein",
+      "year": 1931,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 642, title/year and supplied synopsis"
+    },
+    {
+      "id": 646,
+      "title": "Fright Night",
+      "year": 1985,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 646, title/year and supplied synopsis"
+    },
+    {
+      "id": 654,
+      "title": "In the Mouth of Madness",
+      "year": 1994,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 654, title/year and supplied synopsis"
+    },
+    {
+      "id": 663,
+      "title": "Fear Street: Part Two - 1978",
+      "year": 2021,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 663, title/year and supplied synopsis"
+    },
+    {
+      "id": 681,
+      "title": "The Fog",
+      "year": 1980,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 681, title/year and supplied synopsis"
+    },
+    {
+      "id": 692,
+      "title": "Fresh",
+      "year": 2022,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 692, title/year and supplied synopsis"
+    },
+    {
+      "id": 707,
+      "title": "Stir of Echoes",
+      "year": 1999,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 707, title/year and supplied synopsis"
+    },
+    {
+      "id": 727,
+      "title": "Slither",
+      "year": 2006,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 727, title/year and supplied synopsis"
+    },
+    {
+      "id": 752,
+      "title": "Saw X",
+      "year": 2023,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 752, title/year and supplied synopsis"
+    },
+    {
+      "id": 760,
+      "title": "Mandy",
+      "year": 2018,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 760, title/year and supplied synopsis"
+    },
+    {
+      "id": 762,
+      "title": "Flatliners",
+      "year": 1990,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 762, title/year and supplied synopsis"
+    },
+    {
+      "id": 771,
+      "title": "Frailty",
+      "year": 2001,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 771, title/year and supplied synopsis"
+    },
+    {
+      "id": 773,
+      "title": "A Nightmare on Elm Street 3: Dream Warriors",
+      "year": 1987,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 773, title/year and supplied synopsis"
+    },
+    {
+      "id": 797,
+      "title": "Christine",
+      "year": 1983,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 797, title/year and supplied synopsis"
+    },
+    {
+      "id": 814,
+      "title": "Angel Heart",
+      "year": 1987,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 814, title/year and supplied synopsis"
+    },
+    {
+      "id": 829,
+      "title": "Suspiria",
+      "year": 2018,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 829, title/year and supplied synopsis"
+    },
+    {
+      "id": 837,
+      "title": "The Wicker Man",
+      "year": 1973,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 837, title/year and supplied synopsis"
+    },
+    {
+      "id": 841,
+      "title": "The House That Jack Built",
+      "year": 2018,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 841, title/year and supplied synopsis"
+    },
+    {
+      "id": 868,
+      "title": "The Last House on the Left",
+      "year": 2009,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 868, title/year and supplied synopsis"
+    },
+    {
+      "id": 886,
+      "title": "Candyman",
+      "year": 1992,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 886, title/year and supplied synopsis"
+    },
+    {
+      "id": 888,
+      "title": "Eden Lake",
+      "year": 2008,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 888, title/year and supplied synopsis"
+    },
+    {
+      "id": 892,
+      "title": "Braindead",
+      "year": 1992,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 892, title/year and supplied synopsis"
+    },
+    {
+      "id": 898,
+      "title": "Funny Games",
+      "year": 2007,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 898, title/year and supplied synopsis"
+    },
+    {
+      "id": 904,
+      "title": "The Devil's Rejects",
+      "year": 2005,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 904, title/year and supplied synopsis"
+    },
+    {
+      "id": 916,
+      "title": "Halloween II",
+      "year": 1981,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 916, title/year and supplied synopsis"
+    },
+    {
+      "id": 929,
+      "title": "Videodrome",
+      "year": 1983,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 929, title/year and supplied synopsis"
+    },
+    {
+      "id": 936,
+      "title": "eXistenZ",
+      "year": 1999,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 936, title/year and supplied synopsis"
+    },
+    {
+      "id": 946,
+      "title": "Trick 'r Treat",
+      "year": 2007,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 946, title/year and supplied synopsis"
+    },
+    {
+      "id": 960,
+      "title": "Overlord",
+      "year": 2018,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 960, title/year and supplied synopsis"
+    },
+    {
+      "id": 979,
+      "title": "Abigail",
+      "year": 2024,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 979, title/year and supplied synopsis"
+    },
+    {
+      "id": 986,
+      "title": "You're Next",
+      "year": 2011,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 986, title/year and supplied synopsis"
+    },
+    {
+      "id": 997,
+      "title": "The Craft",
+      "year": 1996,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 997, title/year and supplied synopsis"
+    },
+    {
+      "id": 1020,
+      "title": "Bring Her Back",
+      "year": 2025,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "https://en.wikipedia.org/wiki/Bring_Her_Back"
+    },
+    {
+      "id": 1046,
+      "title": "Pet Sematary",
+      "year": 1989,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1046, title/year and supplied synopsis"
+    },
+    {
+      "id": 1093,
+      "title": "Jacob's Ladder",
+      "year": 1990,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1093, title/year and supplied synopsis"
+    },
+    {
+      "id": 1096,
+      "title": "The Invitation",
+      "year": 2015,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1096, title/year and supplied synopsis"
+    },
+    {
+      "id": 1112,
+      "title": "The Skeleton Key",
+      "year": 2005,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1112, title/year and supplied synopsis"
+    },
+    {
+      "id": 1115,
+      "title": "Child's Play",
+      "year": 1988,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1115, title/year and supplied synopsis"
+    },
+    {
+      "id": 1124,
+      "title": "Speak No Evil",
+      "year": 2024,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1124, title/year and supplied synopsis"
+    },
+    {
+      "id": 1128,
+      "title": "Let Me In",
+      "year": 2010,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1128, title/year and supplied synopsis"
+    },
+    {
+      "id": 1137,
+      "title": "An American Werewolf in London",
+      "year": 1981,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1137, title/year and supplied synopsis"
+    },
+    {
+      "id": 1158,
+      "title": "Dawn of the Dead",
+      "year": 1978,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1158, title/year and supplied synopsis"
+    },
+    {
+      "id": 1165,
+      "title": "The Crazies",
+      "year": 2010,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1165, title/year and supplied synopsis"
+    },
+    {
+      "id": 1185,
+      "title": "Bone Tomahawk",
+      "year": 2015,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1185, title/year and supplied synopsis"
+    },
+    {
+      "id": 1188,
+      "title": "Smile 2",
+      "year": 2024,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1188, title/year and supplied synopsis"
+    },
+    {
+      "id": 1206,
+      "title": "Gerald's Game",
+      "year": 2017,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1206, title/year and supplied synopsis"
+    },
+    {
+      "id": 1216,
+      "title": "Eraserhead",
+      "year": 1977,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1216, title/year and supplied synopsis"
+    },
+    {
+      "id": 1224,
+      "title": "Antichrist",
+      "year": 2009,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1224, title/year and supplied synopsis"
+    },
+    {
+      "id": 1227,
+      "title": "What Lies Beneath",
+      "year": 2000,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1227, title/year and supplied synopsis"
+    },
+    {
+      "id": 1233,
+      "title": "The Omen",
+      "year": 1976,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1233, title/year and supplied synopsis"
+    },
+    {
+      "id": 1239,
+      "title": "Late Night with the Devil",
+      "year": 2023,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1239, title/year and supplied synopsis"
+    },
+    {
+      "id": 1245,
+      "title": "The Faculty",
+      "year": 1998,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1245, title/year and supplied synopsis"
+    },
+    {
+      "id": 1254,
+      "title": "Triangle",
+      "year": 2009,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1254, title/year and supplied synopsis"
+    },
+    {
+      "id": 1262,
+      "title": "The Exorcism of Emily Rose",
+      "year": 2005,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1262, title/year and supplied synopsis"
+    },
+    {
+      "id": 1267,
+      "title": "Oculus",
+      "year": 2013,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1267, title/year and supplied synopsis"
+    },
+    {
+      "id": 1275,
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1275, title/year and supplied synopsis"
+    },
+    {
+      "id": 1288,
+      "title": "Green Room",
+      "year": 2015,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1288, title/year and supplied synopsis"
+    },
+    {
+      "id": 1292,
+      "title": "Hellraiser",
+      "year": 1987,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1292, title/year and supplied synopsis"
+    },
+    {
+      "id": 1311,
+      "title": "Pearl",
+      "year": 2022,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1311, title/year and supplied synopsis"
+    },
+    {
+      "id": 1322,
+      "title": "Final Destination: Bloodlines",
+      "year": 2025,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1322, title/year and supplied synopsis"
+    },
+    {
+      "id": 1349,
+      "title": "The Autopsy of Jane Doe",
+      "year": 2016,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1349, title/year and supplied synopsis"
+    },
+    {
+      "id": 1369,
+      "title": "Evil Dead Rise",
+      "year": 2023,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1369, title/year and supplied synopsis"
+    },
+    {
+      "id": 1373,
+      "title": "Pandorum",
+      "year": 2009,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1373, title/year and supplied synopsis"
+    },
+    {
+      "id": 1387,
+      "title": "Hush",
+      "year": 2016,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1387, title/year and supplied synopsis"
+    },
+    {
+      "id": 1389,
+      "title": "Crimson Peak",
+      "year": 2015,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1389, title/year and supplied synopsis"
+    },
+    {
+      "id": 1390,
+      "title": "Annabelle: Creation",
+      "year": 2017,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1390, title/year and supplied synopsis"
+    },
+    {
+      "id": 1414,
+      "title": "Companion",
+      "year": 2025,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1414, title/year and supplied synopsis"
+    },
+    {
+      "id": 1437,
+      "title": "The Lost Boys",
+      "year": 1987,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1437, title/year and supplied synopsis"
+    },
+    {
+      "id": 1476,
+      "title": "Happy Death Day",
+      "year": 2017,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1476, title/year and supplied synopsis"
+    },
+    {
+      "id": 1482,
+      "title": "Halloween",
+      "year": 2018,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1482, title/year and supplied synopsis"
+    },
+    {
+      "id": 1517,
+      "title": "Poltergeist",
+      "year": 1982,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1517, title/year and supplied synopsis"
+    },
+    {
+      "id": 1522,
+      "title": "Evil Dead II",
+      "year": 1987,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1522, title/year and supplied synopsis"
+    },
+    {
+      "id": 1528,
+      "title": "Grindhouse",
+      "year": 2007,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1528, title/year and supplied synopsis"
+    },
+    {
+      "id": 1536,
+      "title": "Last Night in Soho",
+      "year": 2021,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1536, title/year and supplied synopsis"
+    },
+    {
+      "id": 1542,
+      "title": "30 Days of Night",
+      "year": 2007,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1542, title/year and supplied synopsis"
+    },
+    {
+      "id": 1547,
+      "title": "Insidious: Chapter 2",
+      "year": 2013,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1547, title/year and supplied synopsis"
+    },
+    {
+      "id": 1579,
+      "title": "28 Years Later",
+      "year": 2025,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1579, title/year and supplied synopsis"
+    },
+    {
+      "id": 1598,
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1598, title/year and supplied synopsis"
+    },
+    {
+      "id": 1599,
+      "title": "Evil Dead",
+      "year": 2013,
+      "category": "horror",
+      "reason": "Demonic-possession horror is the central experience.",
+      "evidence": "original_prompt.txt: movie 1599, title/year and supplied synopsis"
+    },
+    {
+      "id": 1604,
+      "title": "Talk to Me",
+      "year": 2022,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1604, title/year and supplied synopsis"
+    },
+    {
+      "id": 1611,
+      "title": "Event Horizon",
+      "year": 1997,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1611, title/year and supplied synopsis"
+    },
+    {
+      "id": 1612,
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "https://a24films.com/films/killing-of-a-sacred-deer"
+    },
+    {
+      "id": 1640,
+      "title": "The Birds",
+      "year": 1963,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1640, title/year and supplied synopsis"
+    },
+    {
+      "id": 1651,
+      "title": "Longlegs",
+      "year": 2024,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1651, title/year and supplied synopsis"
+    },
+    {
+      "id": 1653,
+      "title": "X",
+      "year": 2022,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1653, title/year and supplied synopsis"
+    },
+    {
+      "id": 1654,
+      "title": "Heretic",
+      "year": 2024,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1654, title/year and supplied synopsis"
+    },
+    {
+      "id": 1658,
+      "title": "The Fly",
+      "year": 1986,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1658, title/year and supplied synopsis"
+    },
+    {
+      "id": 1674,
+      "title": "Carrie",
+      "year": 1976,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1674, title/year and supplied synopsis"
+    },
+    {
+      "id": 1687,
+      "title": "Drag Me to Hell",
+      "year": 2009,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1687, title/year and supplied synopsis"
+    },
+    {
+      "id": 1695,
+      "title": "Planet Terror",
+      "year": 2007,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1695, title/year and supplied synopsis"
+    },
+    {
+      "id": 1709,
+      "title": "Smile",
+      "year": 2022,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1709, title/year and supplied synopsis"
+    },
+    {
+      "id": 1723,
+      "title": "Ready or Not",
+      "year": 2019,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1723, title/year and supplied synopsis"
+    },
+    {
+      "id": 1734,
+      "title": "Doctor Sleep",
+      "year": 2019,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1734, title/year and supplied synopsis"
+    },
+    {
+      "id": 1764,
+      "title": "The Evil Dead",
+      "year": 1981,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1764, title/year and supplied synopsis"
+    },
+    {
+      "id": 1791,
+      "title": "Rosemary's Baby",
+      "year": 1968,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1791, title/year and supplied synopsis"
+    },
+    {
+      "id": 1795,
+      "title": "Barbarian",
+      "year": 2022,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1795, title/year and supplied synopsis"
+    },
+    {
+      "id": 1808,
+      "title": "Cube",
+      "year": 1997,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1808, title/year and supplied synopsis"
+    },
+    {
+      "id": 1812,
+      "title": "Silent Hill",
+      "year": 2006,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1812, title/year and supplied synopsis"
+    },
+    {
+      "id": 1813,
+      "title": "The Black Phone",
+      "year": 2021,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1813, title/year and supplied synopsis"
+    },
+    {
+      "id": 1818,
+      "title": "Pitch Black",
+      "year": 2000,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1818, title/year and supplied synopsis"
+    },
+    {
+      "id": 1819,
+      "title": "Nosferatu",
+      "year": 2024,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1819, title/year and supplied synopsis"
+    },
+    {
+      "id": 1823,
+      "title": "Misery",
+      "year": 1990,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1823, title/year and supplied synopsis"
+    },
+    {
+      "id": 1828,
+      "title": "Mother!",
+      "year": 2017,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1828, title/year and supplied synopsis"
+    },
+    {
+      "id": 1831,
+      "title": "Dracula",
+      "year": 1992,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1831, title/year and supplied synopsis"
+    },
+    {
+      "id": 1832,
+      "title": "The Babadook",
+      "year": 2014,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1832, title/year and supplied synopsis"
+    },
+    {
+      "id": 1844,
+      "title": "The Descent",
+      "year": 2005,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1844, title/year and supplied synopsis"
+    },
+    {
+      "id": 1867,
+      "title": "Life",
+      "year": 2017,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1867, title/year and supplied synopsis"
+    },
+    {
+      "id": 1870,
+      "title": "Orphan",
+      "year": 2009,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1870, title/year and supplied synopsis"
+    },
+    {
+      "id": 1894,
+      "title": "The Invisible Man",
+      "year": 2020,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1894, title/year and supplied synopsis"
+    },
+    {
+      "id": 1898,
+      "title": "Alien: Romulus",
+      "year": 2024,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1898, title/year and supplied synopsis"
+    },
+    {
+      "id": 1910,
+      "title": "Dawn of the Dead",
+      "year": 2004,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1910, title/year and supplied synopsis"
+    },
+    {
+      "id": 1913,
+      "title": "A Nightmare on Elm Street",
+      "year": 1984,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1913, title/year and supplied synopsis"
+    },
+    {
+      "id": 1932,
+      "title": "Saw II",
+      "year": 2005,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1932, title/year and supplied synopsis"
+    },
+    {
+      "id": 1934,
+      "title": "It Follows",
+      "year": 2014,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1934, title/year and supplied synopsis"
+    },
+    {
+      "id": 1947,
+      "title": "The Lighthouse",
+      "year": 2019,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1947, title/year and supplied synopsis"
+    },
+    {
+      "id": 1950,
+      "title": "Frankenstein",
+      "year": 2025,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1950, title/year and supplied synopsis"
+    },
+    {
+      "id": 1969,
+      "title": "Resident Evil",
+      "year": 2002,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1969, title/year and supplied synopsis"
+    },
+    {
+      "id": 1981,
+      "title": "1408",
+      "year": 2007,
+      "category": "horror",
+      "reason": "A haunted-room horror film; terror is the core premise.",
+      "evidence": "https://en.wikipedia.org/wiki/1408_(film)"
+    },
+    {
+      "id": 1988,
+      "title": "Nope",
+      "year": 2022,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1988, title/year and supplied synopsis"
+    },
+    {
+      "id": 1993,
+      "title": "Sinister",
+      "year": 2012,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1993, title/year and supplied synopsis"
+    },
+    {
+      "id": 1994,
+      "title": "The Blair Witch Project",
+      "year": 1999,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 1994, title/year and supplied synopsis"
+    },
+    {
+      "id": 2006,
+      "title": "A Quiet Place Part II",
+      "year": 2020,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2006, title/year and supplied synopsis"
+    },
+    {
+      "id": 2024,
+      "title": "Don't Breathe",
+      "year": 2016,
+      "category": "horror",
+      "reason": "Sustained home-invasion terror is the central experience.",
+      "evidence": "original_prompt.txt: movie 2024, title/year and supplied synopsis"
+    },
+    {
+      "id": 2031,
+      "title": "Death Proof",
+      "year": 2007,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2031, title/year and supplied synopsis"
+    },
+    {
+      "id": 2034,
+      "title": "Final Destination",
+      "year": 2000,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2034, title/year and supplied synopsis"
+    },
+    {
+      "id": 2043,
+      "title": "Halloween",
+      "year": 1978,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2043, title/year and supplied synopsis"
+    },
+    {
+      "id": 2050,
+      "title": "Weapons",
+      "year": 2025,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2050, title/year and supplied synopsis"
+    },
+    {
+      "id": 2053,
+      "title": "The Conjuring 2",
+      "year": 2016,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2053, title/year and supplied synopsis"
+    },
+    {
+      "id": 2076,
+      "title": "The Witch",
+      "year": 2015,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2076, title/year and supplied synopsis"
+    },
+    {
+      "id": 2083,
+      "title": "It: Chapter Two",
+      "year": 2019,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2083, title/year and supplied synopsis"
+    },
+    {
+      "id": 2098,
+      "title": "28 Weeks Later",
+      "year": 2007,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2098, title/year and supplied synopsis"
+    },
+    {
+      "id": 2104,
+      "title": "Insidious",
+      "year": 2010,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2104, title/year and supplied synopsis"
+    },
+    {
+      "id": 2111,
+      "title": "From Dusk Till Dawn",
+      "year": 1996,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2111, title/year and supplied synopsis"
+    },
+    {
+      "id": 2118,
+      "title": "The Mist",
+      "year": 2007,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2118, title/year and supplied synopsis"
+    },
+    {
+      "id": 2146,
+      "title": "Us",
+      "year": 2019,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2146, title/year and supplied synopsis"
+    },
+    {
+      "id": 2152,
+      "title": "Annihilation",
+      "year": 2018,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "https://www.bfi.org.uk/film/250f9f17-86c5-5cdf-a667-18689287a519/annihilation"
+    },
+    {
+      "id": 2162,
+      "title": "The Ring",
+      "year": 2002,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2162, title/year and supplied synopsis"
+    },
+    {
+      "id": 2182,
+      "title": "Sleepy Hollow",
+      "year": 1999,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2182, title/year and supplied synopsis"
+    },
+    {
+      "id": 2190,
+      "title": "The Substance",
+      "year": 2024,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2190, title/year and supplied synopsis"
+    },
+    {
+      "id": 2197,
+      "title": "Bird Box",
+      "year": 2018,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2197, title/year and supplied synopsis"
+    },
+    {
+      "id": 2206,
+      "title": "The Others",
+      "year": 2001,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2206, title/year and supplied synopsis"
+    },
+    {
+      "id": 2225,
+      "title": "Cloverfield",
+      "year": 2008,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2225, title/year and supplied synopsis"
+    },
+    {
+      "id": 2226,
+      "title": "Scream",
+      "year": 1996,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2226, title/year and supplied synopsis"
+    },
+    {
+      "id": 2232,
+      "title": "Hereditary",
+      "year": 2018,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "https://a24films.com/films/hereditary"
+    },
+    {
+      "id": 2243,
+      "title": "Sinners",
+      "year": 2025,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2243, title/year and supplied synopsis"
+    },
+    {
+      "id": 2273,
+      "title": "Midsommar",
+      "year": 2019,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2273, title/year and supplied synopsis"
+    },
+    {
+      "id": 2287,
+      "title": "The Cabin in the Woods",
+      "year": 2011,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2287, title/year and supplied synopsis"
+    },
+    {
+      "id": 2295,
+      "title": "The Menu",
+      "year": 2022,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2295, title/year and supplied synopsis"
+    },
+    {
+      "id": 2300,
+      "title": "The Exorcist",
+      "year": 1973,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2300, title/year and supplied synopsis"
+    },
+    {
+      "id": 2313,
+      "title": "Saw",
+      "year": 2004,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2313, title/year and supplied synopsis"
+    },
+    {
+      "id": 2329,
+      "title": "The Thing",
+      "year": 1982,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2329, title/year and supplied synopsis"
+    },
+    {
+      "id": 2346,
+      "title": "28 Days Later",
+      "year": 2002,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2346, title/year and supplied synopsis"
+    },
+    {
+      "id": 2403,
+      "title": "Split",
+      "year": 2016,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2403, title/year and supplied synopsis"
+    },
+    {
+      "id": 2407,
+      "title": "The Conjuring",
+      "year": 2013,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2407, title/year and supplied synopsis"
+    },
+    {
+      "id": 2425,
+      "title": "A Quiet Place",
+      "year": 2018,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2425, title/year and supplied synopsis"
+    },
+    {
+      "id": 2452,
+      "title": "It",
+      "year": 2017,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2452, title/year and supplied synopsis"
+    },
+    {
+      "id": 2455,
+      "title": "Prometheus",
+      "year": 2012,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2455, title/year and supplied synopsis"
+    },
+    {
+      "id": 2471,
+      "title": "Jaws",
+      "year": 1975,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2471, title/year and supplied synopsis"
+    },
+    {
+      "id": 2503,
+      "title": "Psycho",
+      "year": 1960,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2503, title/year and supplied synopsis"
+    },
+    {
+      "id": 2513,
+      "title": "Get Out",
+      "year": 2017,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2513, title/year and supplied synopsis"
+    },
+    {
+      "id": 2583,
+      "title": "Alien",
+      "year": 1979,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2583, title/year and supplied synopsis"
+    },
+    {
+      "id": 2587,
+      "title": "The Sixth Sense",
+      "year": 1999,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2587, title/year and supplied synopsis"
+    },
+    {
+      "id": 2602,
+      "title": "The Shining",
+      "year": 1980,
+      "category": "horror",
+      "reason": "Horror is a central genre and viewing experience, not an incidental scary element.",
+      "evidence": "original_prompt.txt: movie 2602, title/year and supplied synopsis"
+    },
+    {
+      "id": 32,
+      "title": "Casualties of War",
+      "year": 1989,
+      "category": "abuse_victimization",
+      "reason": "The story centers on a particular sexual-assault war crime and accountability, rather than combat.",
+      "evidence": "original_prompt.txt: movie 32, title/year and supplied synopsis"
+    },
+    {
+      "id": 65,
+      "title": "Dolores Claiborne",
+      "year": 1995,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "original_prompt.txt: movie 65, title/year and supplied synopsis"
+    },
+    {
+      "id": 180,
+      "title": "Martha Marcy May Marlene",
+      "year": 2011,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "original_prompt.txt: movie 180, title/year and supplied synopsis"
+    },
+    {
+      "id": 188,
+      "title": "Detroit",
+      "year": 2017,
+      "category": "abuse_victimization",
+      "reason": "The story centers on an incident of police brutality and its victims.",
+      "evidence": "original_prompt.txt: movie 188, title/year and supplied synopsis"
+    },
+    {
+      "id": 268,
+      "title": "This Boy's Life",
+      "year": 1993,
+      "category": "abuse_victimization",
+      "reason": "An abusive stepfather relationship is the central subject.",
+      "evidence": "original_prompt.txt: movie 268, title/year and supplied synopsis"
+    },
+    {
+      "id": 287,
+      "title": "Women Talking",
+      "year": 2022,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "original_prompt.txt: movie 287, title/year and supplied synopsis"
+    },
+    {
+      "id": 475,
+      "title": "Lolita",
+      "year": 1997,
+      "category": "abuse_victimization",
+      "reason": "The central relationship is the sexual exploitation of a minor.",
+      "evidence": "original_prompt.txt: movie 475, title/year and supplied synopsis"
+    },
+    {
+      "id": 608,
+      "title": "Mysterious Skin",
+      "year": 2004,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "original_prompt.txt: movie 608, title/year and supplied synopsis"
+    },
+    {
+      "id": 732,
+      "title": "Short Term 12",
+      "year": 2013,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "original_prompt.txt: movie 732, title/year and supplied synopsis"
+    },
+    {
+      "id": 817,
+      "title": "The Color Purple",
+      "year": 1985,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "original_prompt.txt: movie 817, title/year and supplied synopsis"
+    },
+    {
+      "id": 965,
+      "title": "Lolita",
+      "year": 1962,
+      "category": "abuse_victimization",
+      "reason": "The central relationship is the sexual exploitation of a minor.",
+      "evidence": "original_prompt.txt: movie 965, title/year and supplied synopsis"
+    },
+    {
+      "id": 1012,
+      "title": "Precious",
+      "year": 2009,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "original_prompt.txt: movie 1012, title/year and supplied synopsis"
+    },
+    {
+      "id": 1153,
+      "title": "Bombshell",
+      "year": 2019,
+      "category": "abuse_victimization",
+      "reason": "Workplace sexual harassment and women challenging it are the main subject.",
+      "evidence": "original_prompt.txt: movie 1153, title/year and supplied synopsis"
+    },
+    {
+      "id": 1163,
+      "title": "Sound of Freedom",
+      "year": 2023,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "original_prompt.txt: movie 1163, title/year and supplied synopsis"
+    },
+    {
+      "id": 1241,
+      "title": "Doubt",
+      "year": 2008,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "original_prompt.txt: movie 1241, title/year and supplied synopsis"
+    },
+    {
+      "id": 1565,
+      "title": "The Last Duel",
+      "year": 2021,
+      "category": "abuse_victimization",
+      "reason": "Sexual assault and the treatment of the woman reporting it are the central dispute.",
+      "evidence": "original_prompt.txt: movie 1565, title/year and supplied synopsis"
+    },
+    {
+      "id": 1776,
+      "title": "Promising Young Woman",
+      "year": 2020,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "original_prompt.txt: movie 1776, title/year and supplied synopsis"
+    },
+    {
+      "id": 2272,
+      "title": "Room",
+      "year": 2015,
+      "category": "abuse_victimization",
+      "reason": "Abuse, exploitation, or its impact on survivors is the central subject.",
+      "evidence": "https://a24films.com/films/room"
+    },
+    {
+      "id": 2338,
+      "title": "Spotlight",
+      "year": 2015,
+      "category": "abuse_victimization",
+      "reason": "The investigation centers specifically on systemic child sexual abuse and its cover-up.",
+      "evidence": "original_prompt.txt: movie 2338, title/year and supplied synopsis"
+    },
+    {
+      "id": 6,
+      "title": "All Dogs Go to Heaven",
+      "year": 1989,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 6, title/year and supplied synopsis"
+    },
+    {
+      "id": 15,
+      "title": "The Rescuers Down Under",
+      "year": 1990,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 15, title/year and supplied synopsis"
+    },
+    {
+      "id": 34,
+      "title": "Balto",
+      "year": 1995,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 34, title/year and supplied synopsis"
+    },
+    {
+      "id": 63,
+      "title": "Peter Rabbit",
+      "year": 2018,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 63, title/year and supplied synopsis"
+    },
+    {
+      "id": 70,
+      "title": "The Peanuts Movie",
+      "year": 2015,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 70, title/year and supplied synopsis"
+    },
+    {
+      "id": 71,
+      "title": "Annie",
+      "year": 1982,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 71, title/year and supplied synopsis"
+    },
+    {
+      "id": 107,
+      "title": "Flight of the Navigator",
+      "year": 1986,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 107, title/year and supplied synopsis"
+    },
+    {
+      "id": 112,
+      "title": "Homeward Bound: The Incredible Journey",
+      "year": 1993,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 112, title/year and supplied synopsis"
+    },
+    {
+      "id": 145,
+      "title": "Oliver & Company",
+      "year": 1988,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 145, title/year and supplied synopsis"
+    },
+    {
+      "id": 183,
+      "title": "The Great Mouse Detective",
+      "year": 1986,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 183, title/year and supplied synopsis"
+    },
+    {
+      "id": 229,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 229, title/year and supplied synopsis"
+    },
+    {
+      "id": 237,
+      "title": "An American Tail",
+      "year": 1986,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 237, title/year and supplied synopsis"
+    },
+    {
+      "id": 291,
+      "title": "Pete's Dragon",
+      "year": 2016,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 291, title/year and supplied synopsis"
+    },
+    {
+      "id": 398,
+      "title": "A Goofy Movie",
+      "year": 1995,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 398, title/year and supplied synopsis"
+    },
+    {
+      "id": 426,
+      "title": "Ferdinand",
+      "year": 2017,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 426, title/year and supplied synopsis"
+    },
+    {
+      "id": 451,
+      "title": "Storks",
+      "year": 2016,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 451, title/year and supplied synopsis"
+    },
+    {
+      "id": 468,
+      "title": "Arthur Christmas",
+      "year": 2011,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 468, title/year and supplied synopsis"
+    },
+    {
+      "id": 483,
+      "title": "The Rescuers",
+      "year": 1977,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 483, title/year and supplied synopsis"
+    },
+    {
+      "id": 506,
+      "title": "The Mighty Ducks",
+      "year": 1992,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 506, title/year and supplied synopsis"
+    },
+    {
+      "id": 539,
+      "title": "Sonic the Hedgehog 3",
+      "year": 2024,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 539, title/year and supplied synopsis"
+    },
+    {
+      "id": 546,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 546, title/year and supplied synopsis"
+    },
+    {
+      "id": 586,
+      "title": "Mr. Peabody & Sherman",
+      "year": 2014,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 586, title/year and supplied synopsis"
+    },
+    {
+      "id": 604,
+      "title": "Peter Pan",
+      "year": 2003,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 604, title/year and supplied synopsis"
+    },
+    {
+      "id": 684,
+      "title": "Nanny McPhee",
+      "year": 2005,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 684, title/year and supplied synopsis"
+    },
+    {
+      "id": 712,
+      "title": "Lilo & Stitch",
+      "year": 2025,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 712, title/year and supplied synopsis"
+    },
+    {
+      "id": 714,
+      "title": "The Christmas Chronicles",
+      "year": 2018,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 714, title/year and supplied synopsis"
+    },
+    {
+      "id": 780,
+      "title": "Sing 2",
+      "year": 2021,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 780, title/year and supplied synopsis"
+    },
+    {
+      "id": 833,
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 833, title/year and supplied synopsis"
+    },
+    {
+      "id": 852,
+      "title": "The Land Before Time",
+      "year": 1988,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 852, title/year and supplied synopsis"
+    },
+    {
+      "id": 874,
+      "title": "The Spiderwick Chronicles",
+      "year": 2008,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 874, title/year and supplied synopsis"
+    },
+    {
+      "id": 894,
+      "title": "The Fox and the Hound",
+      "year": 1981,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 894, title/year and supplied synopsis"
+    },
+    {
+      "id": 923,
+      "title": "The SpongeBob SquarePants Movie",
+      "year": 2004,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 923, title/year and supplied synopsis"
+    },
+    {
+      "id": 927,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 927, title/year and supplied synopsis"
+    },
+    {
+      "id": 945,
+      "title": "The Sword in the Stone",
+      "year": 1963,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 945, title/year and supplied synopsis"
+    },
+    {
+      "id": 956,
+      "title": "Penguins of Madagascar",
+      "year": 2014,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 956, title/year and supplied synopsis"
+    },
+    {
+      "id": 964,
+      "title": "Sonic the Hedgehog 2",
+      "year": 2022,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 964, title/year and supplied synopsis"
+    },
+    {
+      "id": 1013,
+      "title": "Home",
+      "year": 2015,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1013, title/year and supplied synopsis"
+    },
+    {
+      "id": 1021,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1021, title/year and supplied synopsis"
+    },
+    {
+      "id": 1058,
+      "title": "The Aristocats",
+      "year": 1970,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1058, title/year and supplied synopsis"
+    },
+    {
+      "id": 1156,
+      "title": "Brother Bear",
+      "year": 2003,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1156, title/year and supplied synopsis"
+    },
+    {
+      "id": 1184,
+      "title": "The Good Dinosaur",
+      "year": 2015,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1184, title/year and supplied synopsis"
+    },
+    {
+      "id": 1272,
+      "title": "Cars 3",
+      "year": 2017,
+      "category": "children",
+      "reason": "Children’s animation in the Cars franchise.",
+      "evidence": "original_prompt.txt: movie 1272, title/year and supplied synopsis"
+    },
+    {
+      "id": 1280,
+      "title": "Dumbo",
+      "year": 1941,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1280, title/year and supplied synopsis"
+    },
+    {
+      "id": 1314,
+      "title": "Horton Hears a Who!",
+      "year": 2008,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1314, title/year and supplied synopsis"
+    },
+    {
+      "id": 1335,
+      "title": "Lady and the Tramp",
+      "year": 1955,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1335, title/year and supplied synopsis"
+    },
+    {
+      "id": 1338,
+      "title": "Hotel Transylvania 2",
+      "year": 2015,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1338, title/year and supplied synopsis"
+    },
+    {
+      "id": 1357,
+      "title": "Bambi",
+      "year": 1942,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1357, title/year and supplied synopsis"
+    },
+    {
+      "id": 1360,
+      "title": "Peter Pan",
+      "year": 1953,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1360, title/year and supplied synopsis"
+    },
+    {
+      "id": 1366,
+      "title": "Alice in Wonderland",
+      "year": 1951,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1366, title/year and supplied synopsis"
+    },
+    {
+      "id": 1404,
+      "title": "Sleeping Beauty",
+      "year": 1959,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1404, title/year and supplied synopsis"
+    },
+    {
+      "id": 1406,
+      "title": "Pinocchio",
+      "year": 1940,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1406, title/year and supplied synopsis"
+    },
+    {
+      "id": 1442,
+      "title": "The Little Mermaid",
+      "year": 2023,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1442, title/year and supplied synopsis"
+    },
+    {
+      "id": 1481,
+      "title": "The Princess and the Frog",
+      "year": 2009,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1481, title/year and supplied synopsis"
+    },
+    {
+      "id": 1484,
+      "title": "Cinderella",
+      "year": 1950,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1484, title/year and supplied synopsis"
+    },
+    {
+      "id": 1505,
+      "title": "Sonic the Hedgehog",
+      "year": 2020,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1505, title/year and supplied synopsis"
+    },
+    {
+      "id": 1518,
+      "title": "Matilda",
+      "year": 1996,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1518, title/year and supplied synopsis"
+    },
+    {
+      "id": 1523,
+      "title": "One Hundred and One Dalmatians",
+      "year": 1961,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1523, title/year and supplied synopsis"
+    },
+    {
+      "id": 1551,
+      "title": "Over the Hedge",
+      "year": 2006,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1551, title/year and supplied synopsis"
+    },
+    {
+      "id": 1600,
+      "title": "Sing",
+      "year": 2016,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1600, title/year and supplied synopsis"
+    },
+    {
+      "id": 1602,
+      "title": "The Jungle Book",
+      "year": 1967,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1602, title/year and supplied synopsis"
+    },
+    {
+      "id": 1622,
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "year": 2012,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1622, title/year and supplied synopsis"
+    },
+    {
+      "id": 1633,
+      "title": "Frozen II",
+      "year": 2019,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1633, title/year and supplied synopsis"
+    },
+    {
+      "id": 1702,
+      "title": "The Secret Life of Pets",
+      "year": 2016,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1702, title/year and supplied synopsis"
+    },
+    {
+      "id": 1711,
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1937,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1711, title/year and supplied synopsis"
+    },
+    {
+      "id": 1730,
+      "title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1730, title/year and supplied synopsis"
+    },
+    {
+      "id": 1731,
+      "title": "Lilo & Stitch",
+      "year": 2002,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1731, title/year and supplied synopsis"
+    },
+    {
+      "id": 1751,
+      "title": "Bolt",
+      "year": 2008,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1751, title/year and supplied synopsis"
+    },
+    {
+      "id": 1765,
+      "title": "The Croods",
+      "year": 2013,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1765, title/year and supplied synopsis"
+    },
+    {
+      "id": 1837,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1837, title/year and supplied synopsis"
+    },
+    {
+      "id": 1841,
+      "title": "The Polar Express",
+      "year": 2004,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1841, title/year and supplied synopsis"
+    },
+    {
+      "id": 1850,
+      "title": "Rio",
+      "year": 2011,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1850, title/year and supplied synopsis"
+    },
+    {
+      "id": 1899,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1899, title/year and supplied synopsis"
+    },
+    {
+      "id": 1914,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1914, title/year and supplied synopsis"
+    },
+    {
+      "id": 1973,
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1973, title/year and supplied synopsis"
+    },
+    {
+      "id": 1978,
+      "title": "Hotel Transylvania",
+      "year": 2012,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1978, title/year and supplied synopsis"
+    },
+    {
+      "id": 1998,
+      "title": "Ice Age: The Meltdown",
+      "year": 2006,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 1998, title/year and supplied synopsis"
+    },
+    {
+      "id": 2029,
+      "title": "Finding Dory",
+      "year": 2016,
+      "category": "children",
+      "reason": "Children’s animation in the Finding Nemo franchise.",
+      "evidence": "original_prompt.txt: movie 2029, title/year and supplied synopsis"
+    },
+    {
+      "id": 2241,
+      "title": "Despicable Me 2",
+      "year": 2013,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 2241, title/year and supplied synopsis"
+    },
+    {
+      "id": 2270,
+      "title": "Madagascar",
+      "year": 2005,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 2270, title/year and supplied synopsis"
+    },
+    {
+      "id": 2336,
+      "title": "Cars",
+      "year": 2006,
+      "category": "children",
+      "reason": "Young-child-oriented animation; explicitly named by you as an example.",
+      "evidence": "https://movies.disney.com/cars"
+    },
+    {
+      "id": 2361,
+      "title": "Ice Age",
+      "year": 2002,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 2361, title/year and supplied synopsis"
+    },
+    {
+      "id": 2411,
+      "title": "Despicable Me",
+      "year": 2010,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 2411, title/year and supplied synopsis"
+    },
+    {
+      "id": 2462,
+      "title": "Frozen",
+      "year": 2013,
+      "category": "children",
+      "reason": "Primarily aimed at children: a child-centered story or children’s franchise.",
+      "evidence": "original_prompt.txt: movie 2462, title/year and supplied synopsis"
+    },
+    {
+      "id": 2598,
+      "title": "Finding Nemo",
+      "year": 2003,
+      "category": "children",
+      "reason": "Young-child-oriented animation; explicitly named by you as an example.",
+      "evidence": "https://movies.disney.com/finding-nemo"
+    }
+  ],
+  "borderline_kept": [
+    {
+      "id": 2136,
+      "title": "10 Cloverfield Lane",
+      "year": 2016,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1193,
+      "title": "A Haunting in Venice",
+      "year": 2023,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2520,
+      "title": "American Psycho",
+      "year": 2000,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2534,
+      "title": "Black Swan",
+      "year": 2010,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2521,
+      "title": "Aliens",
+      "year": 1986,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2301,
+      "title": "Predator",
+      "year": 1987,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1847,
+      "title": "Prey",
+      "year": 2022,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2530,
+      "title": "I Am Legend",
+      "year": 2007,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2500,
+      "title": "World War Z",
+      "year": 2013,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2571,
+      "title": "The Terminator",
+      "year": 1984,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1945,
+      "title": "Underworld",
+      "year": 2003,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1630,
+      "title": "Underworld: Evolution",
+      "year": 2006,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1428,
+      "title": "Underworld: Rise of the Lycans",
+      "year": 2009,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2023,
+      "title": "Blade",
+      "year": 1998,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1771,
+      "title": "Blade II",
+      "year": 2002,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2171,
+      "title": "Constantine",
+      "year": 2005,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2303,
+      "title": "The Mummy",
+      "year": 1999,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2637,
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2644,
+      "title": "Seven",
+      "year": 1995,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2438,
+      "title": "Zodiac",
+      "year": 2007,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2634,
+      "title": "Shutter Island",
+      "year": 2010,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1098,
+      "title": "The Housemaid",
+      "year": 2025,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1384,
+      "title": "The Gorge",
+      "year": 2025,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 890,
+      "title": "The Long Walk",
+      "year": 2025,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 351,
+      "title": "Send Help",
+      "year": 2026,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1429,
+      "title": "Bugonia",
+      "year": 2025,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 526,
+      "title": "Beau Is Afraid",
+      "year": 2023,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 893,
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 14,
+      "title": "It's What's Inside",
+      "year": 2024,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 496,
+      "title": "I See You",
+      "year": 2019,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1645,
+      "title": "Secret Window",
+      "year": 2004,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 925,
+      "title": "Run",
+      "year": 2020,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 25,
+      "title": "Summer of 84",
+      "year": 2018,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2124,
+      "title": "Interview with the Vampire",
+      "year": 1994,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 961,
+      "title": "Only Lovers Left Alive",
+      "year": 2013,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 594,
+      "title": "The Dead Zone",
+      "year": 1983,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 1591,
+      "title": "The Ninth Gate",
+      "year": 1999,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2224,
+      "title": "The Devil's Advocate",
+      "year": 1997,
+      "reason": "Crime, action, science fiction, or drama leads; horror elements do not alone trigger exclusion."
+    },
+    {
+      "id": 2280,
+      "title": "Ghostbusters",
+      "year": 1984,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1797,
+      "title": "Ghostbusters",
+      "year": 2016,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1718,
+      "title": "Ghostbusters II",
+      "year": 1989,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1722,
+      "title": "Ghostbusters: Afterlife",
+      "year": 2021,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 2192,
+      "title": "Beetlejuice",
+      "year": 1988,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1418,
+      "title": "Beetlejuice Beetlejuice",
+      "year": 2024,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1859,
+      "title": "Gremlins",
+      "year": 1984,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1007,
+      "title": "Gremlins 2: The New Batch",
+      "year": 1990,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1578,
+      "title": "Army of Darkness",
+      "year": 1992,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1584,
+      "title": "Tucker and Dale vs Evil",
+      "year": 2010,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 2416,
+      "title": "Shaun of the Dead",
+      "year": 2004,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 2432,
+      "title": "Zombieland",
+      "year": 2009,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1663,
+      "title": "Zombieland: Double Tap",
+      "year": 2019,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1605,
+      "title": "What We Do in the Shadows",
+      "year": 2014,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1977,
+      "title": "The World's End",
+      "year": 2013,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 2236,
+      "title": "This Is the End",
+      "year": 2013,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1456,
+      "title": "Young Frankenstein",
+      "year": 1974,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1779,
+      "title": "Warm Bodies",
+      "year": 2013,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 1363,
+      "title": "Tremors",
+      "year": 1990,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 796,
+      "title": "The Frighteners",
+      "year": 1996,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 721,
+      "title": "Little Shop of Horrors",
+      "year": 1986,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 2168,
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "year": 2007,
+      "reason": "Comedy, parody, or adventure leads; not excluded just for monsters or horror references."
+    },
+    {
+      "id": 2558,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2487,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2489,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2478,
+      "title": "Harry Potter and the Goblet of Fire",
+      "year": 2005,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2456,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "year": 2007,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2428,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "year": 2009,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2429,
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2581,
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": 2011,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1300,
+      "title": "Paddington",
+      "year": 2014,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 938,
+      "title": "Paddington 2",
+      "year": 2017,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2277,
+      "title": "The Princess Bride",
+      "year": 1987,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2473,
+      "title": "Home Alone",
+      "year": 1990,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2235,
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2258,
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2181,
+      "title": "Jumanji",
+      "year": 1995,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2305,
+      "title": "Jumanji: Welcome to the Jungle",
+      "year": 2017,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1999,
+      "title": "Jumanji: The Next Level",
+      "year": 2019,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2071,
+      "title": "Hugo",
+      "year": 2011,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1917,
+      "title": "Hook",
+      "year": 1991,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2015,
+      "title": "The Goonies",
+      "year": 1985,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2240,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1716,
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "year": 2008,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 951,
+      "title": "The Sandlot",
+      "year": 1993,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1737,
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2373,
+      "title": "Charlie and the Chocolate Factory",
+      "year": 2005,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1513,
+      "title": "Wonka",
+      "year": 2023,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1532,
+      "title": "Mary Poppins",
+      "year": 1964,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 781,
+      "title": "Mary Poppins Returns",
+      "year": 2018,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1416,
+      "title": "The Parent Trap",
+      "year": 1998,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1249,
+      "title": "The Santa Clause",
+      "year": 1994,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 99,
+      "title": "Chitty Chitty Bang Bang",
+      "year": 1968,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1207,
+      "title": "Babe",
+      "year": 1995,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 918,
+      "title": "Where the Wild Things Are",
+      "year": 2009,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1147,
+      "title": "Instant Family",
+      "year": 2018,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 3,
+      "title": "The Odd Life of Timothy Green",
+      "year": 2012,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1927,
+      "title": "Cruella",
+      "year": 2021,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1040,
+      "title": "Addams Family Values",
+      "year": 1993,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 1543,
+      "title": "The Addams Family",
+      "year": 1991,
+      "reason": "Broad adult/family appeal; not treated as primarily young-child entertainment."
+    },
+    {
+      "id": 2505,
+      "title": "12 Years a Slave",
+      "year": 2013,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 2631,
+      "title": "Schindler's List",
+      "year": 1993,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 2573,
+      "title": "The Pianist",
+      "year": 2002,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 2150,
+      "title": "Hotel Rwanda",
+      "year": 2004,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 1854,
+      "title": "The Boy in the Striped Pajamas",
+      "year": 2008,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 2655,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 2325,
+      "title": "Mystic River",
+      "year": 2003,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 2588,
+      "title": "Whiplash",
+      "year": 2014,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 2385,
+      "title": "The Perks of Being a Wallflower",
+      "year": 2012,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 1767,
+      "title": "Sleepers",
+      "year": 1996,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 854,
+      "title": "Philomena",
+      "year": 2013,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 474,
+      "title": "Woman of the Hour",
+      "year": 2023,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 656,
+      "title": "Notes on a Scandal",
+      "year": 2006,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 383,
+      "title": "Black Snake Moan",
+      "year": 2006,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 132,
+      "title": "The Report",
+      "year": 2019,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 445,
+      "title": "The Mauritanian",
+      "year": 2021,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 1566,
+      "title": "A Time to Kill",
+      "year": 1996,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 2079,
+      "title": "To Kill a Mockingbird",
+      "year": 1962,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 2389,
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 1149,
+      "title": "You Were Never Really Here",
+      "year": 2017,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 1983,
+      "title": "Wind River",
+      "year": 2017,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 1454,
+      "title": "We Need to Talk About Kevin",
+      "year": 2011,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 863,
+      "title": "Thirteen",
+      "year": 2003,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 1533,
+      "title": "Unbroken",
+      "year": 2014,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    },
+    {
+      "id": 679,
+      "title": "Beasts of No Nation",
+      "year": 2015,
+      "reason": "Broader historical, crime, family, or ambition narrative; not excluded solely for depictions of abuse or victimization."
+    }
+  ]
+}
