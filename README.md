@@ -6,7 +6,7 @@ A movie picker with a curated collection, real film artwork, and a personal movi
 
 [Open Frame](https://ulasonat.github.io/random-movie-picker/) — hosted on GitHub Pages. Share this URL with anyone; no sign-in or installation is needed.
 
-Each browser has its own picks, exclusions, and watch history. The online site starts with a separate history from the Desktop app; it does not upload or sync the Desktop app's data.
+Each browser has its own picks, exclusions, and watch history. The online site has a separate history from the original local file; it does not upload or sync that file's browser data.
 
 GitHub Pages publishes the repository's `main` branch. The site is plain HTML, CSS, and JavaScript; `.nojekyll` keeps deployment independent of a site generator.
 
@@ -20,6 +20,7 @@ Or open `local.html` in Chrome. Everything needed to pick movies is already buil
 
 ## Features
 
+- Light and dark themes, with a toggle in the header. Frame follows the device theme until a choice is saved, and keeps that choice across visits and open tabs.
 - Random picks with a 2.75-second poster reveal (blur to clear, then a slide into place), a reduced-motion option, and a Space shortcut.
 - Era, runtime, IMDb rating, and certificate filters, plus four quick presets.
 - Separate picked, saved, and watched lists. Picking a movie does **not** mark it watched.
@@ -39,7 +40,7 @@ Artwork requests send the film title and year to Wikipedia; Google Fonts supplie
 
 ## Files
 
-- `local.html`, `styles.css`, `local_app.js`: interface and browser behavior.
+- `local.html`, `styles.css`, `local_app.js`, `theme.js`: interface and browser behavior.
 - `movie_core.js`: collection rules, filter matching, state migration, and search URL construction.
 - `movies_curated_final.js`: the existing 2,206-film curated pool.
 - `excluded_movies_curated.js`: the 449 source exclusions.
@@ -58,4 +59,4 @@ The 2026-09-26 review uses your narrow primary-theme criteria: 201 horror films,
 
 Removing a movie from Picked returns it to eligibility unless it is also watched/excluded or fails the current filters; removing the currently displayed pick also resets the main card. The IMDb vote count comes from your saved source list, like the rating.
 
-The Desktop `Frame.app` launcher opens this same file in Chrome, preserving its browser storage.
+The Desktop and Dock `Frame.app` launcher opens the online site in Chrome. Use `make run` to open the original local file and its separate history.
