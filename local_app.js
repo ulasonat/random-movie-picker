@@ -87,6 +87,7 @@
     bookmark: '<path d="M6 4h12v17l-6-4-6 4z"/>',
     check: '<path d="m5 12 4 4L19 6"/>',
     ban: '<circle cx="12" cy="12" r="8"/><path d="m6.5 6.5 11 11"/>',
+    undo: '<path d="m8 4-5 5 5 5M3 9h10a7 7 0 0 1 0 14" transform="translate(0 -2)"/>',
     search: '<circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/>',
     play: '<path d="m8 4 12 8-12 8z"/>',
     download: '<path d="M12 3v12m-5-5 5 5 5-5M4 16v5h16v-5"/>',
@@ -325,7 +326,12 @@
     const hasMovie = Boolean(movie);
     $("poster-collage").hidden = hasMovie;
     $("main-poster").hidden = !hasMovie;
-    for (const id of ["movie-meta", "movie-actions", "movie-links"])
+    for (const id of [
+      "movie-meta",
+      "movie-actions",
+      "movie-links",
+      "selection-actions",
+    ])
       $(id).hidden = !hasMovie;
     document
       .querySelector(".movie-story")
@@ -399,6 +405,10 @@
     renderDescriptionVisibility();
     const saved = state.saved.includes(movie.id),
       watched = state.history.includes(movie.id);
+    $("undo-selection").disabled = !state.picks.includes(movie.id);
+    $("undo-selection-hint").textContent = watched
+      ? "Keep watched status"
+      : "Return to pool";
     $("save-movie").innerHTML =
       `<span data-icon="bookmark"></span> ${saved ? "Saved" : "Save"}`;
     $("watch-movie").innerHTML =
@@ -1082,6 +1092,21 @@
   };
   $("save-movie").onclick = () => toggleSaved(state.currentId);
   $("watch-movie").onclick = toggleWatched;
+  $("undo-selection").onclick = () => {
+    const movie = currentMovie();
+    if (!movie || busy || !state.picks.includes(movie.id)) return;
+    state.picks = state.picks.filter((id) => id !== movie.id);
+    state.currentId = null;
+    save();
+    render();
+    $("pick-status").textContent = "";
+    $("pick-movie").focus({ preventScroll: true });
+    announce(
+      state.history.includes(movie.id)
+        ? `Selection undone. ${movie.title} remains marked watched.`
+        : `Selection undone. ${movie.title} is back in the pool.`,
+    );
+  };
   $("exclude-movie").onclick = () => {
     if (!currentMovie() || busy) return;
     exclusionTarget = state.currentId;
@@ -1090,6 +1115,10 @@
     $("exclude-category").value = "other";
     $("exclude-dialog").showModal();
   };
+  $("cancel-exclude").onclick = () => $("exclude-dialog").close();
+  $("exclude-dialog").addEventListener("close", () => {
+    exclusionTarget = null;
+  });
   $("confirm-exclude").onclick = () => {
     const movie = movieById.get(exclusionTarget);
     if (!movie) return;
@@ -1101,8 +1130,13 @@
         addedAt: new Date().toISOString(),
       };
       state.restored = state.restored.filter((id) => id !== movie.id);
+      state.picks = state.picks.filter((id) => id !== movie.id);
       if (state.currentId === movie.id) state.currentId = null;
     });
+    if (!currentMovie()) {
+      $("pick-status").textContent = "";
+      $("pick-movie").focus({ preventScroll: true });
+    }
   };
   for (const key of ["decade", "runtime", "rating", "certificate"])
     $(`filter-${key}`).onchange = (event) => {

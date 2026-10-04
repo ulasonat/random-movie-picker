@@ -6,12 +6,12 @@
     <meta name="theme-color" content="#f8f6f1" />
     <title>Frame — Your next great film</title>
     <script src="theme.js?v=20260926-1"></script>
-    <link rel="stylesheet" href="styles.css?v=20260926-3" />
+    <link rel="stylesheet" href="styles.css?v=20261004-1" />
     <script src="movies_curated_final.js" defer></script>
     <script src="excluded_movies_curated.js" defer></script>
     <script src="poster_seed.js" defer></script>
     <script src="movie_core.js" defer></script>
-    <script src="local_app.js?v=20260926-2" defer></script>
+    <script src="local_app.js?v=20261004-1" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
@@ -146,15 +146,39 @@
                   >
                     <span data-icon="check"></span> Watched
                   </button>
-                  <button class="subtle-button" id="exclude-movie">
-                    <span data-icon="ban"></span> Exclude
-                  </button>
                 </div>
                 <button class="button primary pick-button" id="pick-movie">
                   <span data-icon="shuffle"></span
                   ><span id="pick-label">Pick a film</span
                   ><span class="button-arrow" aria-hidden="true">↗</span>
                 </button>
+                <div
+                  class="selection-actions"
+                  id="selection-actions"
+                  role="group"
+                  aria-label="Change this selection"
+                  hidden
+                >
+                  <button class="selection-action" id="undo-selection">
+                    <span class="selection-action-title"
+                      ><span data-icon="undo"></span> Undo selection</span
+                    >
+                    <span class="selection-action-hint" id="undo-selection-hint"
+                      >Return to pool</span
+                    >
+                  </button>
+                  <button
+                    class="selection-action"
+                    id="exclude-movie"
+                    aria-haspopup="dialog"
+                    aria-controls="exclude-dialog"
+                  >
+                    <span class="selection-action-title"
+                      ><span data-icon="ban"></span> Exclude movie</span
+                    >
+                    <span class="selection-action-hint">Choose a reason</span>
+                  </button>
+                </div>
                 <p class="pick-hint" id="pick-hint">
                   <kbd>Space</kbd> for a little serendipity
                 </p>
@@ -445,8 +469,14 @@
           <option value="seen_elsewhere">Already seen elsewhere</option>
         </select></label
       >
-      <p class="small-copy">You can bring it back from Excluded anytime.</p>
-      <button class="button primary" id="confirm-exclude">Exclude movie</button>
+      <p class="small-copy">
+        Removes this film from your picks and keeps it out of the pool.
+        You can bring it back from Excluded anytime.
+      </p>
+      <div class="dialog-actions">
+        <button class="button secondary" id="cancel-exclude">Cancel</button>
+        <button class="button primary" id="confirm-exclude">Exclude movie</button>
+      </div>
     </dialog>
     <dialog
       id="confirm-dialog"

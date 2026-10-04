@@ -24,6 +24,7 @@ Or open `local.html` in Chrome. Everything needed to pick movies is already buil
 - Random picks with a 2.75-second poster reveal (blur to clear, then a slide into place), a reduced-motion option, and a Space shortcut.
 - Era, runtime, IMDb rating, and certificate filters, plus four quick presets.
 - Separate picked, saved, and watched lists. Picking a movie does **not** mark it watched.
+- After a pick, **Undo selection** removes it from recent picks and returns to the opening screen so the film can be picked again. **Exclude movie** offers all exclusion categories, removes it from picks, and keeps it out of the pool. Both controls sit below the pick button; saved movies and watched markers are preserved.
 - No repeated picks by default. Watched and excluded movies stay out of the random pool.
 - A searchable exclusions library with category and source filters, sorting, pagination, individual/bulk restore, and undo. Original exclusions remain active until explicitly restored.
 - Movie posters and descriptions hidden behind a Reveal description button, from the corresponding Wikipedia articles, with source links and a title-based fallback when artwork is unavailable.
