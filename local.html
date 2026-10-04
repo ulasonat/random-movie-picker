@@ -6,12 +6,13 @@
     <meta name="theme-color" content="#f8f6f1" />
     <title>Frame — Your next great film</title>
     <script src="theme.js?v=20260926-1"></script>
-    <link rel="stylesheet" href="styles.css?v=20261004-1" />
+    <link rel="stylesheet" href="styles.css?v=20261004-2" />
     <script src="movies_curated_final.js" defer></script>
     <script src="excluded_movies_curated.js" defer></script>
     <script src="poster_seed.js" defer></script>
-    <script src="movie_core.js" defer></script>
-    <script src="local_app.js?v=20261004-1" defer></script>
+    <script src="streaming_data.js?v=20261004-1" defer></script>
+    <script src="movie_core.js?v=20261004-2" defer></script>
+    <script src="local_app.js?v=20261004-2" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
@@ -220,6 +221,11 @@
                 >
               </div>
             </div>
+            <div
+              class="streaming-availability"
+              id="streaming-availability"
+              hidden
+            ></div>
             <div class="picker-foot">
               <span id="available-count">Loading your collection…</span
               ><button class="text-button" id="reshuffle-pool" hidden>
@@ -252,6 +258,27 @@
                 ↶ Back in time
               </button>
             </div>
+            <div class="filter-fields streaming-fields">
+              <label for="filter-country"
+                >Watching in<select id="filter-country">
+                  <option value="US">United States</option>
+                  <option value="TR">Turkey</option>
+                </select></label
+              >
+              <label for="filter-platform"
+                >Streaming platform<select
+                  id="filter-platform"
+                  aria-describedby="streaming-status"
+                >
+                  <option value="any">Any platform</option>
+                </select></label
+              >
+            </div>
+            <p
+              class="streaming-status"
+              id="streaming-status"
+              aria-live="polite"
+            ></p>
             <div class="filter-fields">
               <label for="filter-decade"
                 >Era<select id="filter-decade">

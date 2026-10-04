@@ -109,6 +109,125 @@ test("combines era, runtime, rating and certificate filters", () => {
   );
 });
 
+test("platform filtering uses verified subscriptions in the selected country", () => {
+  const state = emptyState();
+  const [first, second, unknown] = curated;
+  const entry = (movie, providers) => ({
+    title: movie.title,
+    year: movie.year,
+    providers,
+  });
+  const streaming = {
+    regions: {
+      US: {
+        movies: {
+          [first.id]: entry(first, ["hbo-max", "netflix"]),
+          [second.id]: entry(second, ["netflix"]),
+        },
+      },
+      TR: { movies: { [second.id]: entry(second, ["hbo-max"]) } },
+    },
+  };
+  state.filters.platform = "hbo-max";
+  assert.deepEqual(
+    C.eligibleMovies([first, second, unknown], state, exclusions, streaming),
+    [first],
+  );
+  state.filters.country = "TR";
+  assert.deepEqual(
+    C.eligibleMovies([first, second, unknown], state, exclusions, streaming),
+    [second],
+  );
+  state.filters.platform = "any";
+  assert.equal(
+    C.eligibleMovies([first, second, unknown], state, exclusions, streaming)
+      .length,
+    3,
+  );
+});
+
+test("unknown or stale identities never become platform matches; other rules still apply", () => {
+  const state = emptyState();
+  const movie = curated[0];
+  state.filters.platform = "hbo-max";
+  assert.deepEqual(C.eligibleMovies([movie], state, exclusions), []);
+  const record = {
+    title: movie.title,
+    year: movie.year,
+    providers: ["hbo-max"],
+  };
+  const streaming = { regions: { US: { movies: { [movie.id]: record } } } };
+  assert.equal(
+    C.eligibleMovies([movie], state, exclusions, streaming).length,
+    1,
+  );
+  assert.equal(
+    C.streamingMatch({ ...movie, year: movie.year + 1 }, "US", streaming),
+    null,
+  );
+  assert.equal(
+    C.streamingMatch({ ...movie, title: "Different film" }, "US", streaming),
+    null,
+  );
+  state.picks = [movie.id];
+  assert.deepEqual(C.eligibleMovies([movie], state, exclusions, streaming), []);
+  state.filters.hidePicked = false;
+  assert.equal(
+    C.eligibleMovies([movie], state, exclusions, streaming).length,
+    1,
+  );
+  state.history = [movie.id];
+  assert.deepEqual(C.eligibleMovies([movie], state, exclusions, streaming), []);
+  state.history = [];
+  state.customExcluded[movie.id] = { category: "other" };
+  assert.deepEqual(C.eligibleMovies([movie], state, exclusions, streaming), []);
+  state.customExcluded = {};
+  state.filters.runtime = "90";
+  assert.deepEqual(C.eligibleMovies([movie], state, exclusions, streaming), []);
+});
+
+test("existing history migrates with Any platform; streaming preferences persist", () => {
+  const legacy = C.normalizeState(
+    { picks: [1], saved: [2], filters: { rating: "8" } },
+    byId,
+  );
+  assert.equal(legacy.filters.platform, "any");
+  assert.equal(legacy.filters.country, "US");
+  assert.deepEqual(legacy.picks, [1]);
+  assert.deepEqual(legacy.saved, [2]);
+  legacy.filters.platform = "hbo-max";
+  legacy.filters.country = "TR";
+  assert.deepEqual(
+    C.normalizeState(JSON.parse(JSON.stringify(legacy)), byId),
+    legacy,
+  );
+});
+
+test("bundled streaming snapshot joins real collection identities and regional provider links", () => {
+  const streaming = require("../streaming_data.js");
+  assert.equal(streaming.offerType, "subscription");
+  assert(Number.isFinite(Date.parse(streaming.checkedAt)));
+  for (const [country, region] of Object.entries(streaming.regions)) {
+    const providers = new Set(region.providers.map((provider) => provider.id));
+    assert(Object.keys(region.movies).length > 0);
+    for (const [id, entry] of Object.entries(region.movies)) {
+      const movie = byId.get(Number(id));
+      assert(movie, `Unknown collection ID ${id}`);
+      assert.equal(C.streamingMatch(movie, country, streaming), entry);
+      assert(entry.providers.length > 0);
+      assert(entry.providers.every((provider) => providers.has(provider)));
+      assert(
+        new RegExp(`^/${country.toLowerCase()}/(movie|film)/`).test(entry.path),
+      );
+      assert.match(entry.sourceId, /^tm\d+$/);
+    }
+    const state = emptyState();
+    state.filters.country = country;
+    state.filters.platform = "hbo-max";
+    assert(C.eligibleMovies(movies, state, exclusions, streaming).length > 0);
+  }
+});
+
 test("runtime boundaries and unrated certificates are accurate", () => {
   assert.equal(C.minutes("2h 6m"), 126);
   assert.equal(C.minutes("57m"), 57);

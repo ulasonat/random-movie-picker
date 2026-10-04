@@ -10,6 +10,8 @@
     rating: "0",
     certificate: "any",
     hidePicked: true,
+    country: "US",
+    platform: "any",
   });
   const minutes = (runtime = "") =>
     Number((runtime.match(/(\d+)h/) || [0, 0])[1]) * 60 +
@@ -75,7 +77,23 @@
   const isExcluded = (id, state, sourceExcluded) =>
     Boolean(state.customExcluded[id]) ||
     (sourceExcluded.has(id) && !state.restored.includes(id));
-  function matchesFilters(movie, filters) {
+  function streamingMatch(movie, country, streaming) {
+    const match = streaming?.regions?.[country]?.movies?.[movie.id];
+    return match?.title === movie.title && match?.year === movie.year
+      ? match
+      : null;
+  }
+  function matchesFilters(movie, filters, streaming = null) {
+    if (
+      filters.platform &&
+      filters.platform !== "any" &&
+      !streamingMatch(
+        movie,
+        filters.country || "US",
+        streaming,
+      )?.providers?.includes(filters.platform)
+    )
+      return false;
     const time = minutes(movie.runtime);
     if (filters.decade === "classic" && movie.year >= 1980) return false;
     if (
@@ -99,7 +117,7 @@
       filters.certificate === "any" || movie.certificate === filters.certificate
     );
   }
-  function eligibleMovies(movies, state, sourceExcluded) {
+  function eligibleMovies(movies, state, sourceExcluded, streaming = null) {
     const watched = new Set(state.history),
       picked = new Set(state.picks);
     return movies.filter(
@@ -107,7 +125,7 @@
         !isExcluded(movie.id, state, sourceExcluded) &&
         !watched.has(movie.id) &&
         (!state.filters.hidePicked || !picked.has(movie.id)) &&
-        matchesFilters(movie, state.filters),
+        matchesFilters(movie, state.filters, streaming),
     );
   }
   function randomIndex(length, crypto = globalThis.crypto) {
@@ -129,6 +147,7 @@
     normalizeState,
     isExcluded,
     matchesFilters,
+    streamingMatch,
     eligibleMovies,
     randomIndex,
   };

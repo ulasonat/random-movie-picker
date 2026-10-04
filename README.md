@@ -23,6 +23,7 @@ Or open `local.html` in Chrome. Everything needed to pick movies is already buil
 - Light and dark themes, with a toggle in the header. Frame follows the device theme until a choice is saved, and keeps that choice across visits and open tabs.
 - Random picks with a 2.75-second poster reveal (blur to clear, then a slide into place), a reduced-motion option, and a Space shortcut.
 - Era, runtime, IMDb rating, and certificate filters, plus four quick presets.
+- Streaming-platform filters for the United States and Turkey, including HBO Max, Netflix, Prime Video, Disney+, and other region-specific services. Filters use verified subscription matches; rental/purchase offers are excluded. Mood presets keep the selected platform and country. Reset clears the platform while keeping the country.
 - Separate picked, saved, and watched lists. Picking a movie does **not** mark it watched.
 - After a pick, **Undo selection** removes it from recent picks and returns to the opening screen so the film can be picked again. **Exclude movie** offers all exclusion categories, removes it from picks, and keeps it out of the pool. Both controls sit below the pick button; saved movies and watched markers are preserved.
 - No repeated picks by default. Watched and excluded movies stay out of the random pool.
@@ -39,10 +40,15 @@ Keep opening the same `local.html` file to retain its browser storage. Moving it
 
 Artwork requests send the film title and year to Wikipedia; Google Fonts supplies the typefaces. Both are optional: the app uses local poster samples, title cards, and system fonts if offline. Artwork lookups are cached, limited to three concurrent requests, and never block picking a movie. Wikipedia excerpts and artwork sources are documented in `assets/README.md`.
 
+Streaming availability is a bundled, dated snapshot from [JustWatch](https://www.justwatch.com/). The filter and movie card show the check date and country; each film links to its country-specific JustWatch page (or a search for unmatched films). It works offline and makes no streaming-service requests from the browser. Availability and subscription tiers can change. Missing/ambiguous title matches remain unverified and appear with **Any platform**, not as confirmed unavailable titles. Only positive subscription matches for the listed services enter a platform-filtered pool.
+
+Refresh the snapshot with `python3 scripts/build_streaming_data.py`, then publish `streaming_data.js`. The script uses JustWatch's public web catalogue without credentials, checks title and release year against the curated collection and restorable exclusions, rejects ambiguous matches, and atomically replaces the snapshot only after both countries finish. It requests titles with at least 10,000 IMDb votes and a 6.0 rating (wider than the collection's original 50,000/6.5 criteria); films absent from this source subset remain unknown. The public web endpoint is not a supported partner API and may change; failed/incomplete refreshes preserve the old file. Refreshes are manual, not scheduled.
+
 ## Files
 
 - `local.html`, `styles.css`, `local_app.js`, `theme.js`: interface and browser behavior.
 - `movie_core.js`: collection rules, filter matching, state migration, and search URL construction.
+- `streaming_data.js`, `scripts/build_streaming_data.py`: dated country/platform subscription matches and their refresh script.
 - `movies_curated_final.js`: the existing 2,206-film curated pool.
 - `excluded_movies_curated.js`: the 449 source exclusions.
 - `poster_seed.js`, `assets/`: four local poster examples and their article metadata.

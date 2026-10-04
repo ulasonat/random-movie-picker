@@ -1,6 +1,7 @@
 (() => {
   "use strict";
   const Core = window.MovieCore;
+  const streaming = window.STREAMING_DATA || null;
   const $ = (id) => document.getElementById(id);
   const categories = new Map([
     ["horror", "Horror"],
@@ -144,7 +145,100 @@
   }
   const currentMovie = () => movieById.get(state.currentId);
   const isExcluded = (id) => Core.isExcluded(id, state, sourceExcluded);
-  const eligible = () => Core.eligibleMovies(movies, state, sourceExcluded);
+  const eligible = () =>
+    Core.eligibleMovies(movies, state, sourceExcluded, streaming);
+  const streamingRegion = () => streaming?.regions?.[state.filters.country];
+  function justWatchLink(url, label = "JustWatch ↗") {
+    const link = node("a", "", label);
+    link.href = url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    return link;
+  }
+  function streamingDate() {
+    return new Date(streaming.checkedAt).toLocaleDateString(undefined, {
+      year: "numeric",
+      month: "short",
+      day: "numeric",
+    });
+  }
+  function syncPlatforms() {
+    const select = $("filter-platform");
+    const region = streamingRegion();
+    select.replaceChildren(new Option("Any platform", "any"));
+    for (const provider of region?.providers || [])
+      select.add(new Option(provider.name, provider.id));
+    if (
+      ![...select.options].some(
+        (option) => option.value === state.filters.platform,
+      )
+    ) {
+      if (!region && state.filters.platform !== "any")
+        select.add(
+          new Option(
+            "Selected platform · data unavailable",
+            state.filters.platform,
+          ),
+        );
+      else state.filters.platform = "any";
+    }
+    select.value = state.filters.platform;
+  }
+  function renderStreamingStatus() {
+    const region = streamingRegion();
+    const status = $("streaming-status");
+    status.replaceChildren();
+    if (!region) {
+      status.textContent =
+        "Streaming data is unavailable. Choose Any platform to browse your full collection.";
+      return;
+    }
+    const stale = Date.now() - Date.parse(streaming.checkedAt) > 14 * 86400000;
+    status.append(
+      document.createTextNode(
+        `Subscription matches only; some titles may be missing. Checked ${streamingDate()} · `,
+      ),
+      justWatchLink(
+        `https://www.justwatch.com/${state.filters.country.toLowerCase()}`,
+      ),
+    );
+    if (stale)
+      status.append(document.createTextNode(" Availability may have changed."));
+  }
+  function renderStreamingMovie() {
+    const root = $("streaming-availability");
+    const movie = currentMovie();
+    root.hidden = !movie;
+    root.replaceChildren();
+    if (!movie) return;
+    const region = streamingRegion();
+    const country = state.filters.country === "TR" ? "Turkey" : "United States";
+    const match = Core.streamingMatch(movie, state.filters.country, streaming);
+    const providers = (region?.providers || [])
+      .filter((provider) => match?.providers.includes(provider.id))
+      .map((provider) => provider.name);
+    if (providers.length) {
+      root.append(
+        node("span", "", `Included with · ${country}`),
+        node("strong", "", providers.join(" · ")),
+        node("span", "", `Checked ${streamingDate()}`),
+      );
+    } else {
+      root.append(
+        node("span", "", `Subscription availability unverified in ${country}.`),
+      );
+    }
+    const base = `https://www.justwatch.com/${state.filters.country.toLowerCase()}`;
+    const path = match?.path;
+    const url =
+      path &&
+      new RegExp(`^/${state.filters.country.toLowerCase()}/(movie|film)/`).test(
+        path,
+      )
+        ? `https://www.justwatch.com${path}`
+        : `${base}/search?q=${encodeURIComponent(`${movie.title} ${movie.year}`)}`;
+    root.append(justWatchLink(url, "Check on JustWatch ↗"));
+  }
   const cacheKey = (movie) => `${movie.title}|${movie.year}`;
   function cachePoster(movie, value) {
     posterCache.set(cacheKey(movie), value);
@@ -323,6 +417,7 @@
   }
   function renderCurrent() {
     const movie = currentMovie();
+    renderStreamingMovie();
     const hasMovie = Boolean(movie);
     $("poster-collage").hidden = hasMovie;
     $("main-poster").hidden = !hasMovie;
@@ -442,12 +537,15 @@
   }
   function renderCounts() {
     const count = eligible().length;
+    renderStreamingStatus();
     const pool = movies.filter((movie) => !isExcluded(movie.id)).length;
     const excluded = movies.length - pool;
     $("pool-count").textContent = pool.toLocaleString();
     $("available-count").textContent = count
       ? `${count.toLocaleString()} films fit your mood`
-      : "No films match. Try widening your filters.";
+      : state.filters.platform !== "any"
+        ? "No verified subscription matches. Try another platform or wider filters."
+        : "No films match. Try widening your filters.";
     $("filter-count").textContent = count.toLocaleString();
     document.querySelector(".foot-note").textContent = state.filters.hidePicked
       ? "Good taste. No repeats."
@@ -789,6 +887,10 @@
     if (activeView === "library") renderLibrary();
   }
   function syncFilters() {
+    if (!["US", "TR"].includes(state.filters.country))
+      state.filters.country = "US";
+    $("filter-country").value = state.filters.country;
+    syncPlatforms();
     for (const key of ["decade", "runtime", "rating", "certificate"])
       $(`filter-${key}`).value = state.filters[key];
     $("hide-picked").checked = state.filters.hidePicked;
@@ -1145,6 +1247,18 @@
       save();
       renderCounts();
     };
+  $("filter-platform").onchange = (event) => {
+    state.filters.platform = event.target.value;
+    save();
+    renderCounts();
+  };
+  $("filter-country").onchange = (event) => {
+    state.filters.country = event.target.value;
+    syncPlatforms();
+    save();
+    renderCounts();
+    renderStreamingMovie();
+  };
   $("hide-picked").onchange = (event) => {
     state.filters.hidePicked = event.target.checked;
     save();
@@ -1160,7 +1274,10 @@
     renderCurrent();
   };
   $("reset-filters").onclick = () => {
-    state.filters = Core.defaultFilters();
+    state.filters = {
+      ...Core.defaultFilters(),
+      country: state.filters.country,
+    };
     syncFilters();
     save();
     renderCounts();
@@ -1171,6 +1288,8 @@
         state.filters = {
           ...Core.defaultFilters(),
           hidePicked: state.filters.hidePicked,
+          country: state.filters.country,
+          platform: state.filters.platform,
         };
         if (button.dataset.preset === "quick") state.filters.runtime = "90";
         if (button.dataset.preset === "great") state.filters.rating = "8";
